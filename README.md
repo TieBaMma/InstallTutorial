@@ -84,6 +84,6 @@
 
 本项目使用 [Jekyll](https://jekyllrb.com/)，由 GitHub Pages 自动生成网站。
 
-本项目使用 Jason Long 制作的 [Cayman theme](https://github.com/jasonlong/cayman-theme)，[修改了部分样式](css\cayman-patch.css)。
+本项目使用 Jason Long 制作的 [Cayman theme](https://github.com/jasonlong/cayman-theme)，[修改了部分样式](css/cayman-patch.css)。
 
 本项目使用 Vladimir Jimenez 制作的 allejo/jekyll-toc@204bd5c66952a2c214c86212b342d417c7edae80 来生成 Table of Contents。

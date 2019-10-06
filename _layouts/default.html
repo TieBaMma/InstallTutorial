@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    {% include page-header.html %}
+<body>
+  {% include page-header.html %}
+
+  <section class="main-content">
 
     {% include toc.html h_min=2 id="toc" sanitize=true html=content %}
 
-    <section class="main-content">
+    {{ content }}
 
-      {{ content }}
+    {% include page-footer.html %}
 
-      {% include page-footer.html %}
+  </section>
 
-    </section>
+</body>
 
-  </body>
 </html>
