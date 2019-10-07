@@ -8,7 +8,12 @@
 
   <section class="main-content">
 
-    {% include toc.html h_min=2 id="toc" sanitize=true html=content %}
+    <details>
+      <summary>目录</summary>
+
+      {% include toc.html h_min=2 id="toc" sanitize=true html=content %}
+
+    </details>
 
     {{ content }}
 
