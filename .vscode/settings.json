@@ -1,0 +1,48 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?，。？！…（）【】、；：‘’“”《》_",
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "breadcrumbs.enabled": true,
+    "markdown.extension.italic.indicator": "*",
+    "markdown.extension.print.absoluteImgPath": false,
+    "markdown.extension.toc.githubCompatibility": true,
+    "markdown.extension.toc.unorderedList.marker": "*",
+    "html.format.wrapLineLength": 0,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "markdownlint.config": {
+        "MD003": {
+            "style": "atx"
+        },
+        "MD004": {
+            "style": "asterisk"
+        },
+        "MD013": false,
+        "MD025": {
+            "front_matter_title": ""
+        },
+        "MD026": {
+            "punctuation": ".,;:!。，；：！"
+        },
+        "MD028": false,
+        "MD033": {
+            "allowed_elements": [
+                "del",
+                "ins",
+                "kbd",
+                "details",
+                "summary"
+            ]
+        },
+        "MD035": {
+            "style": "---"
+        },
+        "MD036": false
+    }
+}

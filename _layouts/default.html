@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+
+{% include head.html %}
+
+<body>
+  {% include page-header.html %}
+
+  <section class="main-content">
+
+    <details>
+      <summary>目录</summary>
+
+      {% include toc.html h_min=2 id="toc" sanitize=true html=content %}
+
+    </details>
+
+    {{ content }}
+
+    {% include page-footer.html %}
+
+  </section>
+
+</body>
+
+</html>

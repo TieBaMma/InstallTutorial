@@ -1,0 +1,22 @@
+# Setup
+title: "Mathematica 激活指南"
+tagline: "Mathematica 的安装、激活、入门、常见问题"
+baseurl: "/InstallTutorial"
+paginate: 1
+locale: "zh-Hans"
+
+# Contact
+author:
+  name: "TieBaMma"
+  url: "https://github.com/TieBaMma"
+repourl: "https://github.com/TieBaMma/InstallTutorial"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+# Markdown options
+markdown: kramdown
+
+# Others
+exclude: [README.md]

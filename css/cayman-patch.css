@@ -1,0 +1,82 @@
+/*!
+ * Modifications to Cayman theme for accessibility
+ *
+ * Copyright (c) Lemming
+ * Released under the MIT License.
+ * https://github.com/Lemmingh
+ */
+
+.main-content {
+  color: black;
+}
+
+.main-content blockquote {
+  color: #606c71;
+}
+
+.main-content h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  border-top: 1px solid #eaecef;
+  padding-top: 0.3em;
+}
+
+.main-content a {
+  text-decoration: underline dashed;
+}
+
+blockquote strong {
+  color: crimson;
+}
+
+/* ! Caution: We override any other rules on `font-family` here. */
+code,
+kbd,
+pre,
+samp {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Droid Sans Mono", "Courier New",
+    "Sarasa Mono T SC", "SimHei", monospace, "Droid Sans Fallback" !important;
+}
+
+details summary {
+  cursor: pointer;
+  display: list-item;
+  text-decoration: underline dashed;
+}
+
+/* Based on https://github.githubassets.com/assets/github-89d9d3c9d19ddf234d9355a9ff50bcbd.css */
+
+kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-weight: 700;
+  line-height: 0.7em;
+  padding: 3px 5px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* Based on https://interactive-examples.mdn.mozilla.net/pages/tabbed/del.html */
+
+del {
+  text-decoration: line-through;
+  background-color: #fbb;
+  color: #555;
+}
+
+ins {
+  text-decoration: none;
+  background-color: #d4fcbc;
+}
