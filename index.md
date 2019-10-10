@@ -19,7 +19,7 @@ title: {{ site.title }}
 提取码: `skr5`
 
 [Linux版（蓝奏云）](https://www.lanzous.com/b00n4te9a/)（由于蓝奏云限制 请自己删除文件后缀名最后的.e）
-密码:dn3c
+密码：`dn3c`
 
 Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.com/kb/45743)。
 
