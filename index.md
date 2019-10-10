@@ -13,7 +13,9 @@ title: {{ site.title }}
 
 此外，在近期，Wolfram 推出了**免费**的 **Wolfram Engine for developers**。此软件实质上就是一个**没有笔记本界面也没有本地自带帮助**的 Mathematica。但是，再强调一次，它是**免费**的！ 并且，虽然自带笔记本被锁了，但你可以[用 Jupiter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)啊。总之，Windows 版的链接在这里（其他版本暂时没人传……）：
 
-链接: [Windows 版（百度盘）](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw)
+链接: 
+
+[Windows 版（百度盘）](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw)
 提取码: `skr5`
 
 [Linux版（蓝奏云）](https://www.lanzous.com/b00n4te9a/)（由于蓝奏云限制 请自己删除文件后缀名最后的.e）
