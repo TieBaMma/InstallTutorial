@@ -205,6 +205,8 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 [MMA 5.0 英文版](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9` （WinXP可用。）
 
+[MMA 4.1 英文版](https://pan.baidu.com/s/1FrZSuxlO4CULYIRfyhLa-Q) 提取码：`hcqq` （WinXP可用。）
+
 [MMA 3.0 英文版](https://pan.baidu.com/s/1hscUVwo) 提取码: `n73z` （WinXP可用。）
 
 [MMA 2.1 英文版（Win3.1版）](https://pan.baidu.com/s/1RkmZUQxYxDMfV2sfe5HZsg) 提取码：`p7o2` （IMG格式软盘镜像，可以装在WMWare的Win98虚拟机上。）
