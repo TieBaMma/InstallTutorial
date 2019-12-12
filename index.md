@@ -203,11 +203,13 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 [MMA 7.0 中文版](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig)，提取码 `axir`。注意，中文文档需要手动覆盖，搞不清怎么覆盖的就用高版本！
 
-[MMA 5.0 英文版](http://bbs.pinggu.org/thread-333503-1-1.html)
+[MMA 5.0 英文版](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9` （WinXP可用。）
 
-[MMA 3.0 英文版](https://pan.baidu.com/s/1hscUVwo) 密码: `n73z`
+[MMA 3.0 英文版](https://pan.baidu.com/s/1hscUVwo) 提取码: `n73z` （WinXP可用。）
 
-[MMA 1.2 英文版](https://pan.baidu.com/s/1eRMJX54) 密码: `ihbx`
+[MMA 2.1 英文版（Win3.1版）](https://pan.baidu.com/s/1RkmZUQxYxDMfV2sfe5HZsg) 提取码：`p7o2` （IMG格式软盘镜像，可以装在WMWare的Win98虚拟机上。）
+
+[MMA 1.2 英文版（DOS版）](https://pan.baidu.com/s/1eRMJX54) 提取码: `ihbx` （FLP格式VMWare软盘镜像，可以装在WMWare的Win98虚拟机上，并且似乎硬盘至少要两个分区，否则画不了图。）
 
 至于有版本收藏癖好的朋友，请自己去网上找吧。
 
