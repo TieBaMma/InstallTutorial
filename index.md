@@ -94,8 +94,8 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 [Mathematica 12.0 中文版（Win版）](https://pan.baidu.com/s/1_X6Qf9722bo7nV-eI_kY_Q)
 提取码: `fhtc`
 
-[Mathematica 12.0 中文版（Mac版）](https://pan.baidu.com/s/10GkN3ByUZsX08ldvxZ6yPA)
-提取码: `k97i`
+[Mathematica 12.0 中文版（Mac版）](https://pan.baidu.com/s/18M5m9qBKyrNQNfm0xcvd8Q)
+提取码: `1234`
 
 [Mathematica 12.0.0 英文版 (Win版 + Mac版 + Linux版 + 破解工具 + 防止破解工具一回车就关的命令行)，百度盘链接](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码: `cz8n`
 
