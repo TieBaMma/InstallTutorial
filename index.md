@@ -6,7 +6,7 @@ title: {{ site.title }}
 # Mathematica 激活指南
 
 首先还是要强调一句：
-**用盗版是不得已的，大家有能力的话还是要支持正版（学生版50美元——最外层页面写的确实是$150，但是你进入购买页面就会变成$50了）！**
+**用盗版是不得已的，大家有能力的话还是要支持正版（学生版80美元——最外层页面写的确实是$161，但是你[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成$80了）！**
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
 ---
