@@ -11,15 +11,17 @@ title: {{ site.title }}
 
 ---
 
-此外，在近期，Wolfram 推出了**免费**的 **Wolfram Engine for developers**。此软件实质上就是一个**没有笔记本界面也没有本地自带帮助**的 Mathematica。但是，再强调一次，它是**免费**的！ 并且，虽然自带笔记本被锁了，但你可以[用 Jupiter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)啊。总之，Windows 版的链接在这里（其他版本暂时没人传……）：
+此外，在近期，Wolfram 推出了**免费**的 **Wolfram Engine for developers**。此软件实质上就是一个**没有笔记本界面也没有本地自带帮助**的 Mathematica。但是，再强调一次，它是**免费**的！ 并且，虽然自带笔记本被锁了，但你可以[用 Jupiter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)啊。总之，Windows 版和 Linux 版的链接在这里（Mac版暂时没人传……）：
 
 链接:
 
-[Windows 版（百度盘）](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw)
+Windows 版 [百度盘](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw) 
 提取码: `skr5`
 
-[Linux版（蓝奏云）](https://www.lanzous.com/b00n4te9a/)（由于蓝奏云限制 请自己删除文件后缀名最后的.e）
-密码：`dn3c`
+Linux版
+[百度盘](https://pan.baidu.com/s/1qX5Z36w3SoSFCEsGSGqP9g) 提取码：`rw3a`
+/ [蓝奏云（分卷）](https://www.lanzous.com/b00n4te9a/) 密码：`dn3c` 
+/ [Sharepoint](https://hii9w-my.sharepoint.com/:u:/g/personal/richard_liu_233455_xyz/EVPw9cN-UltGgGotCAOYVLYBjZdluPfngX5y96JpvyO8zA?e=NlPwuc)
 
 Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.com/kb/45743)。
 
@@ -47,6 +49,8 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 > * Linux/macOS 可用 Unix utility `md5sum`；
 > * Windows 可用 PowerShell 的 `Get-FileHash -Algorithm MD5`。
 
+对于正版用户，可以尝试向经销商或Wolfram客服人员索要直接下载链接。
+
 **以下地址均未失效，异常只是百度盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
 
 > **注意**
@@ -56,6 +60,8 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 > ---
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+>
+> 版本11.1之后的中文帮助文档包及安装方法可以前往 <http://tieba.baidu.com/p/5696398243> 查看。
 >
 > ---
 >
@@ -90,6 +96,8 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 > 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+>
+> 可以在 [这里](http://tieba.baidu.com/p/5696398243) 下载中文帮助文档包（Linux&Mac均适用）。
 
 [Mathematica 12.0 中文版（Win版）](https://pan.baidu.com/s/1_X6Qf9722bo7nV-eI_kY_Q)
 提取码: `fhtc`
@@ -139,7 +147,7 @@ Mathematica 11.3.0 英文版 (Win + Linux + Mac + 破解工具)，磁力链接�
 magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 ```
 
-11.3 的中文帮助可在 <http://tieba.baidu.com/p/5696398243> 找到。
+11.1\~11.3 的中文帮助可在 <http://tieba.baidu.com/p/5696398243> 找到。
 
 ### Mathematica 10.4
 
