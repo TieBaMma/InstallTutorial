@@ -76,7 +76,7 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 
 ### Mathematica 12.1
 
-[Mathematica 12.1.0 英文版 (Win 版 ) OneDrive 链接](http://wxyh.233baidu.com/yunpan/?/software/mma12.1 英文/)
+[Mathematica 12.1.0 英文版 (Win 版 ) OneDrive 链接](http://wxyh.233baidu.com/yunpan/?/software/mma12.1%E8%8B%B1%E6%96%87/)
 
 [Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
 
