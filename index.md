@@ -23,11 +23,11 @@ Linux版
 / [蓝奏云（分卷）](https://www.lanzous.com/b00n4te9a/) 密码：`dn3c` 
 / [Sharepoint](https://hii9w-my.sharepoint.com/:u:/g/personal/richard_liu_233455_xyz/EVPw9cN-UltGgGotCAOYVLYBjZdluPfngX5y96JpvyO8zA?e=NlPwuc)
 
-Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.com/kb/45743)。
+Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram.com/kb/45743)。
 
 ---
 
-[百度贴吧](http://tieba.baidu.com/f?kw=mathematica)里的帖子不能编辑，很不方便。
+[百度贴吧](http://tieba.baidu.com/f?kw=mathematica) 里的帖子不能编辑，很不方便。
 
 但大家<del>在注册失败这事上可以说是拥有无穷的创造力</del>，注册过程又会出现新的问题。故开此文档，整理注册激活 Mathematica 过程及注册过程中可能碰到的问题。大家以后注册时如果出现新的问题，欢迎补充整理。
 
@@ -81,6 +81,16 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 > 4. 早期 Mathematica 的自带文档非常简略。
 > 5. [绘图和动画等功能在版本 6 时有过重大修改](https://note.youdao.com/noteshare?id=0c2719208239696d61182199327bd38c)。
 
+### Mathematica 12.1
+
+[Mathematica 12.1.0 英文版 (Win 版 ) OneDrive 链接](http://wxyh.233baidu.com/yunpan/?/software/mma12.1%E8%8B%B1%E6%96%87/)
+
+[Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
+
+[Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
+
+> 经测试支持 12.1 的激活
+
 ### Mathematica 12.0
 
 > **警告**
@@ -99,13 +109,14 @@ Wolfram Engine 的激活方法可参考[官网的介绍](http://support.wolfram.
 >
 > 可以在 [这里](http://tieba.baidu.com/p/5696398243) 下载中文帮助文档包（Linux&Mac均适用）。
 
-[Mathematica 12.0 中文版（Win版）](https://pan.baidu.com/s/1_X6Qf9722bo7nV-eI_kY_Q)
-提取码: `fhtc`
+[Mathematica 12.0 中文版（Win 版）](https://pan.baidu.com/s/1_X6Qf9722bo7nV-eI_kY_Q)
+提取码：`fhtc`
 
-[Mathematica 12.0 中文版（Mac版）](https://pan.baidu.com/s/18M5m9qBKyrNQNfm0xcvd8Q)
-提取码: `1234`
+[Mathematica 12.0 中文版（Mac 版）](https://pan.baidu.com/s/18M5m9qBKyrNQNfm0xcvd8Q)
+提取码：`1234`
 
-[Mathematica 12.0.0 英文版 (Win版 + Mac版 + Linux版 + 破解工具 + 防止破解工具一回车就关的命令行)，百度盘链接](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码: `cz8n`
+
+[Mathematica 12.0.0 英文版 (Win 版 + Mac 版 + Linux 版 + 破解工具 + 防止破解工具一回车就关的命令行），百度盘链接](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n`
 
 磁力链接
 
@@ -125,23 +136,23 @@ magnet:?xt=urn:btih:8a7dfb91ab64e034b51c9f8573eac905243708e7&dn=Mathematica 12.0
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
 
-Mathematica 11.3.0 中文版 (Win版 + 破解工具)，磁力链接：
+Mathematica 11.3.0 中文版 (Win 版 + 破解工具），磁力链接：
 
 ```uri
 magnet:?xt=urn:btih:29de7b51d85fa418c0af9812fd127a5acad158bd
 ```
 
-[MMA 11.3.0 中文版 Win版，百度盘](https://pan.baidu.com/s/1SPqELlJYaLwgsJRLbMg8OA) 密码: `3nem`
+[MMA 11.3.0 中文版 Win 版，百度盘](https://pan.baidu.com/s/1SPqELlJYaLwgsJRLbMg8OA) 密码：`3nem`
 
-Mathematica 11.3.0 中文版 (Mac版 + 破解工具)，磁力链接：
+Mathematica 11.3.0 中文版 (Mac 版 + 破解工具），磁力链接：
 
 ```uri
 magnet:?xt=urn:btih:b60c78d79a57b1fdb6d891d54dbf691cfbcff99c
 ```
 
-[MMA 11.3.0 中文版 Mac版，百度盘](https://pan.baidu.com/s/1Imn6SLCnzDlBIifTHjoOKw) 密码: `7si9`
+[MMA 11.3.0 中文版 Mac 版，百度盘](https://pan.baidu.com/s/1Imn6SLCnzDlBIifTHjoOKw) 密码：`7si9`
 
-Mathematica 11.3.0 英文版 (Win + Linux + Mac + 破解工具)，磁力链接：
+Mathematica 11.3.0 英文版 (Win + Linux + Mac + 破解工具），磁力链接：
 
 ```uri
 magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
@@ -159,13 +170,13 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 对于最新的 版本 10 中文版，自版本 9.0.1 持续至今的中文帮助搜索能力退化问题已经得到了解决。（10.3.0 版本时，部分电脑需要使用 <http://tieba.baidu.com/p/4172398243> 中的方法进行修复，10.3.1 后似乎已无此问题）
 
-[MMA 10.4.1 中文版](http://pan.baidu.com/s/1o8NEPei) 密码: `wx9u`
+[MMA 10.4.1 中文版](http://pan.baidu.com/s/1o8NEPei) 密码：`wx9u`
 
 [MMA 10.4 英文版](http://pan.baidu.com/s/1jHbldtG)
 
-[MMA 10.4 英文版（Linux版）](http://pan.baidu.com/s/1kUrz2qr)（前面已经说了 Linux 版没中文）
+[MMA 10.4 英文版（Linux 版）](http://pan.baidu.com/s/1kUrz2qr)（前面已经说了 Linux 版没中文）
 
-[MMA 10.4 英文版（Mac版）](http://pan.baidu.com/s/1i3RfiNb)
+[MMA 10.4 英文版（Mac 版）](http://pan.baidu.com/s/1i3RfiNb)
 
 [CDF Player 10.3.1 英文版](http://pan.baidu.com/s/1i4kFX7v)
 
@@ -173,7 +184,7 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 > **警告**
 >
-> 版本9 的注册是历代最烦，并且有中文帮助搜索能力退化的问题，不推荐使用。
+> 版本 9 的注册是历代最烦，并且有中文帮助搜索能力退化的问题，不推荐使用。
 
 > **注意**
 >
@@ -214,15 +225,15 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 [MMA 7.0 中文版](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig)，提取码 `axir`。注意，中文文档需要手动覆盖，搞不清怎么覆盖的就用高版本！
 
-[MMA 5.0 英文版](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9` （WinXP可用。）
+[MMA 5.0 英文版](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9` （WinXP 可用。）
 
-[MMA 4.1 英文版](https://pan.baidu.com/s/1FrZSuxlO4CULYIRfyhLa-Q) 提取码：`hcqq` （WinXP可用。）
+[MMA 4.1 英文版](https://pan.baidu.com/s/1FrZSuxlO4CULYIRfyhLa-Q) 提取码：`hcqq` （WinXP 可用。）
 
-[MMA 3.0 英文版](https://pan.baidu.com/s/1hscUVwo) 提取码: `n73z` （WinXP可用。）
+[MMA 3.0 英文版](https://pan.baidu.com/s/1hscUVwo) 提取码：`n73z` （WinXP 可用。）
 
-[MMA 2.1 英文版（Win3.1版）](https://pan.baidu.com/s/1RkmZUQxYxDMfV2sfe5HZsg) 提取码：`p7o2` （IMG格式软盘镜像，可以装在WMWare的Win98虚拟机上。）
+[MMA 2.1 英文版（Win3.1 版）](https://pan.baidu.com/s/1RkmZUQxYxDMfV2sfe5HZsg) 提取码：`p7o2` （IMG 格式软盘镜像，可以装在 WMWare 的 Win98 虚拟机上。）
 
-[MMA 1.2 英文版（DOS版）](https://pan.baidu.com/s/1eRMJX54) 提取码: `ihbx` （FLP格式VMWare软盘镜像，可以装在WMWare的Win98虚拟机上，并且似乎硬盘至少要两个分区，否则画不了图。）
+[MMA 1.2 英文版（DOS 版）](https://pan.baidu.com/s/1eRMJX54) 提取码：`ihbx` （FLP 格式 VMWare 软盘镜像，可以装在 WMWare 的 Win98 虚拟机上，并且似乎硬盘至少要两个分区，否则画不了图。）
 
 至于有版本收藏癖好的朋友，请自己去网上找吧。
 
@@ -244,7 +255,7 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 **注册机会被杀软误报是常识，还是，吓不住的请买正版，购买方法在本文开头。**
 
-**Windows 10 自带的杀软（Windows Defender）会将版本10 以上版本的注册机直接干掉。解压前，请打开 Windows Defender 设置，将解压路径从那个杀软的查杀路径里排除出去（Exclusions），或者暂停 Real-time protection。**
+**Windows 10 自带的杀软（Windows Defender）会将版本 10 以上版本的注册机直接干掉。解压前，请打开 Windows Defender 设置，将解压路径从那个杀软的查杀路径里排除出去（Exclusions），或者暂停 Real-time protection。**
 
 **以下地址均未失效，异常只是百度盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
 
@@ -253,15 +264,15 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 版本 12 的注册机（同时适用于中文版及英文版）已经附在上面的下载链里了！
 注意，这次又是一回车就会关的命令行了，也就是说这个注册机**不能直接双击打开**！不知道怎么开这个注册机的请使用附带的批处理文件（就那个扩展名为 `.bat` 的东西）。用法已经写在文件名上了！再强调一遍，再问注册机为什么关的**删+封十天**！
 
-[MMA 11.3 注册机](https://pan.baidu.com/s/1zCO8b5KCqCM61RMzcD_ILg) 密码: `94kn`
+[MMA 11.3 注册机](https://pan.baidu.com/s/1zCO8b5KCqCM61RMzcD_ILg) 密码：`94kn`
 （这个是 HTML 的注册机，不需要用命令行打开。注意这个注册机需要你在第二个框**随便按××××-××××-××××××的格式**输入一个激活密钥（Activation Key）！还有这个密钥必须要填回软件里！还有，第一个框当然也要填！如果不知道该填什么的话请参考下文！）
 
 [MMA 10.4 注册机](http://pan.baidu.com/s/1dF8xg0h)
-（此注册机可以完全注册 10.4.0 及 10.4.1 中英文版。这个注册机是**不能直接双击打开**的！ 不要再抱怨什么“回车完注册机就关了”！请在命令行下使用。也就是说，请打开命令行然后调用这个注册机。 不明白什么叫“打开命令行然后调用这个注册机”的<del>请乖乖用版本8的注册机多试几次</del> 请下载[这个批处理文件（密码: `uh59`）](https://pan.baidu.com/s/1HR2bwacizkNrPRmYi1Kmvw)， 用法已经写在文件名上了。还有，密码里的 ::1 也是密码的一部分！）（此注册机生成的 Key 每回都是1234-4321-123456， 不要大惊小怪！重要的是那个密码！还有“1234-4321-123456”中间的横杠也是 Key 的一部分，不要擅自去掉！）
+（此注册机可以完全注册 10.4.0 及 10.4.1 中英文版。这个注册机是**不能直接双击打开**的！ 不要再抱怨什么“回车完注册机就关了”！请在命令行下使用。也就是说，请打开命令行然后调用这个注册机。 不明白什么叫“打开命令行然后调用这个注册机”的<del>请乖乖用版本 8 的注册机多试几次</del> 请下载 [这个批处理文件（密码：`uh59`）](https://pan.baidu.com/s/1HR2bwacizkNrPRmYi1Kmvw)， 用法已经写在文件名上了。还有，密码里的 ::1 也是密码的一部分！）（此注册机生成的 Key 每回都是 1234-4321-123456， 不要大惊小怪！重要的是那个密码！还有“1234-4321-123456”中间的横杠也是 Key 的一部分，不要擅自去掉！）
 
-> <del>[新版注册机（可用于版8，9，10）下载地址](http://pan.baidu.com/share/link?shareid=188221&uk=1661347987)（注意注册版本9时需要多试几次，下详。版本10亦可使用本注册机，但需试很多次，成功率极低。）</del>可用于8，9，10版的新版注册机下载地址现已失效，且吧主电脑里没存档，故暂时无法补档，手里有这个注册机的童鞋欢迎补上。不过，看了本教程的你应该也注意到了，这个新版注册机其实并不好使。对版本8，新旧注册机没区别，对版本9，部分计算机可能没法用新注册机注册，还不如用旧版，也就多一道手续；更何况——这里再强调一遍——版本9的自带帮助有搜索能力退化的问题，新手别用！
+> <del>[新版注册机（可用于版 8，9，10）下载地址](http://pan.baidu.com/share/link?shareid=188221&uk=1661347987)（注意注册版本 9 时需要多试几次，下详。版本 10 亦可使用本注册机，但需试很多次，成功率极低。）</del>可用于 8，9，10 版的新版注册机下载地址现已失效，且吧主电脑里没存档，故暂时无法补档，手里有这个注册机的童鞋欢迎补上。不过，看了本教程的你应该也注意到了，这个新版注册机其实并不好使。对版本 8，新旧注册机没区别，对版本 9，部分计算机可能没法用新注册机注册，还不如用旧版，也就多一道手续；更何况——这里再强调一遍——版本 9 的自带帮助有搜索能力退化的问题，新手别用！
 >
-> [旧版注册机（可用于版8，9，10）下载地址](http://pan.baidu.com/s/1eQGtvF0) （注意注册版本9时需要多试几次，下详。已证实部分计算机必须使用旧版注册机才能完全注册版本9。使用这个注册机注册版本9时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本10亦可使用本注册机，但需试很多次，成功率极低。）
+> [旧版注册机（可用于版 8，9，10）下载地址](http://pan.baidu.com/s/1eQGtvF0) （注意注册版本 9 时需要多试几次，下详。已证实部分计算机必须使用旧版注册机才能完全注册版本 9。使用这个注册机注册版本 9 时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本 10 亦可使用本注册机，但需试很多次，成功率极低。）
 >
 > 注意，这两个注册机运行需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)，如果下载下来不能运行注册机，请下载 [VC2010 运行库](http://pan.baidu.com/share/link?shareid=386759&uk=1661347987)。
 
@@ -286,9 +297,9 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 ![4](http://ww4.sinaimg.cn/large/a15b4afegw1f7gulg7i3hj208h0b2gmm)
 
 注意：图中所示的是老版注册机的界面，它的 Activation Key 的格式是
-`4位数字-4位数字-5位字母`，或者里面有 `::1`。
+`4 位数字-4 位数字-5 位字母`，或者里面有 `::1`。
 
-使用新版注册机算出来的 Activation Key 是 `4-4-6` 的形式。这里强烈不推荐使用新版注册机注册版本9和版本10，因为已经证实在许多计算机上，新版注册机无法完全注册版本9和版本10。老注册机在注册版本9时可能要多点步骤，下详。
+使用新版注册机算出来的 Activation Key 是 `4-4-6` 的形式。这里强烈不推荐使用新版注册机注册版本 9 和版本 10，因为已经证实在许多计算机上，新版注册机无法完全注册版本 9 和版本 10。老注册机在注册版本 9 时可能要多点步骤，下详。
 
 还有，以上截图是版本 8、9 注册机的截图，版本 10 至版本 11.2 注册机只有那个黑乎乎的命令行界面，但**使用方法和这个注册机没什么不同，不要大惊小怪**！
 
@@ -305,11 +316,11 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 如果是 MMA 8 中文版，那么按照本文步骤，100% 注册成功，Enjoy it！
 
 如果是 MMA 9 中文版，那么注册步骤一样，只是不一定 100% 成功，需要多试几次，一定要多试几次！！！
-如果人品好，两三次就成功了；如果人品实在差，试了30、40次都没有成功，那么还是老实安装 MMA 8 中文版吧，足够你学习使用了。
+如果人品好，两三次就成功了；如果人品实在差，试了 30、40 次都没有成功，那么还是老实安装 MMA 8 中文版吧，足够你学习使用了。
 
 再强调一次，注册中文版不要用英文版注册机，否则开不了帮助！
 
-如果是 MMA 9 英文版，那么注册步骤也一样，只是不用纠结，因为有 MMA 9 版本所对应的英文注册机([下载链接](http://pan.baidu.com/share/link?shareid=549603888&uk=1661347987)，注意这个只能用来注册英文版！）
+如果是 MMA 9 英文版，那么注册步骤也一样，只是不用纠结，因为有 MMA 9 版本所对应的英文注册机 ([下载链接](http://pan.baidu.com/share/link?shareid=549603888&uk=1661347987)，注意这个只能用来注册英文版！）
 
 如果是版本 10 和版本 11 中英文版，注册步骤比版本 8 和 9 还要简单，并成功率 100%（？），Enjoy it!
 
@@ -321,9 +332,9 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 ### 使用老版注册机注册 9 时所需的额外步骤
 
-由于一些尚不明确的原因（此部分欢迎补充），有部分朋友的电脑在使用新版注册机注册版本9中文版时依旧会出现中文帮助打不开的问题。
+由于一些尚不明确的原因（此部分欢迎补充），有部分朋友的电脑在使用新版注册机注册版本 9 中文版时依旧会出现中文帮助打不开的问题。
 
-目前发现的唯一对策是使用老版注册机。老版注册机一度被认为无法正常注册版本9中文版，但是事实并非如此。使用老版注册机注册后所需的额外步骤如下：
+目前发现的唯一对策是使用老版注册机。老版注册机一度被认为无法正常注册版本 9 中文版，但是事实并非如此。使用老版注册机注册后所需的额外步骤如下：
 
 打开软件，点击顶部菜单的 编辑 -> 偏好设置 -> 界面 -> 菜单和对话框语言设置 -> ChineseSimplified；之后关闭软件重启，自带帮助就可以顺利打开了！
 
@@ -374,7 +385,7 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 【A4】不分。
 
-### 【Q5】注册机算出来的 Activation Key 只有13位？
+### 【Q5】注册机算出来的 Activation Key 只有 13 位？
 
 【A5】因为使用了旧版的注册机，此注册机也可以用，但要多些步骤，上详。
 
@@ -403,9 +414,9 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 【A7】Mathematica 安装包同时包含 32 和 64 位，它会自动判断你的系统类型并安装。
 
-### 【Q8】64位系统在安装了 VC2010 运行库 后，那两个注册机仍然无法使用
+### 【Q8】64 位系统在安装了 VC2010 运行库 后，那两个注册机仍然无法使用
 
-【A8】对于64位系统，VC2010 运行库的 64 位和 32 位版本都要安装，然后注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
+【A8】对于 64 位系统，VC2010 运行库的 64 位和 32 位版本都要安装，然后注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
 
 ### 【Q9】注册不当：Mathematica 已注册，但功能有限制，比如自由输入不能使用，虚拟全书、函数浏览器、帮助文档不能使用
 
@@ -417,7 +428,7 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 解决办法是，清理残余信息，再重新注册。至于如何清理，按照官网的说法，只要在启动软件的时候按住 <kbd>Ctrl</kbd> 和 <kbd>Shift</kbd> 即可。
 
-如果仍然存在问题，那么可以手动清理，方法如下。更多内容可以参考官网的[这篇教程](https://support.wolfram.com/kb/12464)。
+如果仍然存在问题，那么可以手动清理，方法如下。更多内容可以参考官网的 [这篇教程](https://support.wolfram.com/kb/12464)。
 
 如果您使用 **Windows 8 及更高版本**的系统，请**以管理员权限**打开一个 **PowerShell** 窗口，
 
@@ -457,7 +468,7 @@ C:\Documents and Settings\Administrator\Application Data\Mathematica\Licensing
 C:\Documents and Settings\All Users\Application Data\Mathematica\Licensing
 ```
 
-Windows 7 32位/64位 及更高版本系统在：
+Windows 7 32 位/64 位 及更高版本系统在：
 
 ```text
 %ProgramData%\Mathematica\Licensing
@@ -493,25 +504,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 提示说：
 
-> 这份 Mathematica 使用的密码不允许英语以外的其它语言. 关于启用更多的功能，请与 Wolfram Research 联系(`http://www.wolfram.com`). 您必须重新启动前端.
-
+> 这份 Mathematica 使用的密码不允许英语以外的其它语言。关于启用更多的功能，请与 Wolfram Research 联系 (`http://www.wolfram.com`). 您必须重新启动前端。
 【A10】因为你用英文注册机注册了中文版。（叫你不认真看教程、跑外面去乱下注册机！🤦‍）
 
 再强调一遍，**一定要用对注册机！**
 
-要完全注册 版本8 和 版本9 的中文版，只能使用 版本8 的中文版注册机。
+要完全注册 版本 8 和 版本 9 的中文版，只能使用 版本 8 的中文版注册机。
 
 弄不清什么是中文版注册机的人，以及自以为使用了中文版注册机却依然出现这个问题的人，请使用本教程中提供的注册机！
 
-### 【Q11】Windows XP 32位 最多能支持 Mathematica 多高的版本？
+### 【Q11】Windows XP 32 位 最多能支持 Mathematica 多高的版本？
 
-【A11】版本9
+【A11】版本 9
 
 ### 【Q12】为什么每回点开注册机都出现这个？
 
 ![q12](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
 
-【A12】上面的教程已经说了，请安装 VC运行库。
+【A12】上面的教程已经说了，请安装 VC 运行库。
 
 ### 【Q13】使用没问题，但界面出现乱码，如图
 
@@ -521,13 +531,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 一种已经被证实的原因是，电脑的系统地区被改动过，此种情况改回中文区即可解决。
 
-### 【Q14】版本10（不论中英文版）卡顿，卡在初始界面，界面显示不完全
+### 【Q14】版本 10（不论中英文版）卡顿，卡在初始界面，界面显示不完全
 
-【A14】具体参考<del>[此帖](http://tieba.baidu.com/p/4039684644)</del>(注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问)。卡顿问题在该帖2楼，卡在初始界面的问题在该帖3楼，界面显示不完全的问题在该帖4楼。
+【A14】具体参考<del>[此帖](http://tieba.baidu.com/p/4039684644)</del>（注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问）。卡顿问题在该帖 2 楼，卡在初始界面的问题在该帖 3 楼，界面显示不完全的问题在该帖 4 楼。
 
 ### 【Q15】Windows 10 最多能支持 Mathematica 多低的版本？
 
-【A15】至少 版本8 之后的都支持。（前面的没测试过。）
+【A15】至少 版本 8 之后的都支持。（前面的没测试过。）
 
 ### 【Q16】安装完后打开出现未响应，如图所示
 
@@ -547,7 +557,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q19】 注册机一回车完就直接关了，怎么回事啊？
 
-【A19】教程的正文里已经说了三遍，版本10及以后的注册机是不能直接双击打开的！右键选打开当然也是不行的，不要自作聪明！
+【A19】教程的正文里已经说了三遍，版本 10 及以后的注册机是不能直接双击打开的！右键选打开当然也是不行的，不要自作聪明！
 
 请在命令行下使用注册机。也就是说，请打开命令行，然后调用这个注册机。
 
@@ -557,7 +567,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A20】和 Mathematica 自带的字体安装未成功有关。
 
-请仔细检查杀软（比如，360啊，360啊，还有360啊）是否屏蔽了外部字体安装。更多讨论请参看[此帖](http://community.wolfram.com/groups/-/m/t/917946)。
+请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [此帖](http://community.wolfram.com/groups/-/m/t/917946)。
 
 ### 【Q21】 软件是否可以安装在中文路径下？
 
