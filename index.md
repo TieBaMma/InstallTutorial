@@ -83,6 +83,12 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 
 ### Mathematica 12.1
 
+> **注意**
+>
+> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
+>
+> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+
 [Mathematica 12.1.0 英文版 (Win 版 ) OneDrive 链接](http://wxyh.233baidu.com/yunpan/?/software/mma12.1%E8%8B%B1%E6%96%87/)
 
 [Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
