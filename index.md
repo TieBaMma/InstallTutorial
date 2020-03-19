@@ -87,6 +87,10 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 
 [Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
 
+[Mathematica 12.1.0 英文版 (Mac 版）, 百度盘链接](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
+
+[Mathematica 12.1.0 英文版 (Mac 版）, BT 种子链接](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
+
 [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
 
 > 经测试支持 12.1 的激活
