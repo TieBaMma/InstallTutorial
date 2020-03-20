@@ -89,13 +89,17 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
 
-[Mathematica 12.1.0 英文版 (Win 版 ) OneDrive 链接](http://wxyh.233baidu.com/yunpan/?/software/mma12.1%E8%8B%B1%E6%96%87/)
+[Mathematica 12.1.0 英文版 (Win 版 + Mac 版) OneDrive 链接](http://wxyh.bilibli.icu/yunpan/%E6%88%91%E7%9A%84%E7%BD%91%E7%9B%98/software/mma12.1%E8%8B%B1%E6%96%87/)
 
 [Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
 
 [Mathematica 12.1.0 英文版 (Mac 版）, 百度盘链接](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
 
 [Mathematica 12.1.0 英文版 (Mac 版）, BT 种子链接](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
+
+[Mathematica 12.1.0 英文版 (Mac 版）, 奶牛盘链接 , 过期时间 2021-4-8 , 如果度盘慢就用这个](https://zhengyq.cowtransfer.com/s/f505f8f4ccd943)
+
+[Mathematica 12.1.0 英文版 (Linux 版）,百度盘链接](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码: `vuxd`
 
 [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
 
