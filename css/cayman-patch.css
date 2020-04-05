@@ -6,6 +6,10 @@
  * https://github.com/Lemmingh
  */
 
+/* This file is dedicated to improve accessibility of [Cayman theme](https://github.com/jasonlong/cayman-theme).
+ * Apply it after `cayman.css` to see a difference.
+ */
+
 .main-content {
   color: black;
 }
@@ -14,22 +18,29 @@
   color: #606c71;
 }
 
-.main-content h2 {
-  text-align: center;
-  font-weight: bold;
-}
-
 .main-content h2,
 .main-content h3,
 .main-content h4,
 .main-content h5,
 .main-content h6 {
   border-top: 1px solid #eaecef;
+  font-weight: bold;
   padding-top: 0.3em;
 }
 
+.main-content h2 {
+  text-align: center;
+}
+
 .main-content a {
-  text-decoration: underline dashed;
+  text-decoration: underline dotted;
+}
+
+/* Fix a problem related to [Selector Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity).
+ * Calculate specificity of `a:hover`, `.main-content a`, and `.main-content a:hover`, then you will know why.
+ */
+.main-content a:hover {
+  text-decoration: underline solid;
 }
 
 blockquote strong {
@@ -45,14 +56,23 @@ samp {
     "Sarasa Mono T SC", "SimHei", monospace, "Droid Sans Fallback" !important;
 }
 
-details summary {
+summary {
   cursor: pointer;
   display: list-item;
-  text-decoration: underline dashed;
+  font-weight: bold;
+  text-decoration: underline dotted;
+}
+
+summary:hover {
+  text-decoration: underline solid;
+}
+
+/* ! Designed for this website only */
+#toc {
+  box-shadow: 1px 1px 3px gray;
 }
 
 /* Based on https://github.githubassets.com/assets/github-89d9d3c9d19ddf234d9355a9ff50bcbd.css */
-
 kbd {
   background-color: #fafbfc;
   border: 1px solid #c6cbd1;
@@ -62,7 +82,7 @@ kbd {
   color: #444d56;
   display: inline-block;
   font-weight: 700;
-  line-height: 0.7em;
+  line-height: 1em;
   padding: 3px 5px;
   vertical-align: middle;
   white-space: nowrap;
