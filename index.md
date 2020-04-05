@@ -69,7 +69,7 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 >
 > ---
 >
-> Windows 版对 HDPI 显示器的支持不佳，导致显示模糊。可以通过设置 **高 DPI 缩放替代** 为 **应用程序**，以及调节 Wolfram 笔记本的缩放等措施来暂缓。**此问题已在版本12.1解决**。
+> [**版本 12.1 解决解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，可以通过设置 **高 DPI 缩放替代** 为 **应用程序**，以及调节 Wolfram 笔记本的缩放等措施来暂缓。
 >
 > ---
 >
@@ -271,13 +271,35 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 >
 > Windows 10 下要打开防火墙！
 
-**注册机会被杀软误报是常识，还是，吓不住的请买正版，购买方法在本文开头。**
+**注册机会被杀软报毒是常识。还是，吓不住的请买正版，购买方法在本文开头。**
 
-**Windows 10 自带的杀软（Windows Defender）会将版本 10 以上版本的注册机直接干掉。解压前，请打开 Windows Defender 设置，将解压路径从那个杀软的查杀路径里排除出去（Exclusions），或者暂停 Real-time protection。**
+**Windows 10 自带的安全软件 (Windows Defender) 会将版本 10 以上版本的注册机直接删掉。解压前，请打开 [Windows Defender 设置](https://support.microsoft.com/help/4012987)，将解压路径从查杀路径里[排除出去 (Exclusions)](https://support.microsoft.com/help/4028485)，或者[暂停 Real-time protection](https://support.microsoft.com/help/4027187)。**
 
-**以下地址均未失效，异常只是百度盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
+**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
 
-本文中，没有特别注明小版本的注册机都是通用的。例如，11.1 注册机既可以注册 11.1.0 又可以注册 11.1.1。
+注册机主要有 3 种形式：
+
+* 网页
+* 命令行程序
+* 图形界面程序
+
+本文中，没有特别注明小版本的注册机，都是通用的。例如，11.1 注册机既可以注册 11.1.0 又可以注册 11.1.1。
+
+> **注意**
+>
+> **命令行程序需要在命令行下运行！**
+>
+> 命令行形式的注册机**不能直接双击打开**！
+>
+> 对于 Windows，这里介绍一种方法：
+>
+> 1. 在 Windows 资源管理器 (Windows Explorer) 中到达程序所在目录。
+> 2. 在页面空白处，按住 <kbd>Shift</kbd>，右键单击，选择 **在此处打开 PowerShell 窗口** (Open PowerShell window here)。
+> 3. 输入法切换到英文，输入 `.\`，你可以接着输入文件名开头几个字。
+> 4. 反复按 <kbd>Tab</kbd>，直到补全出程序的路径。（如果这个目录下有很多文件，可能会死机。）
+> 5. 按回车 <kbd>Enter</kbd> 执行。
+>
+> 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
 版本 12 的注册机（同时适用于中文版及英文版）已经附在上面的下载链里了！
 注意，这次又是一回车就会关的命令行了，也就是说这个注册机**不能直接双击打开**！不知道怎么开这个注册机的请使用附带的批处理文件（就那个扩展名为 `.bat` 的东西）。用法已经写在文件名上了！再强调一遍，再问注册机为什么关的**删+封十天**！
@@ -289,12 +311,18 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 （此注册机可以完全注册 10.4.0 及 10.4.1 中英文版。这个注册机是**不能直接双击打开**的！ 不要再抱怨什么“回车完注册机就关了”！请在命令行下使用。也就是说，请打开命令行然后调用这个注册机。 不明白什么叫“打开命令行然后调用这个注册机”的<del>请乖乖用版本 8 的注册机多试几次</del> 请下载 [这个批处理文件（密码：`uh59`）](https://pan.baidu.com/s/1HR2bwacizkNrPRmYi1Kmvw)， 用法已经写在文件名上了。还有，密码里的 ::1 也是密码的一部分！）（此注册机生成的 Key 每回都是 1234-4321-123456， 不要大惊小怪！重要的是那个密码！还有“1234-4321-123456”中间的横杠也是 Key 的一部分，不要擅自去掉！）
 
 > <del>[新版注册机（可用于版 8，9，10）下载地址](http://pan.baidu.com/share/link?shareid=188221&uk=1661347987)（注意注册版本 9 时需要多试几次，下详。版本 10 亦可使用本注册机，但需试很多次，成功率极低。）</del>可用于 8，9，10 版的新版注册机下载地址现已失效，且吧主电脑里没存档，故暂时无法补档，手里有这个注册机的童鞋欢迎补上。不过，看了本教程的你应该也注意到了，这个新版注册机其实并不好使。对版本 8，新旧注册机没区别，对版本 9，部分计算机可能没法用新注册机注册，还不如用旧版，也就多一道手续；更何况——这里再强调一遍——版本 9 的自带帮助有搜索能力退化的问题，新手别用！
->
-> [旧版注册机（可用于版 8，9，10）下载地址](http://pan.baidu.com/s/1eQGtvF0) （注意注册版本 9 时需要多试几次，下详。已证实部分计算机必须使用旧版注册机才能完全注册版本 9。使用这个注册机注册版本 9 时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本 10 亦可使用本注册机，但需试很多次，成功率极低。）
->
-> 注意，这两个注册机运行需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)，如果下载下来不能运行注册机，请下载 [VC2010 运行库](http://pan.baidu.com/share/link?shareid=386759&uk=1661347987)。
 
-下载好运行库，安装之后，注册机应该就能运行，不要嫌麻烦！
+[旧版注册机（可用于版 8，9，10）下载地址](http://pan.baidu.com/s/1eQGtvF0) （注意注册版本 9 时需要多试几次，下详。已证实部分计算机必须使用旧版注册机才能完全注册版本 9。使用这个注册机注册版本 9 时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本 10 亦可使用本注册机，但需试很多次，成功率极低。）
+
+> **注意**
+>
+> 版本 8 的这两个注册机，需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)。如果注册机不能运行，请下载：
+>
+> * 打包：[百度网盘](http://pan.baidu.com/share/link?shareid=386759&uk=1661347987)（链接似乎已经废了）
+> * 32 位：[Microsoft Visual C++ 2010 Redistributable Package (x86) | Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=5555)
+> * 64 位：[Microsoft Visual C++ 2010 Redistributable Package (x64) | Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=14632)
+>
+> 下载运行库，安装之后，注册机应该就能运行，不要嫌麻烦！
 
 安装 Mathematica 软件，安装完成之后会弹出激活对话框，如下图：
 
@@ -416,17 +444,18 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 解决方案之一：
 请在运行 (<kbd>Win</kbd> + <kbd>R</kbd>) 中输入 `msconfig`, 转到 **服务** 选项卡，打开 Print Spooler 服务，重启电脑。
 
-### 【Q6.5】出现下图的问题（`Error code: 698`），内核可以启动，但主程序启动不了
+### 【Q6.5】出现问题 `Error code: 698`，内核可以启动，但主程序无法启动
 
-![q6.5](http://ww4.sinaimg.cn/large/a15b4afegw1f7gutazpgmj20az06xwf2)
+![Error code 698](http://ww4.sinaimg.cn/large/a15b4afegw1f7gutazpgmj20az06xwf2)
 
 【A6.5】
 
-1. 首先，打开系统服务中心，在里面找到 Windows 防火墙，启动它；
-2. 然后去你的 Mathematica 的安装目录找到 SystemFiles -> Fonts 文件夹，把里面所有的 ttf 文件 双击点开（或者右键单击）并安装一遍；
+1. 首先，打开系统服务中心，在里面找到 Windows 防火墙，启动它。
+   1. 还可能需要检查 [Windows Defender Firewall 设置](https://support.microsoft.com/help/4028544)。
+2. 然后去你的 Mathematica 的安装目录找到 SystemFiles -> Fonts 文件夹，把里面所有 ttf 文件双击点开（或者右键单击）并安装一遍。
 3. 就应该能用了。
 
-（Windows 10 特有功能：如果不打开防火墙，ttf 字体文件就打不开，所以就无法安装。）
+Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开并安装。参看 [Enable Windows 10 firewall to install fonts | 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
 
 ### 【Q7】此文链接中的 Mathematica 支持 64 位系统嘛？
 
@@ -434,7 +463,7 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 ### 【Q8】64 位系统在安装了 VC2010 运行库 后，那两个注册机仍然无法使用
 
-【A8】对于 64 位系统，VC2010 运行库的 64 位和 32 位版本都要安装，然后注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
+【A8】对于 64 位系统，VC2010 运行库的 64 位 (x64) 和 32 位 (x86) 版本都要安装，然后那个注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
 
 ### 【Q9】注册不当，需要重置 Mathematica：Mathematica 已注册，但功能有限制，比如不能使用自由输入、虚拟全书、函数浏览器、帮助文档
 
@@ -553,13 +582,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q12】为什么每回点开注册机都出现这个？
 
-![q12](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
+![注册机已停止工作](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
 
 【A12】上面的教程已经说了，请安装 VC 运行库。
 
 ### 【Q13】使用没问题，但界面出现乱码，如图
 
-![q13](http://ww4.sinaimg.cn/large/a15b4afegw1f7guv45c0ej20g400idfn)
+![Mathematica 界面乱码](http://ww4.sinaimg.cn/large/a15b4afegw1f7guv45c0ej20g400idfn)
 
 【A13】似乎存在多种原因。
 
@@ -567,21 +596,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q14】版本 10（不论中英文版）卡顿，卡在初始界面，界面显示不完全
 
-【A14】具体参考<del>[此帖](http://tieba.baidu.com/p/4039684644)</del>（注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问）。卡顿问题在该帖 2 楼，卡在初始界面的问题在该帖 3 楼，界面显示不完全的问题在该帖 4 楼。
+【A14】具体参考<del><http://tieba.baidu.com/p/4039684644></del>（注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问）。卡顿问题在该帖 2 楼，卡在初始界面的问题在该帖 3 楼，界面显示不完全的问题在该帖 4 楼。
 
 ### 【Q15】Windows 10 最多能支持 Mathematica 多低的版本？
 
-【A15】至少 版本 8 之后的都支持。（前面的没测试过。）
+【A15】至少版本 8 之后的都支持。（前面的没测试过。）
 
 ### 【Q16】安装完后打开出现未响应，如图所示
 
-![q16](http://ww4.sinaimg.cn/large/a15b4afegw1f7guw7rirbj20fr0g5di1)
+![Wolfram Mathematica 10.3 未响应，在 Windows 7](http://ww4.sinaimg.cn/large/a15b4afegw1f7guw7rirbj20fr0g5di1)
 
 【A16】 原因是，没更新 Windows 的一个补丁。如果你把自动更新关了，打开更新，更新内容里有 Windows Service Pack，更新之后重新安装即可。
 
 ### 【Q17】 安装的时候出现无响应，如下图
 
-![q17](http://ww4.sinaimg.cn/large/a15b4afegw1f7guwxv9lij20di0bljsm)
+![Wolfram Mathematica 10.4 已停止工作，在 Windows 7](http://ww4.sinaimg.cn/large/a15b4afegw1f7guwxv9lij20di0bljsm)
 
 【A17】软件必须安装在**英文**名称的文件夹下。
 
@@ -601,7 +630,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A20】和 Mathematica 自带的字体安装未成功有关。
 
-请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [此帖](http://community.wolfram.com/groups/-/m/t/917946)。
+请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [Error code 702 on launch of Mathematica (Windows 10) | Wolfram Community](https://community.wolfram.com/groups/-/m/t/917946)。
 
 ### 【Q21】 软件是否可以安装在中文路径下？
 
