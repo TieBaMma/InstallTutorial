@@ -284,8 +284,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 至于有版本收藏癖好的朋友，请自己去网上找吧。
 
-* [Mathematica Quick Revision History | Wolfram](https://www.wolfram.com/mathematica/quick-revision-history.html)
-* [A little bit of Mathematica history | Nasser M. Abbasi](https://www.12000.org/my_notes/compare_mathematica/index.htm)
+* [Mathematica Quick Revision History - Wolfram](https://www.wolfram.com/mathematica/quick-revision-history.html)
+* [A little bit of Mathematica history - Nasser M. Abbasi](https://www.12000.org/my_notes/compare_mathematica/index.htm)
 
 ## Mathematica 软件的注册
 
@@ -377,8 +377,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 > 版本 8 的这两个注册机，需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)。如果注册机不能运行，请下载：
 >
 > * 打包：[百度网盘](http://pan.baidu.com/share/link?shareid=386759&uk=1661347987)（链接似乎已经废了）
-> * 32 位：[Microsoft Visual C++ 2010 Redistributable Package (x86) | Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=5555)
-> * 64 位：[Microsoft Visual C++ 2010 Redistributable Package (x64) | Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=14632)
+> * 32 位：[Microsoft Visual C++ 2010 Redistributable Package (x86) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=5555)
+> * 64 位：[Microsoft Visual C++ 2010 Redistributable Package (x64) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=14632)
 >
 > 下载运行库，安装之后，注册机应该就能运行，不要嫌麻烦！
 
@@ -526,7 +526,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 2. 然后去你的 Mathematica 的安装目录找到 SystemFiles -> Fonts 文件夹，把里面所有 ttf 文件双击点开（或者右键单击）并安装一遍。
 3. 就应该能用了。
 
-Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开并安装。参看 [Enable Windows 10 firewall to install fonts | 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
+Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开并安装。参看 [Enable Windows 10 firewall to install fonts - 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
 
 ### 【Q7】此文链接中的 Mathematica 支持 64 位系统吗
 
@@ -702,7 +702,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A20】和 Mathematica 自带的字体安装未成功有关。
 
-请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [Error code 702 on launch of Mathematica (Windows 10) | Wolfram Community](https://community.wolfram.com/groups/-/m/t/917946)。
+请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [Error code 702 on launch of Mathematica (Windows 10) - Wolfram Community](https://community.wolfram.com/groups/-/m/t/917946)。
 
 ### 【Q21】 软件是否可以安装在中文路径下
 
