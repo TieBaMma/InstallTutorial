@@ -19,4 +19,4 @@ gems:
 markdown: kramdown
 
 # Others
-exclude: [README.md]
+exclude: [".github/", ".vscode/", "docs/", "Gemfile", "README.md"]
