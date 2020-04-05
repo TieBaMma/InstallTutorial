@@ -436,47 +436,62 @@ magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
 
 【A8】对于 64 位系统，VC2010 运行库的 64 位和 32 位版本都要安装，然后注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
 
-### 【Q9】注册不当：Mathematica 已注册，但功能有限制，比如自由输入不能使用，虚拟全书、函数浏览器、帮助文档不能使用
+### 【Q9】注册不当，需要重置 Mathematica：Mathematica 已注册，但功能有限制，比如不能使用自由输入、虚拟全书、函数浏览器、帮助文档
 
-（这是大家碰到最多的问题，也是注册不当的问题）
+（这是大家碰到最多的问题，也是注册不当的问题。）
 
 【A9】首先，请确保你已经使用了正确的注册机！注册机的问题具体参见前文！
 
-如果在注册机正确的情况下还是有问题，那一般是因为之前安装过 Mathematica 但是注册不完全。
+如果注册机正确，但还是有问题，那么，一般是因为之前安装过 Mathematica 但是注册不完全。
 
-解决办法是，清理残余信息，再重新注册。至于如何清理，按照官网的说法，只要在启动软件的时候按住 <kbd>Ctrl</kbd> 和 <kbd>Shift</kbd> 即可。
+解决步骤是
 
-如果仍然存在问题，那么可以手动清理，方法如下。更多内容可以参考官网的 [这篇教程](https://support.wolfram.com/kb/12464)。
+1. 删除残余信息。
+2. 再重新注册。
 
-如果您使用 **Windows 8 及更高版本**的系统，请**以管理员权限**打开一个 **PowerShell** 窗口，
+删除配置信息的方法，具体请参考官网的教程《[如何通过恢复 Mathematica 默认配置来解决常见问题 (How do I fix common problems by resetting Mathematica to its default configuration)](https://support.wolfram.com/kb/12464)》，建议中英文版本对照阅读。
 
-首先，执行下面这段命令
+下面仅介绍 Windows 上的删除方法。
+
+首先，按照官网的说法，在启动 Mathematica 的时候，同时按住 <kbd>Ctrl</kbd> 和 <kbd>Shift</kbd>，直至 Mathematica 屏幕出现。
+
+如果问题仍然存在，那么可以手动删除。
+
+对于 **Windows 8 及更高版本**的系统，请**以管理员权限**打开一个 **PowerShell** 窗口，然后执行以下步骤。（Windows 7 自带的 Windows PowerShell 2.0 很不稳定、功能匮乏。如有需要，[请更新](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell)。）
+
+第 1 步，执行下面这段命令
 
 ```powershell
 Remove-Item -Path "$env:ProgramData\Mathematica\Licensing" -Recurse -Force
 ```
 
-如果仍然存在问题，执行下面这段命令（**你可能首先需要卸载 Mathematica**）
+第 2 步，如果问题仍然存在，执行下面这段命令
 
 ```powershell
-Remove-Item -Path @("Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research", "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica", "$env:USERPROFILE\AppData\Local\Mathematica", "$env:USERPROFILE\AppData\Roaming\Mathematica") -Recurse -Force
+Remove-Item -Path @("$env:ProgramData\Mathematica", "$env:USERPROFILE\AppData\Local\Mathematica", "$env:USERPROFILE\AppData\Roaming\Mathematica", "$env:USERPROFILE\AppData\Local\Wolfram", "$env:USERPROFILE\AppData\Roaming\Wolfram") -Recurse -Force
+```
+
+第 3 步，如果问题仍然存在，**卸载 Mathematica**，之后，执行第 2 步的命令，再执行下面这段命令
+
+```powershell
+Remove-Item -Path @("Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research", "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica") -Recurse -Force
 ```
 
 > **注意**
 >
-> 如果报错“无法找到路径”，那么，相应文件早已从您的计算机上删除；无需在意。
-> 如果发生其他错误，请仔细检查报错信息，并对症处理。
+> * 如果报错“无法找到路径”，那么，相应文件早已从您的计算机上删除；无需在意。
+> * 如果发生其他错误，请仔细检查报错信息，并对症处理。参看 [Remove-Item](https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Management/Remove-Item)。
 
-如果您使用**较低版本的 Windows**，请继续阅读。
+对于**较低版本的 Windows**，请阅读以下内容。
 
 > **注意**
 >
-> 1. 以下 `%ProgramData%`、`%USERPROFILE%` 等都是 **Windows 环境变量**。Windows 资源管理器 可以自动识别它们。
-> 2. 以下都是**隐藏文件夹**，需要显示隐藏文件夹。这个怎么做无需多说了。
-> 3. MMA 的残留信息一定要清理干净！
-> 4. 已经证实，在部分计算机上，即使使用旧版注册机，并且完成此处所述的步骤，依旧无法清理干净残余信息。那么这里还有最后一个办法：首先在计算机上新建一个帐户（开始 -> 控制面板 -> 用户帐户和家庭安全 -> 添加或删除用户帐户 -> 创建一个新帐户） ——帐户的权限，笔者选的是“管理员（Administrator）”，不过，大概 Guest 也可以？大家可以试一试，然后把结果编辑进来——然后把 Mathematica 安装在这个新的帐户里，就不用担心残留信息的问题了。安装和激活完成之后新建的帐户可以删除。
+> * 以下 `%ProgramData%`、`%USERPROFILE%` 等都是 **Windows 环境变量**。Windows 资源管理器 (Windows Explorer) 可以自动识别它们。
+> * 以下都是**隐藏文件夹**，需要[显示隐藏文件夹](https://support.microsoft.com/help/14201)。
+> * Mathematica 的残留信息一定要清理干净！
+> * 已经证实，在部分计算机上，即使使用旧版注册机，并且完成此处所述的步骤，依旧无法清理干净残余信息。那么这里还有最后一个办法：首先在计算机上新建一个帐户（开始 -> 控制面板 -> 用户帐户和家庭安全 -> 添加或删除用户帐户 -> 创建一个新帐户） ——帐户的权限，笔者选的是“管理员（Administrator）”，不过，大概 Guest 也可以？大家可以试一试，然后把结果编辑进来——然后把 Mathematica 安装在这个新的帐户里，就不用担心残留信息的问题了。安装和激活完成之后新建的帐户可以删除。
 
-首先，清理注册信息
+第 1 步，删除注册信息。
 
 Windows XP 在这 2 个目录：
 
@@ -486,17 +501,25 @@ C:\Documents and Settings\Administrator\Application Data\Mathematica\Licensing
 C:\Documents and Settings\All Users\Application Data\Mathematica\Licensing
 ```
 
-Windows 7 32 位/64 位 及更高版本系统在：
+Windows 7 及更高版本的系统在：
 
 ```text
 %ProgramData%\Mathematica\Licensing
 ```
 
-之后，**通常**需要继续清理其他残留，**要全部删除**！（**你可能首先需要卸载 Mathematica**）（似乎，不是每个人都会面临此问题，原因暂不明，欢迎补充）
+之后，**通常**需要继续清理其他残留，**要全部删除**！（似乎，只有一些人会面临此问题，原因暂不明。已知的可能存在残留的地方列于下方，欢迎补充。）
 
-目前已知的可能存在残留的地方有：
+第 2 步，如果问题仍然存在，删除下列文件夹：
 
-注册表（对于不同版本的 Mathematica，可能存在以下几个位置之一）：
+```text
+%ProgramData%\Mathematica
+%USERPROFILE%\AppData\Local\Mathematica
+%USERPROFILE%\AppData\Roaming\Mathematica
+%USERPROFILE%\AppData\Local\Wolfram
+%USERPROFILE%\AppData\Roaming\Wolfram
+```
+
+第 3 步，如果问题仍然存在，**卸载 Mathematica**，之后，执行第 2 步，再删除下列注册表键（对于不同版本的 Mathematica，可能存在下列几个位置之一）：
 
 ```text
 HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research
@@ -510,13 +533,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 > * <kbd>Win</kbd> + <kbd>Q</kbd>，键入 `regedit`，执行
 > * 打开 PowerShell 或 cmd，键入 `regedit`，执行
 > * 开始菜单 -> 运行，键入 `regedit`，执行
-
-文件夹：
-
-```text
-%USERPROFILE%\AppData\Local\Mathematica
-%USERPROFILE%\AppData\Roaming\Mathematica
-```
 
 ### 【Q10】提示说：这份 Mathematica 使用的密码不允许英语以外的其它语言
 
