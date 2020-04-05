@@ -15,12 +15,12 @@ title: {{ site.title }}
 
 链接:
 
-Windows 版 [百度盘](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw) 
+Windows 版 [百度盘](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw)
 提取码: `skr5`
 
 Linux版
 [百度盘](https://pan.baidu.com/s/1qX5Z36w3SoSFCEsGSGqP9g) 提取码：`rw3a`
-/ [蓝奏云（分卷）](https://www.lanzous.com/b00n4te9a/) 密码：`dn3c` 
+/ [蓝奏云（分卷）](https://www.lanzous.com/b00n4te9a/) 密码：`dn3c`
 / [Sharepoint](https://hii9w-my.sharepoint.com/:u:/g/personal/richard_liu_233455_xyz/EVPw9cN-UltGgGotCAOYVLYBjZdluPfngX5y96JpvyO8zA?e=NlPwuc)
 
 Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram.com/kb/45743)。
@@ -43,13 +43,17 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 
 这里提供 MMA 8 中文版、 MMA 9 中英文版、 MMA 10 中英文版、MMA 11 中英文版、MMA 12 的英文版 的百度网盘地址，和 MMA 7 中文版、 MMA 5 英文版、MMA 3 英文版、MMA 1 英文版 的下载地址。
 
-另，官网的下载地址目前在大陆被墙，所以害怕有病毒什么的以至非要去官网下载的同学请自己想办法爬墙。
-本文提供的安装包和官网是一样的，若不信，可对比 MD5。
+目前，官网的下载地址在大陆被墙，所以，害怕有病毒什么的、以至非要去官网下载的同学，请自己想办法爬墙。
 
-> * Linux/macOS 可用 Unix utility `md5sum`；
-> * Windows 可用 PowerShell 的 `Get-FileHash -Algorithm MD5`。
+本文提供的安装包和官网的是一样的，若不信，可对比 MD5。
 
-对于正版用户，可以尝试向经销商或Wolfram客服人员索要直接下载链接。
+几种计算 MD5 的工具：
+
+* [PowerShell](https://docs.microsoft.com/powershell/) 可用 [Get-FileHash](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash)：`Get-FileHash -Algorithm MD5`。
+* Linux 可用 [md5sum](https://linux.die.net/man/1/md5sum)：`md5sum --binary`。
+* macOS 可用 [md5](https://osxdaily.com/2009/10/13/check-md5-hash-on-your-mac/)。
+
+**正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
 
 **以下地址均未失效，异常只是百度盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
 
