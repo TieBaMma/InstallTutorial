@@ -8,14 +8,14 @@
 
 详细的编辑指导在[《贡献指南》](docs/CONTRIBUTING.md)。详细的写作风格要求在[《写作风格指南》](docs/Writing-style-guide.md)。
 
-当您准备就绪后，请 fork 此 repo，编辑文章内容 ([`index.md`](index.md))，最后新建一个 pull request。
+当准备就绪后，请 fork 此 repo，编辑文章内容 ([`index.md`](index.md))，最后新建一个 pull request。
 
 感谢您的支持。
 
 ## 编码风格
 
 > 下述规则已写入 [`.editorconfig`](.editorconfig)。
-> 您可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
+> 可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
 
 未说明的项目暂不做要求。
 
@@ -50,7 +50,7 @@
 > * **磁力链接 (magnet) 请以 code block 呈现**，以防编译错误。
 > * **请使用 `<del>` 添加删除线**。不要使用 [`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)，因为该元素已经废除。
 > * 请不要触动 [front matter](https://jekyllrb.com/docs/front-matter/)，除非您已经与本项目的管理者 [@TieBaMma](https://github.com/TieBaMma) 确认需要修改。
-> * 随着 GitHub Pages 上部署的 Jekyll 更新换代，您可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
+> * 随着 GitHub Pages 上部署的 Jekyll 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
 
 ## 写作风格
 
@@ -98,13 +98,15 @@
   * [GitHub-Markdown.tmbundle](https://github.com/textmate/GitHub-Markdown.tmbundle)
   * [EditorConfig TextMate PlugIn](https://github.com/Mr0grog/editorconfig-textmate#readme)
 * [Notepad++](https://notepad-plus-plus.org/)
+  * [MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus)
+  * [Markdown Syntax Highlighting for Notepad++](https://github.com/Edditoria/markdown-plus-plus)
   * [EditorConfig Notepad++ Plugin](https://github.com/editorconfig/editorconfig-notepad-plus-plus#readme)
 * [Visual Studio](https://visualstudio.microsoft.com/)
   * [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 
 ## 如何新建下载地址列表
 
-每当您在“**Mathematica 软件下载**”部分中新增小节时（通常是在新一代产品发布后），请在开头添加以下内容
+每当在“**Mathematica 软件下载**”部分中新增小节时（通常是在新一代产品发布后），请在开头添加以下内容
 
 ```markdown
 > **注意**
@@ -118,7 +120,7 @@
 
 ## 目录结构
 
-> 如果您需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
+> 如果需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
 
 以下仅列出关键文件。
 

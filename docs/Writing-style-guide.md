@@ -31,7 +31,7 @@
 
 ### 夹注符号 (Brackets)
 
-**夹注符号** (brackets) 是为提示或凸显而将文本夹注起来的一类成对符号的总称。夹注符号包括引号、括号、书名号。
+**夹注符号** (brackets) 是为提示或突显而将文本夹注起来的一类成对符号的总称。夹注符号包括引号、括号、书名号。
 
 ### 中文 (CJK characters)
 
@@ -173,29 +173,23 @@ A **script** is a collection of letters and other written signs used to represen
 2. ***Microsoft Writing Style Guide***
 3. 阮一峰《中文技术文档的写作规范》
 
-请注意下列事项：
+除了后文各章节介绍的方面，还请注意下列事项：
 
 * 虽然 ***Microsoft Writing Style Guide*** 主要适用于英文，但是其中不少内容也适用于中文。
+* [Commas | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/punctuation/commas)
+* [Capitalization | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/capitalization)
+
+## 组织语言
+
 * [Top 10 tips for Microsoft style and voice | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
 * [句子 | 中文技术文档的写作规范 | 阮一峰](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md#%E5%8F%A5%E5%AD%90)
-* 中文与西文之间、中文与数字之间留一个空格。
-* 中文与西文标点符号之间应该留适当的空格。通常，将中文视作西文，按西文的语法和排版规则分析，确定空格，参看“行内短语无影响”。
-* 连续的中文内、西文与中文标点之间没有空格，除非
-  * 不加空格会导致编译错误。
-  * 不加空格会导致无法区分专有名词和普通名词。
-  * 特殊的排版规定。
-* [Commas | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/punctuation/commas)
-* 书籍、刊物、政策文件、blog、电影、音乐、诗歌等作品的名称
-  * 英文的，使用 ***加粗斜体***。例如 ***Microsoft Writing Style Guide***。
-  * 中文的，按 **GB/T 15834-2011** 的规定使用书名号。例如《中文技术文档的写作规范》。
-* [Capitalization | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/capitalization)
+* [Writing step-by-step instructions | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
 * [Headings | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/scannable-content/headings)
 * [Lists | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/scannable-content/lists)
-* [Formatting text in instructions | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions)
 
-下面各章节将具体介绍部分方面。
+## 文本格式
 
-## 加粗、斜体、强调
+### 加粗、斜体、强调
 
 * 使用**加粗**表示强调 (strong importance)，使内容醒目。
   * **加粗**对应的 HTML element 是 [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)，此处引述其逻辑意义来说明**加粗**的语气：这个元素表征“内容强烈的重要性 (strong importance for its contents)”。
@@ -207,7 +201,7 @@ A **script** is a collection of letters and other written signs used to represen
 
 **示例**
 
-> 命令行形式的程序**不能直接双击打开**！
+> 命令行程序**不能直接双击打开**！
 
 **示例**
 
@@ -217,12 +211,38 @@ A **script** is a collection of letters and other written signs used to represen
 
 > 如果幺正矩阵的元素都是实数，则称为**正交矩阵** (orthogonal matrix)。
 
+### 引用作品、章节、网站的名称
+
+当语段内出现作品、章节、网站的名称时，
+
+* 书籍、刊物、政策文件、blog、电影、音乐、诗歌等作品的名称
+  * 英文的，使用 ***加粗斜体***。例如
+    > ***Microsoft Writing Style Guide***
+  * 中文的，按 **GB/T 15834-2011** 的规定使用书名号。例如
+    > 《中文技术文档的写作规范》
+* 一部作品内部的章节的名称
+  * 使用双弯引号 (curly double quotation mark) 夹注起来。
+  * 文本使用正文的样式，也可以*斜体*，一篇文章内应当一致。
+* 无法归入上述类别的网站的名称
+  * 使用正文的样式，并且设置为指向目标网站的链接。
+  * 注意将网站的名称整理为统一的格式。例如
+    > 文章名 | 网站名
+
 ## 混合 script 时的标点符号规范
 
-下面列出“综述”中未提及的标点符号规则：
+* 纯中文的句子，按 **GB/T 15834-2011** 的规定。
+* 纯英文的句子，按 ***Microsoft Writing Style Guide*** 的规定。
+
+当一个句子中出现多种 script 的字符时，使用下面列出的标点符号规则：
 
 * 插入点的 script 决定所用的标点符号的 script。
 * 夹注符号跟随内部。
+* 中文与西文之间、中文与数字之间留一个空格。
+* 中文与西文标点符号之间应该留适当的空格。通常，将中文视作西文，按西文的语法和排版规则分析，确定空格，参看“行内短语无影响”。
+* 连续的中文内、西文与中文标点之间没有空格，除非
+  * 不加空格会导致编译错误。
+  * 不加空格会导致无法区分专有名词和普通名词。
+  * 特殊的排版规定。
 * 如果不确定，就用英文标点，并搭配适当的空格。
 
 ### 夹注符号跟随内部
@@ -247,9 +267,9 @@ A **script** is a collection of letters and other written signs used to represen
 
 > This technology was eventually used to design the glyphs for kanji in the 「小塚明朝」 typeface design.
 
-## 请不要做的事情
+## 补充
 
-下面列出一些较少见、但不宜实践的事情：
+下面列出一些较少见、但仍需稍加关注的事情：
 
 * 西文字符总是半角。不要使用全角西文字符，它们是历史遗留问题。（如果使用日语输入法输入西文，记得检查设置。）
 * 慎用强调。不应该大片地使用强调，因为这容易使读者困惑。（如果一定要这样做，三思。）

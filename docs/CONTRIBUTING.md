@@ -52,9 +52,12 @@
 
 推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，容易上手。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的**公开** (public) repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
 
+[GitHub Desktop](https://desktop.github.com/) 也值得一试。它与 GitHub 高度集成，但是仅支持 Windows 和 macOS。
+
 ## 管理员如何处理 pull request
 
-1. 检查 PR 的标题、摘要，确保它们能清晰、准确地概括其内容。如果存在问题，通知 PR author 来改正；如果无法联系，自己修正。
+1. 检查 PR 的标题、摘要，确保它们能清晰、准确地概括其内容。
+   * 如果存在问题，通知 PR author 来改正；如果无法联系，自己修正。
 2. 完整阅读 description、**Files changed**，如有需要，阅读 **Commits**。
 3. [Discuss and review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
    1. 讨论。如果这是 draft pull request，可以仅留言讨论，提出修改意见，直到 WIP 完成。
@@ -79,6 +82,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **如何写 summary**
 
+* 清晰、准确地概括你的工作。
 * 使用 动词-名词 (verb-noun) 格式。
   > “动词”描述一种行为 (action)，它不一定是英语中的动词，也可以是一些固定用法。下方的表格列出了常用的动词。
 * 句首字母大写，使用 [sentence-style](https://docs.microsoft.com/en-us/style-guide/text-formatting/using-type/use-sentence-style-capitalization)。
@@ -89,9 +93,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 **如何写 description**
 
 * 仅在必需时才写。
+* 清晰、准确、简明。
 * 使用 sentence-style。
 * 考虑用 Markdown 排版。
-* 清晰、准确、简明。
 
 **英文示例**
 
@@ -169,9 +173,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 ```
 
 * 上面展示了一个组。
-* 一个组内，各备选下载地址呈现的内容是相同的。
+* 在一个组内，各备选下载地址提供的内容是相同的。
 * “版本号”是 Mathematica 的版本号。
-* `平台 语言` 是 Mathematica 项目的书写格式。其他类型的项目（例如下载器）直接写名字即可。
+* `平台 语言` 是 Mathematica 安装程序项目的书写格式。其他类型的项目（例如下载器）直接写名字即可。
 * 如果一个组内有多个项目，用加号 (`+`) 连接。
 * 如果一个下载地址有备注说明，写在它那行。
 
@@ -200,10 +204,18 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 ## 如何插入超链接
 
-**应当**使用有意义的、点名目标主题的链接名，通常，使用目标页面的标题即可。例如
+应当使用**有意义的**、点名目标主题的链接名，通常，使用目标页面的标题即可。
+
+本项目允许的格式为
+
+> 文章名 - 作者名 - 网站名
+
+必须出现文章名，作者名和网站名至少出现一个。
+
+例如
 
 ```markdown
-请参看 [Enable Windows 10 firewall to install fonts | 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
+参看 [Enable Windows 10 firewall to install fonts - 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
 ```
 
 如果实在没有合适的标题，就[直接展示链接](https://spec.commonmark.org/0.29/#autolinks)。例如
@@ -219,7 +231,8 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 在继续之前，要清楚一些概念：
 
 * Uniform Resource Identifier (URI) 定义于 [**RFC 3986**](https://www.rfc-editor.org/rfc/rfc3986) (Internet Standard)。
-* Internationalized Resource Identifier (IRI) 定义于 [**RFC 3987**](https://www.rfc-editor.org/rfc/rfc3987) (Proposed Standard)。IRI 是 URI 的扩展。
+* Internationalized Resource Identifier (IRI) 定义于 [**RFC 3987**](https://www.rfc-editor.org/rfc/rfc3987) (Proposed Standard)。
+* IRI 是 URI 的扩展。URI 只允许出现规定的几种字符。而加入 IRI 扩展后，可以出现任意 Unicode 字符。
 * Uniform Resource Locator (URL) 是 URI 的一种。
 * [Internationalized Domain Name](https://www.icann.org/resources/pages/idn-2012-02-25-en) (IDN) 由 ICANN 发起和定义，也有相关的 RFC。
 
