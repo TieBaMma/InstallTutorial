@@ -47,13 +47,15 @@ blockquote strong {
   color: crimson;
 }
 
+/* Names of Sarasa fonts changed many times. The list below was updated at Sarasa v0.12.4 */
 /* ! Caution: We override any other rules on `font-family` here. */
 code,
 kbd,
 pre,
 samp {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Droid Sans Mono", "Courier New",
-    "Sarasa Mono T SC", "SimHei", monospace, "Droid Sans Fallback" !important;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Fira Mono", "Source Code Pro",
+    "Droid Sans Mono", "Courier New", "Sarasa Mono SC", "Sarasa Mono", "Source Han Mono", "SimHei", monospace,
+    "Droid Sans Fallback" !important;
 }
 
 summary {
