@@ -89,21 +89,28 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
 
-[Mathematica 12.1.0 英文版 (Win 版 + Mac 版) OneDrive 链接（国内可用）](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)
+* (12.1.0) Windows 英文 + Mac 英文
+  * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
+<!--  * 磁力链接：-->
 
-[Mathematica 12.1.0 英文版 (Win 版）+ Mac 版下载器 + Win 版下载器 , 百度盘链接](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
+ <!--   ```uri-->
+ <!--   magnet:?xxxx-->
+ <!--   ```-->
 
-[Mathematica 12.1.0 英文版 (Mac 版）, 百度盘链接](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
+* (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
+  * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
 
-[Mathematica 12.1.0 英文版 (Mac 版）, BT 种子链接](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
+* (12.1.0) Mac 英文
+  * [百度网盘](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
+  * [BT 种子](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)（备注）
 
-[Mathematica 12.1.0 英文版 (Mac 版）, 奶牛盘链接（付费）](https://zhengyq.cowtransfer.com/s/f505f8f4ccd943)
+* (12.1.0) Linux 英文
+  * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
+<!--  * 蓝奏云 密码：`xxxx`-->
 
-[Mathematica 12.1.0 英文版 (Linux 版）,百度盘链接](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码: `vuxd`
+* (12.1.0) 在线激活工具
+  * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
 
-[Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
-
-> 经测试支持 12.1 的激活
 
 ### Mathematica 12.0
 
