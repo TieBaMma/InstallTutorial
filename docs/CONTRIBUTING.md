@@ -41,12 +41,13 @@
 3. 编辑文章内容 (`index.md`)。确认无误后，commit 进 Git。
    * 如有需要，编辑其他文件。
    * 请阅读下文“如何写 Git commit message”。
-4. [本地测试](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)。如果条件允许，在 push 到 remote repo 之前，应当在本地编译，测试。
+4. [本地测试](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)。在 push 到 remote repo 之前，尽量在本地编译，测试。
 5. [新建一个 pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)。
    * 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
    * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)，并在标题 (Title) 的开头添加 `[WIP]` 字样。
    * 如果这是一个大型、复杂、需要细致 review 的工作，*建议*在标题 (Title) 的开头添加 `[MEGA]` 字样。
    * 如果这个 pull request 修复了某个 issue，请注意使用 [Fix keyword](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（通常写在摘要中）
+6. 跟进 review 进程，及时响应，直到 merge。
 
 **不熟悉 Git 命令行**？不妨尝图形界面的工具：
 
@@ -56,21 +57,21 @@
 
 ## 管理员如何处理 pull request
 
-1. 检查 PR 的标题、摘要，确保它们能清晰、准确地概括其内容。
+1. 检查 PR 的标题、摘要，确保它们能清晰、准确地概括 PR 内容。
    * 如果存在问题，通知 PR author 来改正；如果无法联系，自己修正。
-2. 完整阅读 description、**Files changed**，如有需要，阅读 **Commits**。
-3. [Discuss and review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
-   1. 讨论。如果这是 draft pull request，可以仅留言讨论，提出修改意见，直到 WIP 完成。
-   2. 正式 review。
+2. [Discuss and review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
+   1. 完整阅读 description、**Files changed**，如有需要，阅读 **Commits**。
+   2. 讨论。如果这是 draft pull request，可以仅留言讨论，提出修改意见，直到 WIP 完成。
+   3. 正式 review。
       1. 如果这是 draft pull request，（由 PR author 或者管理员）删去标题中的 `[WIP]` 字样，之后设置 **Ready for review**。
       2. 自己或者[邀请其他人来](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review) review。
       3. [Approve](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews).
-4. 当该 PR 准备就绪、可以 merge 时，复查它的标题、摘要。
-5. [Merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the PR into branch `gh-pages`.
+3. 当该 PR 准备就绪、可以 merge 时，复查它的标题、摘要。
+4. [Merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the PR into branch `gh-pages`.
    1. 依次考虑下列方式
       1. [squash merge](https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github#squashing-your-merge-commits) （将 PR 的所有内容压缩为一条独立的 commit，插入主线，可以保持主历史记录线性、清洁。）
       2. [rebase merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits) （将 PR 的所有 commits 都插入主线，可以保留所有操作细节，且没有 merge commit。）
-      3. true merge （如无特殊原因，请勿使用。）
+      3. true merge （添加一条特别的 merge commit，将 PR 的所有 commits 都插入主线，容易导致主历史记录复杂、难以回溯。如无特殊原因，请勿使用。）
    2. 填写 commit message
       1. 填写标题 (Summary)。使用 PR 的标题 (Title)；如果它的开头没有 emoji，选择一个合适的加上。
       2. 填写描述 (Description)。至少包含摘要、已知问题（如果有）；一般来说，直接使用 PR 的 description 即可。
@@ -84,18 +85,21 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 * 清晰、准确地概括你的工作。
 * 使用 动词-名词 (verb-noun) 格式。
-  > “动词”描述一种行为 (action)，它不一定是英语中的动词，也可以是一些固定用法。下方的表格列出了常用的动词。
+  * “动词”代表一种行为 (action)，它不一定是英语中的动词，也可以是一些固定用法。下方的表格列出了常用的动词。
+  * 动词用原形。
 * 句首字母大写，使用 [sentence-style](https://docs.microsoft.com/en-us/style-guide/text-formatting/using-type/use-sentence-style-capitalization)。
-* 动词用原形。
 * 标题的末尾没有句末点号。
 * 尽量以适用的 emoji 开头，后跟一个空格。参看下文“使用 emoji 开头”。
+* 长度尽可能控制在
+  * 英文，50 字以内。
+  * 中文，24 字以内。
 
 **如何写 description**
 
 * 仅在必需时才写。
 * 清晰、准确、简明。
 * 使用 sentence-style。
-* 考虑用 Markdown 排版。
+* 考虑用 Markdown 排版。建议使用 [GitHub Flavored Markdown](https://github.github.com/gfm/)。
 
 **英文示例**
 
@@ -103,7 +107,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 🌐 Add new feature: Copy code to clipboard
 ## Summary
 
-* Add a '📋Copy' button at the top left corner of all code blocks (inserted right before `pre`), so that visitors can copy the code easily.
+* Add a '📋Copy' button at the top left corner of all code blocks (inserted right before `pre` node), so that visitors can copy the code easily.
 
 ## Know issues
 
@@ -118,7 +122,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 * 调整 `README.md`
 ```
 
-**常用的动词**：
+**常用的动词**
 
 | English  | 中文 | 说明               |
 | -------- | ---- | ------------------ |
@@ -129,16 +133,23 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 ## 使用 emoji 开头
 
-建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响范围。
+建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响范围。Emoji 与正文之间有一个空格。
 
 目前，本项目允许下列 emoji：
 
-| 符号 | 说明                   |
-| ---- | ---------------------- |
-| 📄   | 文章内容               |
-| 🌐   | 网页                   |
-| 📖   | 项目信息和编辑指南     |
-| 🎨   | 仅代码重构，不影响功能 |
+| Emoji | Code                     | 说明                   |
+| ----- | ------------------------ | ---------------------- |
+| 📄    | `:page_facing_up:`       | 文章内容               |
+| 🌐    | `:globe_with_meridians:` | 网页                   |
+| 📖    | `:book:`                 | 项目信息和编辑指南     |
+| 🎨    | `:art:`                  | 仅代码重构，不影响功能 |
+
+可以直接使用 emoji 或者使用 emoji code。
+
+可在下列网站查询 emoji code：
+
+* [Emoji cheat sheet](http://emoji-cheat-sheet.com/)
+* [Emojipedia](https://emojipedia.org/)
 
 ## VS Code 编辑常见问题
 
@@ -164,7 +175,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 如果要新建下载地址列表，请先阅读 [`README.md`](../README.md) 中“如何新建下载地址列表”部分。
 
-组织格式为
+一个下载地址列表由一或多个“组”构成。“组”是最小的独立单元，它的组织格式为
 
 ```markdown
 * (版本号) 平台 语言
@@ -172,11 +183,10 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
   * 备选下载地址 2
 ```
 
-* 上面展示了一个组。
 * 在一个组内，各备选下载地址提供的内容是相同的。
 * “版本号”是 Mathematica 的版本号。
+* 一个组可以打包多个“项目”。多个项目用加号 (`+`) 连接，加号两侧要留空格。
 * `平台 语言` 是 Mathematica 安装程序项目的书写格式。其他类型的项目（例如下载器）直接写名字即可。
-* 如果一个组内有多个项目，用加号 (`+`) 连接。
 * 如果一个下载地址有备注说明，写在它那行。
 
 **示例**

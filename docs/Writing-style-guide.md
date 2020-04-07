@@ -181,11 +181,13 @@ A **script** is a collection of letters and other written signs used to represen
 
 ## 组织语言
 
-* [Top 10 tips for Microsoft style and voice | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
-* [句子 | 中文技术文档的写作规范 | 阮一峰](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md#%E5%8F%A5%E5%AD%90)
+* 注意语段的长度、语气、语态。参看
+  * [Top 10 tips for Microsoft style and voice | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+  * [句子 | 中文技术文档的写作规范 | 阮一峰](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md#%E5%8F%A5%E5%AD%90)
 * [Writing step-by-step instructions | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
 * [Headings | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/scannable-content/headings)
 * [Lists | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/scannable-content/lists)
+* 祈使句较常见，以“你”作主语的句子较少用。
 
 ## 文本格式
 
@@ -197,7 +199,8 @@ A **script** is a collection of letters and other written signs used to represen
   * *斜体*对应的 HTML element 是 [`<em>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)，此处引述其逻辑意义来说明*斜体*的语气：这个元素标记出需要用户重读突出的内容 (for words that have a stressed emphasis)。
 * 从无障碍性上考虑，**加粗**比*斜体*更实用。
 * 定义概念时，**加粗**该词。
-* 在较长的句子、段落中，允许**加粗**专有名词，以使之有别于正文。
+* 在较长的句子、段落中，可以**加粗**专有名词，以使之有别于正文。
+* 在较长的句子、段落中，可以设置专业术语为*斜体*，以使之有别于正文。
 
 **示例**
 
@@ -211,9 +214,9 @@ A **script** is a collection of letters and other written signs used to represen
 
 > 如果幺正矩阵的元素都是实数，则称为**正交矩阵** (orthogonal matrix)。
 
-### 引用作品、章节、网站的名称
+### 引用作品、章节、网页的名称
 
-当语段内出现作品、章节、网站的名称时，
+当语段内出现作品、章节、网页的名称时，
 
 * 书籍、刊物、政策文件、blog、电影、音乐、诗歌等作品的名称
   * 英文的，使用 ***加粗斜体***。例如
@@ -223,10 +226,17 @@ A **script** is a collection of letters and other written signs used to represen
 * 一部作品内部的章节的名称
   * 使用双弯引号 (curly double quotation mark) 夹注起来。
   * 文本使用正文的样式，也可以*斜体*，一篇文章内应当一致。
-* 无法归入上述类别的网站的名称
-  * 使用正文的样式，并且设置为指向目标网站的链接。
-  * 注意将网站的名称整理为统一的格式。例如
-    > 文章名 | 网站名
+* 无法归入上述类别的网页的名称
+  * 使用正文的样式，并且设置为指向目标网页的链接。
+  * 注意将网页的名称整理为统一的格式。例如
+    > 文章名 | 作者名 | 网站名
+
+### 下定义
+
+* 定义概念时，它的全称应当在句子内部出现至少一次，使用单数形式（除非该词必须为复数），并且**加粗**。这样，读者能够知道其规范拼写、大小写。
+* 纯中文的词语没有大小写的问题，于是，也可以出现在句首。
+* 翻译自外文的词语必须注明其英文。如果该词的起源不在英语，还应当注明其原生写法。
+* 专业术语首次出现时，应当同时给出定义，定义应当通俗易懂、不失严谨。定义可以仅是链接，而不插入段内。
 
 ## 混合 script 时的标点符号规范
 
@@ -273,6 +283,8 @@ A **script** is a collection of letters and other written signs used to represen
 
 * 西文字符总是半角。不要使用全角西文字符，它们是历史遗留问题。（如果使用日语输入法输入西文，记得检查设置。）
 * 慎用强调。不应该大片地使用强调，因为这容易使读者困惑。（如果一定要这样做，三思。）
+* 汉语词语（不含专业术语）的意义应当参考由**中国社会科学院语言研究所词典编辑室**编写、**商务印书馆**出版的《现代汉语词典》。
+* 在英语中，**bold**、*italic* 都是形容词 (adjective)。在汉语中，习惯上，**加粗**是动词、名词，*斜体*是名词。
 
 ## 参考
 
