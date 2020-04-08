@@ -91,22 +91,16 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 
 * (12.1.0) Windows 英文 + Mac 英文
   * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
-<!--  * 磁力链接：-->
-
- <!--   ```uri-->
- <!--   magnet:?xxxx-->
- <!--   ```-->
 
 * (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
   * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
 
 * (12.1.0) Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
-  * [BT 种子](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)（备注）
+  * [BT 种子](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
 
 * (12.1.0) Linux 英文
   * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
-<!--  * 蓝奏云 密码：`xxxx`-->
 
 * (12.1.0) 在线激活工具
   * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
