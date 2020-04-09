@@ -11,8 +11,8 @@ trim_trailing_whitespace = true
 [*.{css,html,js,yml}]
 indent_size = 2
 
-[*.{md,markdown}]
-indent_size = 4
+[*.{json}]
+insert_final_newline = unset
 
 [.vscode/**]
 insert_final_newline = unset

@@ -22,6 +22,7 @@
 * **UTF-8** (without BOM)
 * **LF** line ending
 * 文档末尾有换行符
+  * JSON 文档末尾可以没有换行符
 * 缩进
   * 使用**空格**缩进
   * CSS、HTML、JavaScript、YAML 的缩进为 2 个空格
@@ -45,11 +46,10 @@
 
 > **注意**
 >
-> * 无序列表 (unordered list) 每级间缩进 2 个空格。
-> * 有序列表 (ordered list) 每级间*推荐*缩进 4 个空格。
+> * 在多级列表中，子级的左端应当对齐父级的内容的左端。详见 ***CommonMark Spec*** 的 “5.2 List items” 的第 6 条。
 > * **磁力链接 (magnet) 请以 code block 呈现**，以防编译错误。
 > * **请使用 `<del>` 添加删除线**。不要使用 [`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)，因为该元素已经废除。
-> * 请不要触动 [front matter](https://jekyllrb.com/docs/front-matter/)，除非您已经与本项目的管理者 [@TieBaMma](https://github.com/TieBaMma) 确认需要修改。
+> * 请不要触动 [front matter](https://jekyllrb.com/docs/front-matter/)，除非本项目的管理者 [@TieBaMma](https://github.com/TieBaMma) 已经确认需要修改。
 > * 随着 GitHub Pages 上部署的 Jekyll 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
 
 ## 写作风格
