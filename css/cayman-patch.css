@@ -69,11 +69,6 @@ summary:hover {
   text-decoration: underline solid;
 }
 
-/* ! Designed for this website only */
-#toc {
-  box-shadow: 1px 1px 3px gray;
-}
-
 /* Based on https://github.githubassets.com/assets/github-89d9d3c9d19ddf234d9355a9ff50bcbd.css */
 kbd {
   background-color: #fafbfc;
@@ -101,4 +96,36 @@ del {
 ins {
   text-decoration: none;
   background-color: #d4fcbc;
+}
+
+/* ! The following rules are designed for this website only */
+
+#toc {
+  box-shadow: 1px 1px 3px gray;
+}
+
+/* Feature: Copy code to clipboard */
+.copyButton {
+  border-radius: 3px;
+  border-width: 2px;
+  display: block;
+}
+
+.copyButton::before {
+  content: "\1F4CB";
+}
+
+.topBanner {
+  background-color: green;
+  color: white;
+  display: block;
+  font-size: 1.7rem;
+  font-weight: bold;
+  left: 0;
+  padding: 5px 0;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100vw;
+  z-index: 9999;
 }
