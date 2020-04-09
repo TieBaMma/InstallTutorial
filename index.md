@@ -121,17 +121,20 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
 
 * (12.1.0) Windows 英文 + Mac 英文
-  * [OneDrive](http://wxyh.bilibli.icu/yunpan/%E6%88%91%E7%9A%84%E7%BD%91%E7%9B%98/Software/Mathematica/mma12.1%E8%8B%B1%E6%96%87/)
+  * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
+
 * (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
   * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
+
 * (12.1.0) Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
   * [BT 种子](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
-  * [奶牛快传（过期时间 2021-04-08，如果百度慢就用这个）](https://zhengyq.cowtransfer.com/s/f505f8f4ccd943)
+
 * (12.1.0) Linux 英文
   * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
 
-[Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) （经测试，支持激活 12.1）
+* (12.1.0) 在线激活工具
+  * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
 
 ### Mathematica 12.0
 
