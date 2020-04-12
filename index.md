@@ -7,7 +7,7 @@ title: {{ site.title }}
 
 首先还是要强调一句：
 
-**用盗版是迫不得已的，大家有能力的话要支持正版！**
+**用盗版是迫不得已的，有能力的话要支持正版！**
 
 学生版 80 美元——最外层页面写的确实是 $161，但是你[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
 
@@ -17,9 +17,9 @@ title: {{ site.title }}
 
 [百度贴吧](http://tieba.baidu.com/f?kw=mathematica)里的帖子不能编辑，很不方便。
 
-但大家<del>在注册失败这事上可以说是拥有无穷的创造力</del>，注册过程又会出现新的问题。故开此文档，整理安装、注册激活 Mathematica 的过程，以及可能碰到的问题。以后如果出现新的问题，欢迎补充整理。
+但大家<del>在激活失败这事上可以说是拥有无穷的创造力</del>，激活过程又会出现新的问题。故开此文档，整理安装、激活 Mathematica 的过程，以及可能碰到的问题。以后如果出现新的问题，欢迎补充整理。
 
-在贴吧置顶中提出“新的问题”前请先仔细阅读本文。**问重了的直接删**。
+在贴吧置顶中提出“新的问题”前，请先仔细阅读本文。**问重了的直接删**。
 
 询问为什么一回车注册机就关了的，直接删，加封禁十天。
 
@@ -29,14 +29,15 @@ title: {{ site.title }}
 
 * 失败的**具体**症状（你单单说一句“我下载失败了”，或者“我这里密钥总是不对”没有任何意义）
 * 操作系统是否做过什么特殊的设置
+* 系统的版本、配置，以及系统的自动更新是否打开
 * 是否使用过xx优化大师
-* 系统自动更新是否已打开
+* 安全软件、杀毒软件
 
 ## Wolfram Engine for Developers
 
 2019 年 5 月，Wolfram 推出了[**免费**](https://www.wolfram.com/engine/faq/)的 [**Wolfram Engine for Developers**](https://www.wolfram.com/engine/)。此软件实质上是一个**没有笔记本界面、也没有本地自带帮助**的 Mathematica。
 
-但是，它是**免费**的！并且，虽然没有自带笔记本，但你可以[用 Jupiter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)。
+但是，它是**免费**的！并且，虽然没有自带笔记本，但你可以[用 Jupyter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)。
 
 Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolfram Engine](https://support.wolfram.com/kb/45743)。
 
@@ -44,6 +45,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.0) Windows
   * [百度网盘](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw) 提取码：`skr5`
+
 * (12.0.0) Linux
   * [百度网盘](https://pan.baidu.com/s/1qX5Z36w3SoSFCEsGSGqP9g) 提取码：`rw3a`
   * [蓝奏云（分卷）](https://www.lanzous.com/b00n4te9a/) 密码：`dn3c`
@@ -86,7 +88,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> [**版本 12.1 解决解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，可以通过设置 **高 DPI 缩放替代** 为 **应用程序**，以及调节 Wolfram 笔记本的缩放等措施来暂缓。
+> [**版本 12.1 解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，那时的缓解措施是，设置 **高 DPI 缩放替代** (High DPI scaling override) 为 **应用程序** (Application)，以及调节 Wolfram 笔记本的缩放等。
 >
 > ---
 >
@@ -137,11 +139,13 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 
 > **警告**
 >
-> 测试发现，版本 12 新增了一个与**非 ASCII 字符**相关的 bug：
+> 测试发现，版本 12 出现了一个与**非 ASCII 字符**相关的 bug：
 >
 > `SystemOpen` 函数无法打开含有中文字符的路径。若经常使用此函数，请谨慎升级。
 >
 > 同时，希望买了正版的同学去向官方反馈一下这个 bug。（目前仅在中文版下做了测试，不确定英文版是否受到影响。）
+>
+> 参看【Q21】。
 
 > **注意**
 >
@@ -221,7 +225,7 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 
 > **警告**
 >
-> 版本 9 的注册是历代最烦，并且有中文帮助搜索能力退化的问题，不推荐使用。
+> 版本 9 的激活是历代最烦，并且有中文帮助搜索能力退化的问题，不建议使用。
 
 > **注意**
 >
@@ -258,7 +262,7 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 
 所以，**如无特殊原因，请不要选择过老版本的 Mathematica！**
 
-Mathematica 7.0 中文版[百度网盘](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig) 提取码：`axir` （注意，中文文档需要手动覆盖，搞不清怎么覆盖的就用高版本！）
+Mathematica 7.0 中文版[百度网盘](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig) 提取码：`axir` （注意，中文文档需要手动覆盖，不清楚怎么覆盖的就用高版本！）
 
 Mathematica 5.0 英文版（Windows XP 可用）[百度网盘](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9`
 
@@ -275,15 +279,15 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 * [Mathematica Quick Revision History - Wolfram](https://www.wolfram.com/mathematica/quick-revision-history.html)
 * [A little bit of Mathematica history - Nasser M. Abbasi](https://www.12000.org/my_notes/compare_mathematica/index.htm)
 
-## Mathematica 软件的注册
+## Mathematica 软件的激活
 
-本文以注册 Mathematica 8 为例，并且假定你的电脑从来没有安装、注册过任何版本的 Mathematica。
+本文以激活 Mathematica 8 为例，并且假定你的电脑从来没有安装、激活过任何版本的 Mathematica。
 
 更高版本的操作大致相同，不同之处下面有说明。其他版本不在此教程范围，请自行度娘或谷哥，或者在贴吧置顶帖中跟帖讨论。
 
 但是，这里再次强调，**希望大家不要使用过老的版本！**
 
-**安装和注册的步骤**大致为
+**安装和激活的步骤**大致为
 
 1. 从上文下载 Mathematica 的安装程序。
 2. 从下面下载对应的注册机。
@@ -305,7 +309,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 * 命令行程序
 * 图形界面程序
 
-本文中，没有特别注明小版本的注册机，都是通用的。例如，11.1 注册机既可以注册 11.1.0 又可以注册 11.1.1。
+本文中，没有特别注明小版本的注册机，都是通用的。例如，11.1 注册机既可以激活 11.1.0 又可以激活 11.1.1。
 
 > **注意**
 >
@@ -342,7 +346,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 **版本 10.4** 的：
 [注册机](http://pan.baidu.com/s/1dF8xg0h)
 
-此注册机可以完全注册 10.4.0 及 10.4.1 中英文版。
+此注册机可以完全激活 10.4.0 及 10.4.1 中英文版。
 
 这个注册机**必须在命令行下使用**！也就是说，请打开命令行，然后调用这个注册机。不明白什么叫“打开命令行然后调用这个注册机”的，<del>请乖乖用版本 8 的注册机多试几次</del> 请下载[这个批处理文件（提取码：`uh59`）](https://pan.baidu.com/s/1HR2bwacizkNrPRmYi1Kmvw)，用法写在文件名上。
 
@@ -354,11 +358,11 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 **版本 8 到 10** 的注册机：
 
-> <del>[新版注册机（可用于版本 8、9、10）下载地址](http://pan.baidu.com/share/link?shareid=188221&uk=1661347987)（注意注册版本 9 时需要多试几次，下详。版本 10 亦可使用本注册机，但需试很多次，成功率极低。）</del>可用于版本 8、9、10 的新版注册机下载地址现已失效，且吧主电脑里没存档，故暂时无法补档，欢迎手里有这个注册机的同学补上。不过，看了本教程的你应该也注意到了，这个新版注册机其实并不好使。对版本 8，新旧注册机没区别。对版本 9，部分计算机可能没法用新注册机注册，还不如用旧版，也就多一道手续；更何况——这里再强调一遍——版本 9 的自带帮助有搜索能力退化的问题，新手别用！
+> <del>[新版注册机（可用于版本 8、9、10）下载地址](http://pan.baidu.com/share/link?shareid=188221&uk=1661347987)（注意激活版本 9 时需要多试几次，下详。版本 10 亦可使用本注册机，但需试很多次，成功率极低。）</del>可用于版本 8、9、10 的新版注册机下载地址现已失效，且吧主电脑里没存档，故暂时无法补档，欢迎手里有这个注册机的同学补上。不过，看了本教程的你应该也注意到了，这个新版注册机其实并不好使。对版本 8，新旧注册机没区别。对版本 9，部分计算机可能没法用新注册机激活，还不如用旧版，也就多一道手续；更何况——这里再强调一遍——版本 9 的自带帮助有搜索能力退化的问题，新手别用！
 
 [旧版注册机（可用于版本 8、9、10）下载地址](http://pan.baidu.com/s/1eQGtvF0)
 
-注意，注册版本 9 时，需要多试几次，下详。已证实部分计算机必须使用旧版注册机才能完全注册版本 9。使用这个注册机注册版本 9 时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本 10 亦可使用本注册机，但需试很多次，成功率极低。
+注意，激活版本 9 时，需要多试几次，下详。已证实，部分计算机必须使用旧版注册机才能完全激活版本 9。使用这个注册机激活版本 9 时要多点步骤，下详。同样的，密码里的 `::1` 也是密码的一部分！版本 10 亦可使用本注册机，但需试很多次，成功率极低。
 
 > **注意**
 >
@@ -402,7 +406,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 注意：图中所示的是老版注册机的界面，它的 Activation Key 的格式是 `4 位数字-4 位数字-5 位字母`，或者里面有 `::1`。
 
-<del>使用新版注册机算出来的 Activation Key 是 `4-4-6` 的形式。这里强烈不推荐使用新版注册机注册版本 9 和版本 10，因为已经证实在许多计算机上，新版注册机无法完全注册版本 9 和版本 10。</del>（版本 8 的新版注册机已经没有了。）老注册机在注册版本 9 时可能要多点步骤，详见下文。
+<del>使用新版注册机算出来的 Activation Key 是 `4-4-6` 的形式。这里强烈不建议使用新版注册机激活版本 9 和版本 10，因为已经证实，在许多计算机上，新版注册机无法完全激活版本 9 和版本 10。</del>（版本 8 的新版注册机已经没有了。）老注册机在激活版本 9 时可能要多点步骤，详见下文。
 
 还有，以上截图是版本 8、9 注册机的截图，版本 10 至版本 11.2 注册机只有那个黑乎乎的命令行界面，但**使用方法和这个注册机没什么不同，不要大惊小怪**！
 
@@ -418,16 +422,16 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 （注意：如果你使用了老版注册机或者版本 10 英文版的新注册机，那么，不要忘了把 Password 中的 `::1` 也给一起复制了！那也是密码的一部分！）
 （如果你要手抄的话，注意这两个冒号都是英文冒号！）
 
-如果是 Mathematica 8 中文版，那么按照本文步骤，100% 注册成功，Enjoy it！
+如果是 Mathematica 8 中文版，那么按照本文步骤，100% 激活成功。
 
-如果是 Mathematica 9 中文版，那么注册步骤一样，只是不一定 100% 成功，需要多试几次，一定要多试几次！！！
+如果是 Mathematica 9 中文版，那么激活步骤一样，只是不一定 100% 成功，需要多试几次，一定要多试几次！！！
 如果人品好，两三次就成功了；如果人品实在差，试了 30、40 次都没有成功，那么还是老实安装 Mathematica 8 中文版吧，足够你学习使用了。
 
-再强调一次，注册中文版不要用英文版注册机，否则开不了帮助！
+再强调一次，激活中文版不要用英文版注册机，否则开不了帮助！
 
-如果是 Mathematica 9 英文版，那么注册步骤也一样，只是不用纠结，因为有 Mathematica 9 版本所对应的英文注册机 ([下载链接](http://pan.baidu.com/share/link?shareid=549603888&uk=1661347987)，注意这个只能用来注册英文版！）
+如果是 Mathematica 9 英文版，那么激活步骤也一样，只是不用纠结，因为有 Mathematica 9 版本所对应的英文注册机 ([下载链接](http://pan.baidu.com/share/link?shareid=549603888&uk=1661347987)，注意这个只能用来激活英文版！）
 
-如果是版本 10 和版本 11 中英文版，注册步骤比版本 8 和 9 还要简单，并成功率 100%（？）。
+如果是版本 10 和版本 11 中英文版，激活步骤比版本 8 和 9 还要简单，并成功率 100%（？）。
 
 打开软件请双击新生成的桌面图标，非要跑到开始菜单甚至安装文件夹里去开的话，请点 `Mathematica.exe`，不要跑去点 MathKernel.exe！
 
@@ -435,11 +439,11 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 版本 9 及之前的 Mathematica 的界面就是一个细长条，不要大惊小怪！新建笔记本（就是用来写代码的）请点击细长条上的 文件 -> 新建 -> 笔记本，或者直接按 <kbd>Ctrl</kbd> + <kbd>N</kbd>！
 
-### 使用老版注册机注册版本 9 时所需的额外步骤
+### 使用老版注册机激活版本 9 时所需的额外步骤
 
-由于一些尚不明确的原因（欢迎补充），有部电脑在使用新版注册机注册版本 9 中文版后，依旧会出现中文帮助打不开的问题。
+由于一些尚不明确的原因（欢迎补充），有部电脑在使用新版注册机激活版本 9 中文版后，依旧会出现中文帮助打不开的问题。
 
-目前发现，唯一对策是使用老版注册机。老版注册机一度被认为无法正常注册版本 9 中文版，但是事实并非如此。使用老版注册机注册后所需的额外步骤如下：
+目前发现，唯一对策是使用老版注册机。老版注册机一度被认为无法正常激活版本 9 中文版，但是事实并非如此。使用老版注册机激活后所需的额外步骤如下：
 
 打开软件，点击顶部菜单的 编辑 -> 偏好设置 -> 界面 -> 菜单和对话框语言设置 -> ChineseSimplified。之后关闭软件重启，自带帮助就可以顺利打开了！
 
@@ -457,17 +461,17 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 [《有的字母蓝，有的字母黑，你知道为什么吗？你对语法着色有认识吗？》](http://note.youdao.com/noteshare?id=06adaac6aaf85c87c4cd6fdf715b418c)
 
-## 安装注册 Mathematica 时可能碰到的问题
+## 安装激活 Mathematica 时可能碰到的问题
 
 ### 【Q1】为何安装 Mathematica 时，没有弹出激活界面
 
-【A1】如果之前安装过 Mathematica，且电脑又没有重装过。那么，再次安装 Mathematica 时，不会弹出激活界面。因为 Mathematica 卸载后，注册文件 `mathpass` 默认保留，不会自动删除。
+【A1】如果之前安装过 Mathematica，且电脑又没有重装过。那么，再次安装 Mathematica 时，不会弹出激活界面。因为 Mathematica 卸载后，激活文件 `mathpass` 默认保留，不会自动删除。
 
-如果之前是成功注册的，比如，之前成功注册了 Mathematica 8，然后卸载 Mathematica 8，安装 Mathematica 9，那么，这时 Mathematica 9 不会弹出激活界面，而实际上 Mathematica 9 已经注册了。
+如果之前是成功激活的，比如，之前成功激活了 Mathematica 8，然后卸载 Mathematica 8，安装 Mathematica 9，那么，这时 Mathematica 9 不会弹出激活界面，而实际上 Mathematica 9 已经激活了。
 
-验证是否完整注册的一个办法是，尝试自由格式输入是否可用。
+验证是否完整激活的一个办法是，尝试自由格式输入是否可用。
 
-当然，这也是那些人品不行、注册几十次都不成功、但却一定要使用 Mathematica 9 中文版的朋友可以采用的一个方法。就是先安装 Mathematica 8 中文版，按照本文步骤注册成功后，卸载 Mathematica 8，然后再安装 Mathematica 9，这样就可以使用 Mathematica 9 中文版的全部功能了。
+当然，这也是那些人品不行、激活几十次都不成功、但却一定要使用 Mathematica 9 中文版的朋友可以采用的一个方法。就是先安装 Mathematica 8 中文版，按照本文步骤激活成功后，卸载 Mathematica 8，然后再安装 Mathematica 9，这样就可以使用 Mathematica 9 中文版的全部功能了。
 
 ### 【Q2】macOS 或者 Linux 系统怎么使用某些注册机
 
@@ -478,7 +482,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 1. 在自己的电脑上安装好 Mathematica。
 2. 在一台安装有 Windows 系统的电脑上运行注册机。
 3. 打开你的 Mathematica 的激活界面，把这个 Math ID 敲键盘输入注册机相应的输入框中。
-4. 完成注册。
+4. 完成激活。
 
 Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
@@ -532,18 +536,22 @@ Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开�
 
 【A8】对于 64 位系统，VC2010 运行库的 64 位 (x64) 和 32 位 (x86) 版本都要安装，然后那个注册机才能运行。也就是说，64 位系统需要安装本文百度网盘下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
 
-### 【Q9】注册不当，需要重置 Mathematica：Mathematica 已注册，但功能有限制，比如不能使用自由输入、虚拟全书、函数浏览器、帮助文档
+### 【Q9】激活不当，需要重置 Mathematica：Mathematica 已激活，但功能有限制，比如不能使用自由输入、虚拟全书、函数浏览器、帮助文档
 
-（这是大家碰到最多的问题，也是注册不当的问题。）
+* 自由输入 (Free-Form Input)
+* 帮助文档 (Documentation)
+* 虚拟全书 (Virtual Book)
+
+（这是最常见的问题，也是激活不当的问题。）
 
 【A9】首先，请确保你已经使用了正确的注册机！注册机的问题具体参见前文！
 
-如果注册机正确，但还是有问题，那么，一般是因为之前安装过 Mathematica 但是注册不完全。
+如果注册机正确，但还是有问题，那么，一般是因为之前安装过 Mathematica 但是激活不完全。
 
 解决步骤是
 
 1. 删除残余信息。
-2. 再重新注册。
+2. 再重新激活。
 
 删除配置信息的方法，具体请参考官网的教程《[如何通过恢复 Mathematica 默认配置来解决常见问题 (How do I fix common problems by resetting Mathematica to its default configuration)](https://support.wolfram.com/kb/12464)》，建议中英文版本对照阅读。
 
@@ -588,7 +596,7 @@ Remove-Item -Path @("Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research", "R
 > * 已经证实，在部分计算机上，即使正确使用注册机，并且完成此处所述的步骤，依旧无法清理干净残余信息。那么，这里还有最后一个办法（已在 Windows Vista 32 位，Mathematica 9.0.1 中文版测试）：
 >   * 首先，在计算机上新建一个帐户：开始 -> 控制面板 -> 用户帐户和家庭安全 -> 添加或删除用户帐户 -> 创建一个新帐户（帐户的权限，笔者选的是“管理员 (Administrator)”，不过，大概 Guest 也可以？大家可以试一试，然后把结果编辑进来）。然后，把 Mathematica 安装在这个新的帐户里，就不用担心残留信息的问题了。安装和激活完成之后新建的帐户可以删除。
 
-第 1 步，删除注册信息。
+第 1 步，删除激活信息。
 
 Windows XP 在这 2 个目录：
 
@@ -637,11 +645,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 > 这份 Mathematica 使用的密码不允许英语以外的其它语言。关于启用更多的功能，请与 Wolfram Research 联系 (`http://www.wolfram.com`). 您必须重新启动前端。
 
-【A10】因为你用英文注册机注册了中文版。（认真看教程！不要跑外面去乱下注册机！🤦）
+【A10】因为你用英文注册机激活中文版。（认真看教程！不要跑外面去乱下注册机！🤦）
 
 再强调一遍，**一定要用对注册机！**
 
-要完全注册版本 8 和版本 9 的中文版，只能使用版本 8 的中文版注册机。
+要完全激活版本 8 和版本 9 的中文版，只能使用版本 8 的中文版注册机。
 
 弄不清什么是中文版注册机的人，以及自以为使用了中文版注册机却依然出现这个问题的人，请使用本教程中提供的注册机！
 
@@ -649,7 +657,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A11】版本 9
 
-### 【Q12】为什么每回点开注册机都出现“已停止工作”
+* [Mathematica 9 system requirements - Wolfram Support](https://support.wolfram.com/12432)
+* [Mathematica 10.0–10.3 system requirements - Wolfram Support](https://support.wolfram.com/23176)
+
+### 【Q12】为什么每次点开注册机都出现“已停止工作”
 
 ![注册机已停止工作](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
 
@@ -657,11 +668,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q13】使用没问题，但界面出现乱码，如图
 
-![Mathematica 界面乱码](http://ww4.sinaimg.cn/large/a15b4afegw1f7guv45c0ej20g400idfn)
+![Mathematica 9 界面乱码，在 Windows 7](http://ww4.sinaimg.cn/large/a15b4afegw1f7guv45c0ej20g400idfn)
 
 【A13】似乎存在多种原因。
 
-一种已经被证实的原因是，电脑的系统地区被改动过，此种情况改回中文区即可解决。
+一种已经被证实的原因是，电脑的系统区域 (system locale) 被改动过，此种情况改回中文区即可解决。
 
 ### 【Q14】版本 10（不论中英文版）卡顿，卡在初始界面，界面显示不完全
 
@@ -699,10 +710,14 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A20】和 Mathematica 自带的字体安装未成功有关。
 
-请仔细检查杀软（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。更多讨论请参看 [Error code 702 on launch of Mathematica (Windows 10) - Wolfram Community](https://community.wolfram.com/groups/-/m/t/917946)。
+请仔细检查安全软件（比如，360 啊，360 啊，还有 360 啊）是否屏蔽了外部字体安装。参看 [Error code 702 on launch of Mathematica (Windows 10) - Wolfram Community](https://community.wolfram.com/groups/-/m/t/917946)。
 
 ### 【Q21】 软件是否可以安装在中文路径下
 
-【A21】Mathematica **理论上**可以安装在中文路径下，但是近几版 Mathematica 已多次出现了**和中文（确切地说是 Unicode）相关的 bug**。并且目前已经证实，至少 11.3 中文版，若是安装在中文路径下，软件会打不开。
+【A21】若想避免麻烦，安装时应尽量**避免使用中文路径**。
 
-所以，若想避免麻烦，安装时应尽量**避免使用中文路径**。大家也可积极对其他版本进行实验，丰富本教程内容。
+Mathematica **理论上**可以安装在中文路径下，但是，近几版 Mathematica 已多次出现了**和中文（确切地说是 Unicode）相关的 bug**。并且目前已经证实，至少 11.3 中文版，若是安装在中文路径下，会打不开。
+
+大家也可积极对其他版本进行实验，丰富本教程内容。
+
+Mathematica 的多个组件都有 Unicode 支持问题，而且长期未修复。参看 [How to workaround failures with Unicode filepaths - Stack Exchange](https://mathematica.stackexchange.com/q/143953)。
