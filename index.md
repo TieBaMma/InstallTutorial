@@ -23,7 +23,7 @@ title: {{ site.title }}
 
 询问为什么一回车注册机就关了的，直接删，加封禁十天。
 
-**教程中的地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
+**教程中的地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 同时，请意识到，本文没有涵盖的问题通常是**不太常见**的。所以，如果真的希望问题尽快得到解决，那么，在提出“新的问题”时请**尽可能详细**地给出背景信息。例如，
 
@@ -82,25 +82,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 **正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
 
-**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
+**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> ---
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
->
-> 版本 11.1 之后的中文帮助文档包及安装方法可以前往 <http://tieba.baidu.com/p/5696398243> 查看。
->
-> ---
->
 > [**版本 12.1 解决解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，可以通过设置 **高 DPI 缩放替代** 为 **应用程序**，以及调节 Wolfram 笔记本的缩放等措施来暂缓。
->
-> ---
->
-> 没有太多需求的初学者可以考虑先上手版本 8，参考 <http://tieba.baidu.com/p/3204136180>。*仍请注意兼容性等问题。*
 >
 > ---
 >
@@ -112,13 +98,24 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 4. 早期 Mathematica 的自带文档非常简略。
 > 5. [绘图和动画等功能在版本 6 时有过重大修改](https://note.youdao.com/noteshare?id=0c2719208239696d61182199327bd38c)。
 
+### 中文版和英文版的区别
+
+关键区别是帮助文档的语言。只有自带了**中文帮助**的才叫中文版！
+
+英文版也可以调出中文提示，但是它没有中文帮助。
+
+Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/p/4024190694>。
+
+版本 11.1 \~ 12.0 的中文帮助文档包及安装方法可以前往 <https://tieba.baidu.com/p/5696398243> 查看。
+该贴的楼主已经将文件上传至[百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg)，提取码 `da1s`。
+
+另外，参看【Q3】。
+
 ### Mathematica 12.1
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
 * (12.1.0) Windows 英文 + Mac 英文
   * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
@@ -148,11 +145,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
->
-> 可以在 <http://tieba.baidu.com/p/5696398243> 下载中文帮助文档包（Linux、Mac 均适用）。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
 * (12.0) Windows 中文
   * [百度网盘](https://pan.baidu.com/s/1_X6Qf9722bo7nV-eI_kY_Q) 提取码：`fhtc`
@@ -177,11 +170,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
-
-11.1\~11.3 的中文帮助可在 <http://tieba.baidu.com/p/5696398243> 找到。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
 * (11.3.0) Windows 中文 + 破解工具
   * 磁力链接：
@@ -214,9 +203,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
 对于最新的版本 10 中文版，自版本 9.0.1 持续至今的中文帮助搜索能力退化问题已经得到了解决。（10.3.0 版本时，部分电脑需要使用 <http://tieba.baidu.com/p/4172398243> 中的方法进行修复，10.3.1 后似乎已无此问题）
 
@@ -238,9 +225,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
 [Mathematica 9.0.1 中文版](http://pan.baidu.com/share/link?shareid=341776&uk=353288367)
 
@@ -254,9 +239,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 英文版也可以调出中文提示，但是它没有中文帮助。只有带了**中文帮助**的才叫中文版！
->
-> Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+
+没有太多需求的初学者可以考虑先上手版本 8，参考 <http://tieba.baidu.com/p/3204136180>。**仍请注意兼容性等问题。**
 
 [Mathematica 8.0.4 中文版](http://pan.baidu.com/s/1skUb3n3)（MD5：`6aebc6776548f7b6ed134efafdb2af5d`）
 
@@ -312,7 +297,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 **Windows 10 自带的安全软件 (Windows Defender) 会将版本 10 以上版本的注册机直接删掉。解压前，请打开 [Windows Defender 设置](https://support.microsoft.com/help/4012987)，将解压路径从查杀路径里[排除出去 (Exclusions)](https://support.microsoft.com/help/4028485)，或者[暂停 Real-time protection](https://support.microsoft.com/help/4027187)。**
 
-**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载链了！**
+**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 注册机主要有 3 种形式：
 
@@ -472,34 +457,42 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 [《有的字母蓝，有的字母黑，你知道为什么吗？你对语法着色有认识吗？》](http://note.youdao.com/noteshare?id=06adaac6aaf85c87c4cd6fdf715b418c)
 
-## 注册 Mathematica 时可能碰到的问题
+## 安装注册 Mathematica 时可能碰到的问题
 
-### 【Q1】为何安装 Mathematica 的时候，没有弹出激活界面
+### 【Q1】为何安装 Mathematica 时，没有弹出激活界面
 
-【A1】如果电脑上之前安装过 Mathematica，而电脑又没有重装过；Mathematica 卸载之后，注册文件 `mathpass` 不会自动删除，这样再安装 Mathematica，就不会弹出激活界面了；
-但如果之前是成功注册的话，比如之前成功注册了 Mathematica 8，然后将 Mathematica 8 卸载，安装 Mathematica 9，这时 Mathematica 9 不会弹出激活界面，而实际上 Mathematica 9 已经是注册了。
+【A1】如果之前安装过 Mathematica，且电脑又没有重装过。那么，再次安装 Mathematica 时，不会弹出激活界面。因为 Mathematica 卸载后，注册文件 `mathpass` 默认保留，不会自动删除。
 
-验证是不是完整注册的一个办法是，尝试自由格式输入是否可用。
+如果之前是成功注册的，比如，之前成功注册了 Mathematica 8，然后卸载 Mathematica 8，安装 Mathematica 9，那么，这时 Mathematica 9 不会弹出激活界面，而实际上 Mathematica 9 已经注册了。
 
-而这也是那些人品不行，注册几十次都不成功但却一定要使用 Mathematica 9 中文版 的朋友可以采用的一个方法，就是先安装 Mathematica 8 中文版，按照本文步骤注册成功后，卸载 Mathematica 8，然后再安装 Mathematica 9，这样就可以使用 Mathematica 9 中文版全部功能了。
+验证是否完整注册的一个办法是，尝试自由格式输入是否可用。
+
+当然，这也是那些人品不行、注册几十次都不成功、但却一定要使用 Mathematica 9 中文版的朋友可以采用的一个方法。就是先安装 Mathematica 8 中文版，按照本文步骤注册成功后，卸载 Mathematica 8，然后再安装 Mathematica 9，这样就可以使用 Mathematica 9 中文版的全部功能了。
 
 ### 【Q2】macOS 或者 Linux 系统怎么使用某些注册机
 
 【A2】
 
-1. 在自己电脑上安装好 Mathematica；
-2. 然后在别人安装有 Windows 系统的电脑上运行注册机；
-3. 将你电脑 Mathematica 弹出的激活界面上的 Math ID 敲键盘敲入注册机相应输入框中进行注册。
+本文提供的一些注册机只运行于 Windows。请按下述方法使用：
 
-因为本文提供的一些注册机只有 Windows 版本。而注册机算出来的 Activation Key 和 Password，是对应于 Math ID 的，跟硬件设备无关。
+1. 在自己的电脑上安装好 Mathematica。
+2. 在一台安装有 Windows 系统的电脑上运行注册机。
+3. 打开你的 Mathematica 的激活界面，把这个 Math ID 敲键盘输入注册机相应的输入框中。
+4. 完成注册。
 
-### 【Q3】如何实现 Mathematica 帮助文档中英文切换？（满足某些有特殊癖好的朋友）
+Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
-【A3】如果你电脑上安装的是 Mathematica 英文版，那么，从别人安装了中文版 Mathematica 的电脑里把他的中文帮助文档拷到你电脑上 Mathematica 的安装文件夹里（`Wolfram Research\Mathematica\9.0\Documentation`）就可以。
+### 【Q3】如何实现 Mathematica 帮助文档中英文切换（满足某些有特殊癖好的朋友）
 
-然后在 Mathematica 偏好设置里语言选英语就是英文帮助文档，选中文就是中文帮助文档了。
+【A3】如果你的电脑上安装了 Mathematica 英文版，并且想用中文文档，那么，把中文帮助文档拷到你的电脑上即可：
 
-当然，切换语言要重新启动 Mathematica ，而且代价是你的 Mathematica 文件夹占用硬盘空间几乎增加一倍。
+1. 找台安装了中文版 Mathematica 的电脑。
+2. 进入它的 Mathematica 的安装目录。
+   * 可以在 Mathematica 里执行 `$InstallationDirectory` 来查询 Mathematica 的安装目录。以版本 9.0 为例，Windows 版默认是 `C:\Program Files\Wolfram Research\Mathematica\9.0`。
+3. 把它的 `Documentation` 文件夹的内容复制出来，复制到你的电脑的该文件夹里。
+4. 在 Mathematica 偏好设置 (Preferences) 里，语言 (Language) 选英语就是英文帮助文档，选中文就是中文帮助文档了。
+
+当然，切换语言要重新启动 Mathematica ，而且代价是 Mathematica 文件夹占用硬盘空间几乎增加一倍。
 
 ### 【Q4】注册机里 Computer Name 是否分大小写
 
@@ -513,10 +506,10 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 ![Mathematica 启动错误](http://ww4.sinaimg.cn/large/a15b4afegw1f7gusak0ctj20b406haai)
 
-【A6】打印机服务（Print Spooler）没开。
+【A6】打印机服务 (Print Spooler) 没开。
 
 解决方案之一：
-请在运行 (<kbd>Win</kbd> + <kbd>R</kbd>) 中输入 `msconfig`, 转到 **服务** 选项卡，打开 Print Spooler 服务，重启电脑。
+请在运行 (<kbd>Win</kbd> + <kbd>R</kbd>) 中输入 `msconfig`，转到 **服务** (Services) 选项卡，打开 Print Spooler 服务，重启电脑。
 
 ### 【Q6.5】出现问题 `Error code: 698`，内核可以启动，但主程序无法启动
 
@@ -537,7 +530,7 @@ Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开�
 
 ### 【Q8】64 位系统在安装了 VC2010 运行库后，那两个注册机仍然无法使用
 
-【A8】对于 64 位系统，VC2010 运行库的 64 位 (x64) 和 32 位 (x86) 版本都要安装，然后那个注册机才能运行。也就是说，64 位系统需要安装本文下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
+【A8】对于 64 位系统，VC2010 运行库的 64 位 (x64) 和 32 位 (x86) 版本都要安装，然后那个注册机才能运行。也就是说，64 位系统需要安装本文百度网盘下载链接 VC2010 文件中 X86 和 X64 两个文件。具体请下载文件查看。
 
 ### 【Q9】注册不当，需要重置 Mathematica：Mathematica 已注册，但功能有限制，比如不能使用自由输入、虚拟全书、函数浏览器、帮助文档
 
@@ -560,7 +553,7 @@ Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开�
 
 如果问题仍然存在，那么可以手动删除。
 
-对于 **Windows 8 及更高版本**的系统，请**以管理员权限**打开一个 **PowerShell** 窗口，然后执行以下步骤。（Windows 7 自带的 Windows PowerShell 2.0 很不稳定、功能匮乏。如有需要，[请更新](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell)。）
+对于 **Windows 8 及更高版本**的系统，可以利用 PowerShell。请**以管理员权限**打开一个 **PowerShell** 窗口，然后执行以下步骤。（Windows 7 自带的 Windows PowerShell 2.0 很不稳定、功能匮乏。如有需要，[请更新](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell)。）
 
 第 1 步，执行下面这段命令
 
@@ -582,7 +575,7 @@ Remove-Item -Path @("Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research", "R
 
 > **注意**
 >
-> * 如果报错“无法找到路径”，那么，相应文件早已从您的计算机上删除；无需在意。
+> * 如果报错“无法找到路径”，那么，相应文件早已从您的计算机上删除，无需在意。
 > * 如果发生其他错误，请仔细检查报错信息，并对症处理。参看 [Remove-Item](https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Management/Remove-Item)。
 
 对于**较低版本的 Windows**，请阅读以下内容。
@@ -592,7 +585,8 @@ Remove-Item -Path @("Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Wolfram Research", "R
 > * 以下 `%ProgramData%`、`%USERPROFILE%` 等都是 **Windows 环境变量**。Windows 资源管理器 (Windows Explorer) 可以自动识别它们。
 > * 以下都是**隐藏文件夹**，需要[显示隐藏文件夹](https://support.microsoft.com/help/14201)。
 > * Mathematica 的残留信息一定要清理干净！
-> * 已经证实，在部分计算机上，即使使用旧版注册机，并且完成此处所述的步骤，依旧无法清理干净残余信息。那么这里还有最后一个办法：首先在计算机上新建一个帐户（开始 -> 控制面板 -> 用户帐户和家庭安全 -> 添加或删除用户帐户 -> 创建一个新帐户） ——帐户的权限，笔者选的是“管理员（Administrator）”，不过，大概 Guest 也可以？大家可以试一试，然后把结果编辑进来——然后把 Mathematica 安装在这个新的帐户里，就不用担心残留信息的问题了。安装和激活完成之后新建的帐户可以删除。
+> * 已经证实，在部分计算机上，即使正确使用注册机，并且完成此处所述的步骤，依旧无法清理干净残余信息。那么，这里还有最后一个办法（已在 Windows Vista 32 位，Mathematica 9.0.1 中文版测试）：
+>   * 首先，在计算机上新建一个帐户：开始 -> 控制面板 -> 用户帐户和家庭安全 -> 添加或删除用户帐户 -> 创建一个新帐户（帐户的权限，笔者选的是“管理员 (Administrator)”，不过，大概 Guest 也可以？大家可以试一试，然后把结果编辑进来）。然后，把 Mathematica 安装在这个新的帐户里，就不用担心残留信息的问题了。安装和激活完成之后新建的帐户可以删除。
 
 第 1 步，删除注册信息。
 
@@ -693,9 +687,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 【A18】不需要。截止目前，Wolfram 对破解版没有任何打击措施。此外，有证据表明某些小的 bug 修复是通过自动更新进行的，所以，最好不要关。
 
-### 【Q19】 注册机一回车完就直接关了，为什么
+### 【Q19】 为什么注册机一回车完就直接关了
 
-【A19】正文里已经说了三遍，版本 10 及以后的注册机是不能直接双击打开的！右键选打开当然也是不行的，不要自作聪明！
+【A19】正文里已经说了多遍，命令行注册机不能直接双击打开！右键选打开当然也是不行的，不要自作聪明！
 
 请在命令行下使用注册机。也就是说，请打开命令行，然后调用这个注册机。
 
