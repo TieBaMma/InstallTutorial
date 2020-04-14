@@ -11,7 +11,7 @@ title: {{ site.title }}
 
 ---
 
-此外，在近期，Wolfram 推出了**免费**的 **Wolfram Engine for developers**。此软件实质上就是一个**没有笔记本界面也没有本地自带帮助**的 Mathematica。但是，再强调一次，它是**免费**的！ 并且，虽然自带笔记本被锁了，但你可以[用 Jupiter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)啊。总之，Windows 版和 Linux 版的链接在这里（Mac版暂时没人传……）：
+此外，在近期，Wolfram 推出了**免费**的 **Wolfram Engine for developers**。此软件实质上就是一个**没有笔记本界面也没有本地自带帮助**的 Mathematica。但是，再强调一次，它是**免费**的！ 并且，虽然自带笔记本被锁了，但你可以[用 Jupyter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)啊。总之，Windows 版和 Linux 版的链接在这里（Mac版暂时没人传……）：
 
 链接:
 
