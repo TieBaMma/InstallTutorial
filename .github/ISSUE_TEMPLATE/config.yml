@@ -3,3 +3,6 @@ contact_links:
   - name: '🙋 Ask a question on Tieba'
     url:  'https://tieba.baidu.com/f?kw=mathematica'
     about: '欢迎去百度贴吧讨论问题，交流资讯。'
+  - name: '💬 Discuss on Stack Exchange'
+    url:  'https://mathematica.stackexchange.com/'
+    about: 'Ask and answer questions about Mathematica with people around the world.'
