@@ -71,7 +71,7 @@
 
 ## 常见的 Markdown 编辑器
 
-尽管我们对编辑工具**没有要求**，您甚至可以直接使用 GitHub 网页内置的文本编辑器工作；但仍然**推荐**使用功能丰富且正确支持 [CommonMark](https://spec.commonmark.org/) 的编辑器以减少编辑错误。
+尽管我们对编辑工具**没有要求**，您甚至可以直接使用 GitHub 网页内置的文本编辑器工作；但仍然**建议**使用功能丰富且正确支持 [CommonMark](https://spec.commonmark.org/) 的编辑器以减少编辑错误。
 
 尚无想法？不妨尝试这几款编辑器和插件。
 
@@ -84,7 +84,7 @@
 * [Atom](https://atom.io/)
   * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) （这一个插件能代替好几个）
   * [editorconfig](https://atom.io/packages/editorconfig)
-  * 更多参考[使用 Atom 打造 Markdown 编辑器 - Florian | 博客园](https://www.cnblogs.com/fanzhidongyzby/p/6637084.html)
+  * 更多参考[使用 Atom 打造 Markdown 编辑器 | Florian | 博客园](https://www.cnblogs.com/fanzhidongyzby/p/6637084.html)
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [Sublime Text](https://www.sublimetext.com/)
   * [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)

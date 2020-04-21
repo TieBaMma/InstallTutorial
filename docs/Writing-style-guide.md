@@ -6,7 +6,7 @@
 
 本文明确了文本的组织方式、固定格式等内容，以便整理和校对。事实上，这些规则大多来自语感和排版惯例。您没有必要在初次参与贡献之前强迫自己学习本指南。
 
-请注意，本项目面向简体中文用户，所以，**本指南仅考虑简体中文环境下的技术文档写作**。
+本指南仅面向**简体中文环境下的技术文档写作**。
 
 ## 定义
 
@@ -191,15 +191,16 @@ A **script** is a collection of letters and other written signs used to represen
 
 ## 文本格式
 
-### 加粗、斜体、强调
+### 粗体、斜体、强调
 
-* 使用**加粗**表示强调 (strong importance)，使内容醒目。
-  * **加粗**对应的 HTML element 是 [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)，此处引述其逻辑意义来说明**加粗**的语气：这个元素表征“内容强烈的重要性 (strong importance for its contents)”。
+* 通常，**粗体**、*斜体*带有一定的语气。
+* 使用**粗体**表示强调 (strong importance)，使内容醒目。
+  * **粗体**对应的 HTML element 是 [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)，此处引述其逻辑意义来说明**粗体**的语气：这个元素表征“内容强烈的重要性 (strong importance for its contents)”。
 * 使用*斜体*表示着重、轻微的突显 (change spoken emphasis)。
   * *斜体*对应的 HTML element 是 [`<em>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)，此处引述其逻辑意义来说明*斜体*的语气：这个元素标记出需要用户重读突出的内容 (for words that have a stressed emphasis)。
-* 从无障碍性上考虑，**加粗**比*斜体*更实用。
+* 从无障碍性上考虑，**粗体**比*斜体*更实用。
 * 定义概念时，**加粗**该词。
-* 在较长的句子、段落中，可以**加粗**专有名词，以使之有别于正文。
+* 在较长的句子、段落中，可以设置专有名词为**粗体**，以使之有别于正文。
 * 在较长的句子、段落中，可以设置专业术语为*斜体*，以使之有别于正文。
 
 **示例**
@@ -208,7 +209,7 @@ A **script** is a collection of letters and other written signs used to represen
 
 **示例**
 
-> 标准对此没有要求，但行业*推荐*使用 48 V 电压。
+> 标准对此没有要求，但行业*建议*使用 48 V 电压。
 
 **示例**
 
@@ -219,16 +220,16 @@ A **script** is a collection of letters and other written signs used to represen
 当语段内出现作品、章节、网页的名称时，
 
 * 书籍、刊物、政策文件、blog、电影、音乐、诗歌等作品的名称
-  * 英文的，使用 ***加粗斜体***。例如
+  * 英文的，使用 ***粗斜体***。例如
     > ***Microsoft Writing Style Guide***
   * 中文的，按 **GB/T 15834-2011** 的规定使用书名号。例如
     > 《中文技术文档的写作规范》
 * 一部作品内部的章节的名称
   * 使用双弯引号 (curly double quotation mark) 夹注起来。
-  * 文本使用正文的样式，也可以*斜体*，一篇文章内应当一致。
+  * 使用正文的样式，也可以使用*斜体*，一篇文章内应当一致。
 * 无法归入上述类别的网页的名称
   * 使用正文的样式，并且设置为指向目标网页的链接。
-  * 注意将网页的名称整理为统一的格式。例如
+  * 根据具体项目规定的引文格式，统一整理网页的名称。本文使用的格式为
     > 文章名 | 作者名 | 网站名
 
 ### 下定义
@@ -236,7 +237,7 @@ A **script** is a collection of letters and other written signs used to represen
 * 定义概念时，它的全称应当在句子内部出现至少一次，使用单数形式（除非该词必须为复数），并且**加粗**。这样，读者能够知道其规范拼写、大小写。
 * 纯中文的词语没有大小写的问题，于是，也可以出现在句首。
 * 翻译自外文的词语必须注明其英文。如果该词的起源不在英语，还应当注明其原生写法。
-* 专业术语首次出现时，应当同时给出定义，定义应当通俗易懂、不失严谨。定义可以仅是链接，而不插入段内。
+* 专业术语首次出现时，应当同时给出定义，定义应当通俗易懂、不失严谨。可以仅设置指向定义的链接，而不必插入全文。
 
 ## 混合 script 时的标点符号规范
 
@@ -284,7 +285,10 @@ A **script** is a collection of letters and other written signs used to represen
 * 西文字符总是半角。不要使用全角西文字符，它们是历史遗留问题。（如果使用日语输入法输入西文，记得检查设置。）
 * 慎用强调。不应该大片地使用强调，因为这容易使读者困惑。（如果一定要这样做，三思。）
 * 汉语词语（不含专业术语）的意义应当参考由**中国社会科学院语言研究所词典编辑室**编写、**商务印书馆**出版的《现代汉语词典》。
-* 在英语中，**bold**、*italic* 都是形容词 (adjective)。在汉语中，习惯上，**加粗**是动词、名词，*斜体*是名词。
+* 在英语中，**bold**、*italic* 都是形容词 (adjective)。在汉语中，习惯上，**加粗**是动词，**粗体**是名词，*斜体*是名词。
+* “建议”和“推荐”作动词时：
+  * 建议做某事。
+  * 推荐某物。
 
 ## 参考
 

@@ -139,10 +139,10 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 | Emoji | Code                     | 说明                   |
 | ----- | ------------------------ | ---------------------- |
-| 📄    | `:page_facing_up:`       | 文章内容               |
-| 🌐    | `:globe_with_meridians:` | 网页                   |
-| 📖    | `:book:`                 | 项目信息和编辑指南     |
-| 🎨    | `:art:`                  | 仅代码重构，不影响功能 |
+| 📄     | `:page_facing_up:`       | 文章内容               |
+| 🌐     | `:globe_with_meridians:` | 网页                   |
+| 📖     | `:book:`                 | 项目信息和编辑指南     |
+| 🎨     | `:art:`                  | 仅代码重构，不影响功能 |
 
 可以直接使用 emoji 或者使用 emoji code。
 
@@ -214,27 +214,40 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 ## 如何插入超链接
 
-应当使用**有意义的**、点名目标主题的链接名，通常，使用目标页面的标题即可。
+应当使用**有意义的**、点名目标主题的链接名。通常，有 2 种形式的链接：
 
-本项目允许的格式为
+1. 解释概念。
+2. 引用参考。
+
+解释概念，给需要说明的字词添加链接即可。
+
+**示例**
+
+```markdown
+Wolfram 推出了 [**Wolfram Engine for Developers**](https://www.wolfram.com/engine/)。
+```
+
+引用参考，使用目标页面的标题作为链接名。对此，本项目规定的格式为
 
 > 文章名 - 作者名 - 网站名
 
 必须出现文章名，作者名和网站名至少出现一个。
 
-例如
+**不要**使用代词。例如，~~这个、这里、此帖~~。
+
+**示例**
 
 ```markdown
 参看 [Enable Windows 10 firewall to install fonts - 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
 ```
 
-如果实在没有合适的标题，就[直接展示链接](https://spec.commonmark.org/0.29/#autolinks)。例如
+如果实在没有合适的标题，就[直接展示链接](https://spec.commonmark.org/0.29/#autolinks)。
+
+**示例**
 
 ```markdown
 可以在 <http://tieba.baidu.com/p/5696398243> 下载中文帮助文档包。
 ```
-
-**不要**使用代词。例如，~~这个、这里、此帖~~。
 
 ## 如何处理 IRI 和 URI
 
