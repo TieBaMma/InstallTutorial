@@ -93,7 +93,7 @@ async function copyInnerText(element) {
   let success = false;
 
   // Try Clipboard API
-  if (typeof navigator.clipboard.writeText === 'function')
+  if (('clipboard' in navigator) && (!!navigator.clipboard.writeText))
   {
     await navigator.clipboard.writeText(text).then(() => success = true, (e) => console.error(e));
   }
