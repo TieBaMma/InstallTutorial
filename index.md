@@ -53,8 +53,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的身份验证，导致连接失败。
-> * 从 OneDrive 下载时，如果长时间（几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重启有时能改善；此外，服务器往往会挂断那些长时间慢速连接，最终还是要重新下载。
+> * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。
+> * 从 OneDrive 下载时，如果长时间（几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器往往会挂断那些长时间慢速连接，最终还是要重新下载。
 
 ## Mathematica 软件下载
 
@@ -88,7 +88,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> [**版本 12.1 解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，那时的缓解措施是，设置 **高 DPI 缩放替代** (High DPI scaling override) 为 **应用程序** (Application)，以及调节 Wolfram 笔记本的缩放等。
+> [**版本 12.1 解决了 HDPI 显示支持的问题**](https://reference.wolfram.com/language/guide/SummaryOfNewFeaturesIn121.html)。此前，Windows 版在 HDPI 显示器上会界面模糊，那时的缓解措施是，设置 **高 DPI 缩放替代** (High DPI scaling override) 为 **应用程序** (Application)，以及调节 Wolfram 笔记本的缩放 (Magnification) 等。
 >
 > ---
 >
@@ -494,15 +494,15 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 2. 进入它的 Mathematica 的安装目录。
    * 可以在 Mathematica 里执行 `$InstallationDirectory` 来查询 Mathematica 的安装目录。以版本 9.0 为例，Windows 版默认是 `C:\Program Files\Wolfram Research\Mathematica\9.0`。
 3. 把它的 `Documentation` 文件夹的内容复制出来，复制到你的电脑的该文件夹里。
-4. 在 Mathematica 偏好设置 (Preferences) 里，语言 (Language) 选英语就是英文帮助文档，选中文就是中文帮助文档了。
+4. 在 Mathematica 偏好设置 (Preferences) 里，语言 (Language) 选 English 就是英文帮助文档，选中文就是中文帮助文档。切换语言需要重新启动 Mathematica。
 
-当然，切换语言要重新启动 Mathematica ，而且代价是 Mathematica 文件夹占用硬盘空间几乎增加一倍。
+当然，同时拥有两份文档的代价是，Mathematica 占用的硬盘空间几乎增加一倍。
 
 ### 【Q4】注册机里 Computer Name 是否分大小写
 
 【A4】不分。
 
-### 【Q5】注册机算出来的 Activation Key 只有 13 位？
+### 【Q5】注册机算出来的 Activation Key 只有 13 位
 
 【A5】因为使用了旧版的注册机，此注册机也可以用，但要多些步骤，上详。
 
@@ -521,9 +521,9 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
 【A6.5】
 
-1. 首先，打开系统服务中心，在里面找到 Windows 防火墙，启动它。
+1. 打开系统服务中心，在里面找到 Windows 防火墙，启动它。
    1. 还可能需要检查 [Windows Defender Firewall 设置](https://support.microsoft.com/help/4028544)。
-2. 然后去你的 Mathematica 的安装目录找到 SystemFiles -> Fonts 文件夹，把里面所有 ttf 文件双击点开（或者右键单击）并安装一遍。
+2. 进入你的 Mathematica 的安装目录，再进入 `SystemFiles\Fonts` 文件夹，把里面所有 ttf 文件双击点开（或者右键单击）并安装一遍。
 3. 就应该能用了。
 
 Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开并安装。参看 [Enable Windows 10 firewall to install fonts - 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
@@ -651,7 +651,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 要完全激活版本 8 和版本 9 的中文版，只能使用版本 8 的中文版注册机。
 
-弄不清什么是中文版注册机的人，以及自以为使用了中文版注册机却依然出现这个问题的人，请使用本教程中提供的注册机！
+不清楚什么是中文版注册机的人，以及自以为使用了中文版注册机却依然出现这个问题的人，请使用本教程提供的注册机！
 
 ### 【Q11】Windows XP 32 位 最多能支持 Mathematica 多高的版本
 
@@ -662,7 +662,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q12】为什么每次点开注册机都出现“已停止工作”
 
-![注册机已停止工作](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
+![注册机已停止工作，在 Windows 8](http://ww4.sinaimg.cn/large/a15b4afegw1f7guucxxcbj20a60550so)
 
 【A12】前文已经说了，请安装 VC 运行库。
 
@@ -692,7 +692,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ![Wolfram Mathematica 10.4 已停止工作，在 Windows 7](http://ww4.sinaimg.cn/large/a15b4afegw1f7guwxv9lij20di0bljsm)
 
-【A17】软件必须安装在**英文**名称的文件夹下。
+【A17】软件必须安装在**英文**名称的路径下。
 
 ### 【Q18】 安装后是否需要关闭 Mathematica 的自动更新
 
