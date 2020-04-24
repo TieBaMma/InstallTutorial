@@ -53,10 +53,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。
+> * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
 > * 从 OneDrive 下载时，如果长时间（几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器往往会挂断那些长时间慢速连接，最终还是要重新下载。
 
 ## Mathematica 软件下载
+
+请先阅读 [Wolfram Product System Requirements](https://support.wolfram.com/6479)，确认你的系统符合要求。
 
 这里提供下列版本的下载地址：
 
@@ -118,6 +120,10 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 > **注意**
 >
 > 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.0) Windows 英文 + Mac 英文
   * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
@@ -528,9 +534,11 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
 Windows 10 特有功能：只有启动防火墙，ttf 字体文件才能打开并安装。参看 [Enable Windows 10 firewall to install fonts - 404 Tech Support](https://www.404techsupport.com/2015/09/11/enable-windows-10-firewall-install-fonts/)。
 
-### 【Q7】此文链接中的 Mathematica 支持 64 位系统吗
+### 【Q7】Mathematica 支持 64 位系统吗
 
 【A7】Mathematica 安装包同时包含 32 和 64 位，它会自动判断你的系统类型并安装。
+
+从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 ### 【Q8】64 位系统在安装了 VC2010 运行库后，那两个注册机仍然无法使用
 
