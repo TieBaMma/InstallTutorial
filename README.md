@@ -58,16 +58,20 @@
 
 摘要如下
 
-* 左侧优先：插入点左侧的字符决定 script。
-* 夹注符号跟随内部：夹注符号内部的 script，决定夹注符号的 script。
-* 中文与西文之间、中文与数字之间留一个空格。
-* 连续的中文内、西文与中文标点之间没有空格，除非
-  * 不加空格会导致编译错误。
-  * 不加空格会导致无法区分专有名词和普通名词。
-  * 特殊的排版规定。
-* 使用**加粗**表示强调 (strong importance)，使内容醒目。
-* [Top 10 tips for Microsoft style and voice | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
-* [句子 | 中文技术文档的写作规范 | 阮一峰](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md#%E5%8F%A5%E5%AD%90)
+* 组织语言
+  * 清晰准确，简洁明了，通俗易懂。
+  * [Top 10 tips for Microsoft style and voice | Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+  * [句子 | 中文技术文档的写作规范 | 阮一峰](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md#%E5%8F%A5%E5%AD%90)
+* 标点符号
+  * 夹注符号跟随内部：夹注符号内部的 script，决定夹注符号的 script。
+  * 中文与西文之间、中文与数字之间留一个空格。
+  * 连续的中文内、西文与中文标点（不包括夹注符号）之间没有空格，除非
+    * 不加空格会导致编译错误。
+    * 不加空格会导致无法区分专有名词和普通名词。
+    * 特殊的排版规定。
+* 文本格式
+  * 使用**粗体**表示强调 (strong importance)，使内容醒目。
+  * 在较长的句子、段落中，可以设置专有名词为**粗体**，专业术语为*斜体*。
 
 ## 常见的 Markdown 编辑器
 
