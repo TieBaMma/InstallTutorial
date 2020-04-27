@@ -205,7 +205,7 @@ A **script** is a collection of letters and other written signs used to represen
 
 **示例**
 
-> 命令行程序**不能直接双击打开**！
+> 命令行程序**不能双击打开**！
 
 **示例**
 
