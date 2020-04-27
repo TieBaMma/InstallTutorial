@@ -141,8 +141,9 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 * (12.1.0) Linux 英文
   * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
 
-* (12.1.0) 在线激活工具
+* (12.1.0) 12.0、12.1 的激活工具
   * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
+  * [mathematica-keygen](https://www.npmjs.com/package/mathematica-keygen)
 
 ### Mathematica 12.0
 
