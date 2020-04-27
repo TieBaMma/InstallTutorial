@@ -9,7 +9,7 @@ title: {{ site.title }}
 
 **用盗版是迫不得已的，有能力的话要支持正版！**
 
-学生版 80 美元——最外层页面写的确实是 $161，但是你[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
+学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
 
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
@@ -23,7 +23,7 @@ title: {{ site.title }}
 
 询问为什么一回车注册机就关了的，直接删，加封禁十天。
 
-**教程中的地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
+**教程中的百度网盘地址均有效，异常只是暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 同时，请意识到，本文没有涵盖的问题通常是**不太常见**的。所以，如果真的希望问题尽快得到解决，那么，在提出“新的问题”时请**尽可能详细**地给出背景信息。例如，
 
@@ -54,7 +54,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > **注意**
 >
 > * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
-> * 从 OneDrive 下载时，如果长时间（几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器往往会挂断那些长时间慢速连接，最终还是要重新下载。
+> * 从 OneDrive 下载时，如果长时间（十几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器可能会挂断那些长时间慢速连接，最终还是要重新下载。
+> * SharePoint / OneDrive 有反滥用、[限流措施](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。如果密集访问，服务器可能会屏蔽用户。对于极严重的滥用情况，Microsoft 可能会介入调查。
 
 ## Mathematica 软件下载
 
@@ -89,7 +90,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 **正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
 
-**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
+**以下百度网盘地址均有效，异常只是暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 > **注意**
 >
@@ -294,7 +295,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 本文以激活 Mathematica 8 为例，并且假定你的电脑从来没有安装、激活过任何 Mathematica。
 
-更高版本的操作大致相同，不同之处下面有说明。其他版本不在此教程范围，请自行度娘或谷哥，或者在贴吧置顶帖中跟帖讨论。
+更高版本的操作大致相同，不同之处下面有说明。其他版本不在此教程范围内，请自行探索，或者在贴吧置顶帖中跟帖讨论。
 
 但是，这里再次强调，**希望大家不要使用过老的版本！**
 
@@ -313,7 +314,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 **Windows 10 自带的安全软件 (Windows Defender) 会将版本 10 以上版本的注册机直接删掉。解压前，请打开 [Windows Defender 设置](https://support.microsoft.com/help/4012987)，将解压路径从查杀路径里[排除出去 (Exclusions)](https://support.microsoft.com/help/4028485)，或者[暂停 Real-time protection](https://support.microsoft.com/help/4027187)。**
 
-**以下地址均未失效，异常只是百度网盘暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
+**以下百度网盘地址均有效，异常只是暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
 注册机主要有 3 种形式：
 
@@ -370,8 +371,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 还有，
 
 * 密码里的 `::1` 也是密码的一部分！
-* 此注册机生成的 Key 每回都是 1234-4321-123456，不要大惊小怪！重要的是那个密码！
-* “1234-4321-123456”中间的横杠也是 Key 的一部分，不要擅自去掉！
+* 此注册机生成的 Key 总是 `1234-4321-123456`，不要大惊小怪。重要的是那个密码！
+* “1234-4321-123456” 中间的横杠也是 Key 的一部分，不要擅自去掉！
 
 **版本 8 到 10** 的注册机：
 
@@ -403,17 +404,17 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 2. 安装完成后，默认会启动 Mathematica，弹出 “Wolfram 产品激活”对话框。（如果要手动打开 Mathematica，不妨参考后文“Mathematica 入门”部分。）
 
-   点击下方的**其它方式激活**。（切记！不要说激活密钥无效，因为你选错了。）
+   点击下方的**其它方式激活** (Other ways to activate)。（切记！不要说激活密钥无效，因为你选错了。）
 
    ![“Wolfram 产品激活”对话框](http://ww4.sinaimg.cn/large/a15b4afegw1f7gukpbbqcj20i80dltaf)
 
-3. 在新的页面中，选择**手动激活**。
+3. 在新的页面中，选择**手动激活** (Manual Activation)。
 
    ![在其它方式激活中，选择手动激活](http://ww4.sinaimg.cn/large/a15b4afegw1f7guljc5s9j20i80dlgne)
 
-4. 在新的页面中，记下 Math ID。
+4. 在新的页面中，记下 **Math ID**。
 
-   ![手动激活对话框](http://ww4.sinaimg.cn/large/a15b4afegw1f7gulhnsflj20i80dl0uk)
+   ![“手动激活”对话框](http://ww4.sinaimg.cn/large/a15b4afegw1f7gulhnsflj20i80dl0uk)
 
    注意，是**把你的电脑上的这串数复制下来**。不要抄上面的图！
 
@@ -452,7 +453,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 对于 Mathematica 8 中文版，按照本文步骤，100% 激活成功。
 
 对于 Mathematica 9 中文版，激活步骤一样，只是不容易成功，需要**多试几次**，一定要多试几次！
-如果人品好，两三次就成功了；如果人品实在差，试了 30、40 次都没有成功，那么还是老实安装其他版本把吧。
+如果人品好，两三次就成功了；如果人品实在差，试了 30、40 次都没有成功，那么还是老实安装其他版本吧。
 
 对于 Mathematica 9 英文版，激活步骤一样，只是不必纠结，因为有对应的注册机，见前文“注册机的下载地址”。
 
@@ -464,7 +465,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 1. 打开 Mathematica。
 2. 点击顶部菜单的 **编辑** > **偏好设置** > **界面** > **菜单和对话框语言设置** > **ChineseSimplified**。
-3. 关闭软件重启，自带帮助就可以顺利打开了！
+3. 重启软件，自带帮助就可以顺利打开了！
 
 ## Mathematica 入门
 
@@ -512,9 +513,9 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 ## 安装激活 Mathematica 时可能碰到的问题
 
-### 【Q1】为何安装 Mathematica 时，没有弹出激活界面
+### 【Q1】为何首次启动 Mathematica 时，没有弹出激活界面
 
-【A1】如果之前安装过 Mathematica，且电脑又没有重装过。那么，再次安装 Mathematica 时，不会弹出激活界面。因为 Mathematica 卸载后，激活文件 `mathpass` 默认保留，不会自动删除。
+【A1】如果之前安装过 Mathematica，且电脑又没有重装过。那么，再次安装 Mathematica 时，可能不会弹出激活界面。因为 Mathematica 卸载后，激活文件 `mathpass` 默认保留，不会自动删除。
 
 如果之前是成功激活的，比如，之前成功激活了 Mathematica 8，然后卸载 Mathematica 8，安装 Mathematica 9，那么，这时 Mathematica 9 不会弹出激活界面，而实际上 Mathematica 9 已经激活了。
 
@@ -530,8 +531,9 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 1. 在自己的电脑上安装好 Mathematica。
 2. 在一台安装有 Windows 系统的电脑上运行注册机。
-3. 打开你的 Mathematica 的激活界面，把这个 Math ID 敲键盘输入注册机相应的输入框中。
-4. 完成激活。
+3. 打开你的 Mathematica 的激活界面，获取 Math ID。
+4. 把这个 Math ID 敲键盘输入注册机相应的输入框中。
+5. 完成激活。
 
 Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
@@ -564,7 +566,7 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 解决方案之一：
 请在运行 (<kbd>Win</kbd> + <kbd>R</kbd>) 中输入 `msconfig`，转到 **服务** (Services) 选项卡，打开 Print Spooler 服务，重启电脑。
 
-### 【Q6.5】出现问题 `Error code: 698`，内核可以启动，但主程序（前端）无法启动
+### 【Q6.5】出现 `Error code: 698`，内核可以启动，但主程序（前端）无法启动
 
 ![Error code 698](http://ww4.sinaimg.cn/large/a15b4afegw1f7gutazpgmj20az06xwf2)
 
@@ -706,7 +708,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q11】Windows XP 32 位 最多能支持 Mathematica 多高的版本
 
-【A11】版本 9
+【A11】版本 9。
 
 * [Mathematica 9 system requirements - Wolfram Support](https://support.wolfram.com/12432)
 * [Mathematica 10.0–10.3 system requirements - Wolfram Support](https://support.wolfram.com/23176)
@@ -751,7 +753,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q19】 为什么注册机一回车完就直接关了
 
-【A19】正文里已经说了多遍，命令行注册机不能直接双击打开！右键选打开当然也是不行的，不要自作聪明！
+【A19】正文里已经说了多遍，命令行注册机不能双击打开！右键选打开当然也不行，不要自作聪明！
 
 请在命令行下使用注册机。也就是说，请打开命令行，然后调用这个注册机。
 
