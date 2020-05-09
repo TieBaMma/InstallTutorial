@@ -130,7 +130,7 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.0) Windows 英文 + Mac 英文
-  * [OneDrive](http://wxyh.bilibli.icu/yunpan/onedrive/Software/study-software/Mathematica/)（备注：国内可用）
+  * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
 
 * (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
   * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
