@@ -89,8 +89,7 @@ Wolfram Engine 的激活方法可参考 [官网的介绍](http://support.wolfram
 >
 > Linux 版无中文版，自行汉化的方法可参考 <http://tieba.baidu.com/p/4024190694>。
 
-* (12.1.0) Windows 英文 + Mac 英文
-  * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
+
 
 * (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
   * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
