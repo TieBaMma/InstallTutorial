@@ -43,8 +43,19 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接（Mac 版暂时没人传）：
 
+### Wolfram Engine 12.0.1
+
+* (12.0.1) Windows
+  * [腾讯微云](https://share.weiyun.com/5pBJAMH)
+
+* (12.0.1) Linux
+  * [腾讯微云](https://share.weiyun.com/5thePKk)
+
+### Wolfram Engine 12.0.0
+
 * (12.0.0) Windows
   * [百度网盘](https://pan.baidu.com/s/1k2QxF05XnSKd1QIWz-y9vw) 提取码：`skr5`
+  * [腾讯微云](https://share.weiyun.com/5nnsIAi) 提取码：`0gJq`
 
 * (12.0.0) Linux
   * [百度网盘](https://pan.baidu.com/s/1qX5Z36w3SoSFCEsGSGqP9g) 提取码：`rw3a`
