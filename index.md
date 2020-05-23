@@ -140,6 +140,15 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
+* (12.1.0) Windows 中文 + Windows 下载器
+  * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
+
+* (12.1.0) Windows 中文 + Mac 中文
+  * [Sharepoint](https://lteapp-my.sharepoint.com/personal/hadesth_lteapp_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhadesth%5Flteapp%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F%E5%AE%89%E8%A3%85%E5%8C%85%2F12%2E1&originalPath=aHR0cHM6Ly9sdGVhcHAtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvaGFkZXN0aF9sdGVhcHBfb25taWNyb3NvZnRfY29tL0VuZEJkYm9Na2tWTXVZeU5mUDdjN0prQlJ5Mi12OHFuVEg1RV9JcFVMRGxUbXc_cnRpbWU9SGp4RFMwNy0xMGc)
+
+* (12.1.0) Linux 中文
+  * [天翼云盘](https://cloud.189.cn/t/EBfERzfaAb6j) 提取码：`epx1`
+
 * (12.1.0) Windows 英文 + Mac 英文
   * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
 
