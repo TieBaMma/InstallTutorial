@@ -135,7 +135,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 11.1 \~ 12.0 简体中文语言包
   * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
-*  12.0 简体中文语言包
+* 12.0 简体中文语言包
   * [Telegram 频道](https://t.me/mmalanguage)（需爬墙）
   * [SharePoint-API](https://mmamirror.herokuapp.com/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
 
@@ -181,7 +181,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 > 
-> 天翼云盘需要登陆才可以下载大文件，[此脚本](https://greasyfork.org/scripts/397247-cloud-189-cn-download-without-login)能够绕过登陆直接下载 300M 以上文件。同时，天翼云盘也对单线程下载速度进行了限制，可以通过 Aria2 IDM 等软件进行多线程下载。
+> 天翼云盘需要登陆才可以下载大文件，[此脚本](https://greasyfork.org/scripts/397247-cloud-189-cn-download-without-login)能够绕过登陆直接下载 300M 以上文件。
+>
+> 天翼云盘也对单线程下载速度进行了限制，可以通过 Aria2 IDM 等软件进行多线程下载。
 
 ### Mathematica 12.0
 
