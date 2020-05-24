@@ -11,6 +11,8 @@ title: {{ site.title }}
 
 学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
 
+对于国内用户，可以在淘宝官方店铺 “Wolfram中国” 购买，该店铺提供含学生授权在内的多种许可证。
+
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
 ---
@@ -67,6 +69,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
 > * 从 OneDrive 下载时，如果长时间（十几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器可能会挂断那些长时间慢速连接，最终还是要重新下载。
 > * SharePoint / OneDrive 有反滥用、[限流措施](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。如果密集访问，服务器可能会屏蔽用户。对于极严重的滥用情况，Microsoft 可能会介入调查。
+> * 标有 `API` 字样的 SharePoint / OneDrive 下载链接可以使用 Aria2 IDM 等第三方下载器下载。
 
 ## Mathematica 软件下载
 
@@ -123,10 +126,18 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 英文版也可以调出中文提示，但是它没有中文帮助。
 
-Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/p/4024190694>。
+12.0 及之前版本的 Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/p/4024190694>。版本 12.1 及之后官方提供了适用于 Linux 和 Mac 的中文版安装文件。
 
 版本 11.1 \~ 12.0 的中文帮助文档包及安装方法可以前往 <https://tieba.baidu.com/p/5696398243> 查看。
-该贴的楼主已经将文件上传至[百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg)，提取码 `da1s`。
+
+该贴的楼主已经将文件上传至网盘：
+
+* 11.1 \~ 12.0 简体中文语言包
+  * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
+
+* 12.0 简体中文语言包
+  * [Telegram 频道](https://t.me/mmalanguage)（需爬墙）
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
 
 另外，参看【Q3】。
 
@@ -142,12 +153,14 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 
 * (12.1.0) Windows 中文 + Windows 下载器
   * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/)
 
 * (12.1.0) Windows 中文 + Mac 中文
   * [Sharepoint](https://lteapp-my.sharepoint.com/personal/hadesth_lteapp_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhadesth%5Flteapp%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F%E5%AE%89%E8%A3%85%E5%8C%85%2F12%2E1&originalPath=aHR0cHM6Ly9sdGVhcHAtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvaGFkZXN0aF9sdGVhcHBfb25taWNyb3NvZnRfY29tL0VuZEJkYm9Na2tWTXVZeU5mUDdjN0prQlJ5Mi12OHFuVEg1RV9JcFVMRGxUbXc_cnRpbWU9SGp4RFMwNy0xMGc)
 
 * (12.1.0) Linux 中文
   * [天翼云盘](https://cloud.189.cn/t/EBfERzfaAb6j) 提取码：`epx1`
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/)
 
 * (12.1.0) Windows 英文 + Mac 英文
   * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
@@ -165,6 +178,12 @@ Linux 版无中文版，自行汉化的方法可参考 <https://tieba.baidu.com/
 * (12.1.0) 12.0、12.1 的激活工具
   * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
   * [mathematica-keygen](https://www.npmjs.com/package/mathematica-keygen)
+
+> **注意**
+> 
+> 天翼云盘需要登陆才可以下载大文件，[此脚本](https://greasyfork.org/scripts/397247-cloud-189-cn-download-without-login)能够绕过登陆直接下载 300M 以上文件。
+>
+> 天翼云盘也对单线程下载速度进行了限制，可以通过 Aria2 IDM 等软件进行多线程下载。
 
 ### Mathematica 12.0
 
