@@ -11,9 +11,9 @@ title: {{ site.title }}
 
 学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
 
-国内用户，可以在淘宝官方店铺 “[Wolfram中国](https://shop591547060.taobao.com/)” 购买，该店铺提供含学生授权在内的多种许可证。
-
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
+
+此外，通过代理商购买也是一个可行渠道，具体商家这里就不提了，请各位善用搜索引擎。
 
 ---
 
