@@ -157,16 +157,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 天翼云盘也会限制单线程下载速度，可以通过 Aria2、IDM 等软件进行多线程下载。
 
+* (12.1.0) Windows 中文 + Linux 中文 + Mac 中文
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/) （支持使用 Aria2、IDM 等下载）
+
 * (12.1.0) Windows 中文 + Windows 下载器
   * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/)
 
 * (12.1.0) Windows 中文 + Mac 中文
   * [Sharepoint](https://lteapp-my.sharepoint.com/personal/hadesth_lteapp_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhadesth%5Flteapp%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F%E5%AE%89%E8%A3%85%E5%8C%85%2F12%2E1&originalPath=aHR0cHM6Ly9sdGVhcHAtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvaGFkZXN0aF9sdGVhcHBfb25taWNyb3NvZnRfY29tL0VuZEJkYm9Na2tWTXVZeU5mUDdjN0prQlJ5Mi12OHFuVEg1RV9JcFVMRGxUbXc_cnRpbWU9SGp4RFMwNy0xMGc)
 
 * (12.1.0) Linux 中文
   * [天翼云盘](https://cloud.189.cn/t/EBfERzfaAb6j) 提取码：`epx1`
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/)
 
 * (12.1.0) Windows 英文 + Mac 英文
   * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
