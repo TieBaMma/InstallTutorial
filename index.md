@@ -73,12 +73,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ## Wolfram|Alpha Notebook Edition
 
-这基本上就是个半强制用户使用自由格式输入的 Mathematica，对于 Mathmatica 熟练用户而言它并不好使（部分使用感想参看[此帖](https://tieba.baidu.com/p/6724844470)），但是，目前由于疫情原因，WRI 开放了它的**免费**半年使用权。[免费半年使用权申请链接](http://links.wolfram.com/u/click?_t=26c1930b6a1744ce960b7aa99d5e7ae1&_m=0fa958aea51244889907bc3f1c3f763c&_e=xF9nrXN7hV9jf3dLeyD5s8jh8MbZB3JOKtreFCWe2q-q0jNwhARSRHxlnAeYx0I2Wyz5vW9t9qLtgk9fd9nsepsCyf7zh-RYc1wadMmR_W3DqfDfFMTISpSoO02S23cU_5roOvwT2o79oNaoPmtqAZew5oEn6rFQNi1BM6jknPB7Ht0a15mck4bxUY95zUWOPwdEw6IHuqJNmU3LoCt7U7kI0KhizbrNgDS_zBJYWwzUoB2i_PY91CcemynOtTEHOb8U1jczjmldOq1vVFLR8z1tv0b1vl_Vg0jGiFOfqhg%3D)。
+这基本上就是个半强制用户使用自由格式输入的 Mathematica，对于 Mathmatica 熟练用户而言它并不好使（部分使用感想参看[此帖](https://tieba.baidu.com/p/6724844470)），但是，目前由于疫情原因，WRI 开放了它的包含**显示计算步骤功能**在内的**免费**半年使用权。[免费半年使用权申请链接](http://links.wolfram.com/u/click?_t=26c1930b6a1744ce960b7aa99d5e7ae1&_m=0fa958aea51244889907bc3f1c3f763c&_e=xF9nrXN7hV9jf3dLeyD5s8jh8MbZB3JOKtreFCWe2q-q0jNwhARSRHxlnAeYx0I2Wyz5vW9t9qLtgk9fd9nsepsCyf7zh-RYc1wadMmR_W3DqfDfFMTISpSoO02S23cU_5roOvwT2o79oNaoPmtqAZew5oEn6rFQNi1BM6jknPB7Ht0a15mck4bxUY95zUWOPwdEw6IHuqJNmU3LoCt7U7kI0KhizbrNgDS_zBJYWwzUoB2i_PY91CcemynOtTEHOb8U1jczjmldOq1vVFLR8z1tv0b1vl_Vg0jGiFOfqhg%3D)。
 
 > **注意**
 >
 > Wolfram|Alpha Notebook Edition 的文件名中虽有 CN 字样，但依旧是英文版！
 > 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+
+> **注意**
+>
+> 若想学会 Mathematica，还请尽量别用自由格式输入。
 
 * (12.0.1) Windows 英文
   * [百度网盘](https://pan.baidu.com/s/1IVuXW4wq2QbolbeQGAN3Ow) 提取码：`9zjn`
