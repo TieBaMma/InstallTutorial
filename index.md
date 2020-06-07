@@ -84,8 +84,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 若想学会 Mathematica，还请尽量别用自由格式输入。
 
-* (12.0.1) Windows 英文
-  * [百度网盘](https://pan.baidu.com/s/1IVuXW4wq2QbolbeQGAN3Ow) 提取码：`9zjn`
+* (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
+  * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
 
 ## Mathematica 软件下载
 
