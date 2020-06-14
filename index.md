@@ -45,6 +45,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接（Mac 版暂时没人传）：
 
+### Wolfram Engine 12.1.0
+
+* (12.1.0) Windows
+  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.1.0/)
+
 ### Wolfram Engine 12.0.1
 
 * (12.0.1) Windows
@@ -86,6 +91,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
+  
+* (12.0.1) Windows 英文
+  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlpha%20Notebook/12.0.1.0/)
 
 ## Mathematica 软件下载
 
@@ -826,6 +834,8 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 【A21】若想避免麻烦，安装时应尽量**避免使用中文路径**。
 
 Mathematica **理论上**可以安装在中文路径下，但是，近几版 Mathematica 已多次出现了**和中文（确切地说是 Unicode）相关的 bug**。并且目前已经证实，至少 11.3 中文版，若是安装在中文路径下，会打不开。
+
+使用包含中文的系统用户名会导致部分需要读写缓存的内置符号无法使用（因为缓存位于用户文件夹下），可以**新建**一个完全使用英文作为用户名的用户，在新用户里**重新激活**并使用 Mathematica，**直接修改用户名无效**。
 
 大家也可积极对其他版本进行实验，丰富本教程内容。
 
