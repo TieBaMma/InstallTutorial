@@ -83,7 +83,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > **注意**
 >
 > Wolfram|Alpha Notebook Edition 的文件名中虽有 CN 字样，但依旧是英文版！
-> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见后文“中文版和英文版的区别”小节。
 
 > **注意**
 >
@@ -165,7 +165,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
-### Mathematica 12.1
+### Mathematica 12.1.1
 
 > **注意**
 >
@@ -174,6 +174,19 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > **注意**
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
+
+* (12.1.0) Windows 英文 + Linux 英文 + Mac 英文
+  * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
+
+### Mathematica 12.1.0
+
+> **注意**
+>
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+
+> **注意**
+>
+> 从 12.1.0 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 > **注意**
 > 
