@@ -47,7 +47,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Wolfram Engine 12.1.0
 
-* (12.1.0) Windows
+* (12.1.0) Linux
   * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.1.0/)
 
 ### Wolfram Engine 12.0.1
@@ -57,6 +57,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.1) Linux
   * [腾讯微云](https://share.weiyun.com/5thePKk)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.0.1/)
 
 ### Wolfram Engine 12.0.0
 
@@ -92,7 +93,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
   
-* (12.0.1) Windows 英文
+* (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlpha%20Notebook/12.0.1.0/)
 
 ## Mathematica 软件下载
@@ -175,8 +176,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
-* (12.1.0) Windows 英文 + Linux 英文 + Mac 英文
+* (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
+
+* (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/)
 
 ### Mathematica 12.1.0
 
