@@ -117,17 +117,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 2 英文版
 * 1 英文版
 
-目前，官网的下载地址在大陆被墙，所以，害怕有病毒什么的、以至非要去官网下载的同学，请自己想办法爬墙。
+目前，Wolfram 在中国大陆设立了下载站供正版用户使用，在线下载均已恢复，下载器 (Download Manager) 的可用性暂不明确。如果仍然无法下载，请自己想办法爬墙。
 
-本文提供的安装包和官网的是一样的，若不信，可对比 MD5。
+**正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
+
+本文提供的安装包和官网的是一样的，若不信，可对比文件的校验和（`MD5`、`SHA-256` 等）。
 
 几种计算 MD5 的工具：
 
 * [PowerShell](https://docs.microsoft.com/powershell/) 可用 [Get-FileHash](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash)：`Get-FileHash -Algorithm MD5`。
 * Linux 可用 [md5sum](https://linux.die.net/man/1/md5sum)：`md5sum --binary`。
 * macOS 可用 [md5](https://osxdaily.com/2009/10/13/check-md5-hash-on-your-mac/)。
-
-**正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
 
 **以下百度网盘地址均有效，异常只是暂时抽风，在地址栏上重新回车一次（不能直接刷新！）就能看到下载页面了！**
 
@@ -178,8 +178,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/) 
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/EN/) 
 
 ### Mathematica 12.1.0
 
@@ -198,7 +197,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 天翼云盘也会限制单线程下载速度，可以通过 Aria2、IDM 等软件进行多线程下载。
 
 * (12.1.0) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1/) （支持使用 Aria2、IDM 等下载）
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.0/) （支持使用 Aria2、IDM 等下载）
 
 * (12.1.0) Windows 中文 + Windows 下载器
   * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
