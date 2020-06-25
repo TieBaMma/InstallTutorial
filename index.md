@@ -170,7 +170,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。大约从 12.1.0 开始英文版的安装包文件名多出了 CN 字样，但它依旧是英文版！
 
 > **注意**
 >
@@ -179,8 +179,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
 
-* (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/) （链接里面写这是中文版，但这是上传者弄错了。文件名里有 CN 并不意味着它是中文版！）
 
 ### Mathematica 12.1.0
 
