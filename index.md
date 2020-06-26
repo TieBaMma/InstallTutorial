@@ -855,3 +855,15 @@ Mathematica **理论上**可以安装在中文路径下，但是，近几版 Mat
 大家也可积极对其他版本进行实验，丰富本教程内容。
 
 Mathematica 的多个组件都有 Unicode 支持问题，而且长期未修复。参看 [How to workaround failures with Unicode filepaths - Stack Exchange](https://mathematica.stackexchange.com/q/143953)。
+
+### 【Q22】 Windows 系统语言包是否会对 Mathematica 有影响？
+
+【A22】已经证实，至少在 Windows 10 下，若系统未安装**英文**语言包，Wolfram|Alpha Notebook Edition 12.0.1 英文版及 Mathematica 12.1.1 英文版将无法正确下载 ImageRestyle 所需的模型文件。下图为 Alpha Notebook 的出错提示：
+
+![Nrh534.png](https://s1.ax1x.com/2020/06/26/Nrh534.png)
+
+解决方法，如上所述，是安装英文语言包。具体而言，就是在开始菜单中搜索“语言”找到以下页面，并添加英文语言包：
+
+![Nr44dP.png](https://s1.ax1x.com/2020/06/26/Nr44dP.png)
+
+目前尚不确定此现象对其他版本是否有影响，大家可积极实验，丰富本教程内容。
