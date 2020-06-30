@@ -14,8 +14,8 @@
 
 ## 编码风格
 
-> 下述规则已写入 [`.editorconfig`](.editorconfig)。
-> 可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
+下述规则已写入 [`.editorconfig`](.editorconfig)。
+可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
 
 未说明的项目暂不做要求。
 
@@ -50,7 +50,7 @@
 > * **磁力链接 (magnet) 请以 code block 呈现**，以防编译错误。
 > * **请使用 `<del>` 添加删除线**。不要使用 [`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)，因为该元素已经废除。
 > * 请不要触动 [front matter](https://jekyllrb.com/docs/front-matter/)，除非本项目的管理者 [@TieBaMma](https://github.com/TieBaMma) 已经确认需要修改。
-> * 随着 GitHub Pages 上部署的 Jekyll 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
+> * 随着 [GitHub Pages 上部署的 Jekyll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins) 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
 
 ## 写作风格
 
@@ -114,13 +114,13 @@
 
 ## 目录结构
 
-> 如果需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
+如果需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
 
 以下仅列出关键文件。
 
 | 对象          | 说明             |
 | ------------- | ---------------- |
-| `.github/`    | GitHub templates |
+| `.github/`    | GitHub 配置      |
 | `.vscode/`    | VS Code settings |
 | `docs/`       | 贡献指南         |
 | `_config.yml` | Jekyll 配置      |
