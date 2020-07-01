@@ -25,7 +25,7 @@ File: `.mergify.yml`
 
 如果
 
-* 修改了 Markdown 文件 (`.md`)，而且它的路径的开头不是
+* 修改了 Markdown 文件 (`.md`)，而且它的路径的开头（不区分大小写）不是
   * `.`
   * `CODE_OF_CONDUCT`
   * `docs`

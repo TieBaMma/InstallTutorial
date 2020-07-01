@@ -8,7 +8,7 @@
 
 编辑指导在[《贡献指南》][CONTRIBUTING]。详细的写作风格要求在[《写作风格指南》][Writing-style-guide]。也可直接访问 `docs` 目录，探索其他指南。
 
-当准备就绪后，请 fork 此 repo。如果已经持有老旧的 fork，不妨采用您习惯的方式更新。之后编辑文章内容。最后新建一个 pull request。
+当准备就绪后，请 fork 此 repo。如果已经持有老旧的 fork，不妨采用您习惯的方式更新。之后开始编辑。最后新建一个 pull request。
 
 感谢您的支持。
 
