@@ -1,5 +1,4 @@
 pull_request_rules:
-
   - name: Automatic squash merge when approved
     conditions:
       - "#approved-reviews-by>=1"
@@ -20,14 +19,14 @@ pull_request_rules:
 
   - name: Add label `Area-Content`
     conditions:
-      - "files=index.md"
+      - 'files~=(?i)^(?!\.|CODE_OF_CONDUCT|docs|LICENSE|README).*\.md$' # To avoid false positives, only matches a few kinds of Markdown files. False negatives can be corrected by humans, but false positives cannot!
     actions:
       label:
         add: ["Area-Content"]
 
   - name: Add label `Area-WebPageDesign`
     conditions:
-      - 'files~=(?i)\.(css|html|htm|js)$'
+      - 'files~=(?i)(^_.*(?<!\.md)$)|(\.(css|js|less|scss)$)' # Not all. Only the most frequently modified files.
     actions:
       label:
         add: ["Area-WebPageDesign"]
@@ -66,15 +65,9 @@ pull_request_rules:
           如果这是笔误，请修正。
           谢谢。
 
-  - name: (Test Env) AutoApprove # For test ONLY! Do not use in production!
-    conditions:
-      - "label=AutoApprove"
-    actions:
-      review:
-        type: "APPROVE"pull_request_rules:
-  - name: Automatic merge on approval
-    conditions:
-      - "#approved-reviews-by>=1"
-    actions:
-      merge:
-        method: merge
+  # - name: (Test Env) AutoApprove # For test ONLY! Do not use in production!
+  #   conditions:
+  #     - "label=AutoApprove"
+  #   actions:
+  #     review:
+  #       type: "APPROVE"

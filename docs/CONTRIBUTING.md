@@ -1,17 +1,18 @@
 # 贡献指南
 
+<!-- Begin: Welcome -->
 欢迎！非常感谢您对本项目有兴趣。
 
-快速简明的入门指导在 [`README.md`](../README.md)。详细的写作风格要求在[《写作风格指南》](Writing-style-guide.md)。
-
-本文将具体介绍如何报告 issue、编辑内容（创建 pull request），以及相关的工作流程、常见问题。
+项目的基本信息在 [`README.md`](../README.md)。详细的写作风格要求在[《写作风格指南》](Writing-style-guide.md)。所有开发文档都在此 repo 的 `docs` 目录下。
 
 感谢您的支持。
+<!-- End: Welcome -->
 
 本文的主要内容：
 
 * 报告 issue
-* 创建 pull request
+* 如何更新 fork
+* 参与编辑和创建 pull request
 * 管理员如何处理 pull request
 * 如何写 Git commit message
 * 使用 emoji 开头
@@ -23,7 +24,9 @@
 * 如何使用警示块
 * 常见的全拼与别名
 
-此外，建议阅读 [GitHub Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines)。
+扩展阅读:
+
+* [GitHub Community Guidelines](https://help.github.com/en/articles/github-community-guidelines)
 
 ## 报告 issue
 
@@ -31,23 +34,51 @@
    1. 如果已有相似的问题，请加入讨论。
    2. 如果没有，请继续创建 issue。
 2. 点击 [**New issue**](https://github.com/TieBaMma/InstallTutorial/issues/new/choose)，再选择合适的类型。
-3. 根据编辑栏中的指示（`<!-- -->` 中的内容），填写 issue。填完后，请删去那些指示。
-4. 点击 **Submit new issue**，提交。
+3. 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
+4. 点击 **Submit new issue**。
+
+## 如何更新 fork
+
+> **警告**
+>
+> 强烈建议在单独的 branch 上工作，不要使用 `gh-pages`。因为“更新 fork” 是用 upstream **覆盖** fork 的同名 branch。
+
+如果您已熟悉相关操作，可以略过此节。
+
+传统上，“更新 fork” 需要 clone 到本地，通过 force pull、force push 达成。
+
+多年来，人们希望能[在云端实现](https://github.com/isaacs/github/issues/121)，[最好是自动的](https://github.com/isaacs/github/issues/438)。尽管呼声很高，GitHub 至今没有官方提供相关功能。
+
+下面列出了几个民间解决方案：
+
+* [本项目提供的 workflow](Automation-services/Workflow-repo-sync.md)
+* [Forkrefresh](https://forkrefresh.herokuapp.com/) 由 Alex Ivkin 开发
+* [Upriver](https://upriver.github.io/) 由 Bardi Harborow 开发
+
+还有很多我们尚未测试的方案，例如：
+
+* [Pull](https://github.com/apps/pull) 由 Wei He 开发
 
 ## 创建 pull request
 
-1. 至少读完 [`README.md`](../README.md)。
-2. [fork](https://help.github.com/en/articles/fork-a-repo) 此 repo。
-3. 编辑文章内容 (`index.md`)。确认无误后，commit 进 Git。
+1. 至少读完《贡献指南》。
+2. [Fork](https://help.github.com/en/articles/fork-a-repo)，或者更新已有的 fork。
+3. [新建 topic branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)，开始工作。
+4. 编辑。确认无误后，commit。
+   * 文章的主页是 `index.md`。
    * 如有需要，编辑其他文件。
    * 请阅读下文“如何写 Git commit message”。
-4. [本地测试](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)。在 push 到 remote repo 之前，尽量在本地编译，测试。
-5. [新建一个 pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)。
+5. 测试。
+   * 最简单的方法是，push 到 `gh-pages`，查看生成的网站。可在 Repository Settings、Deployments、**github-pages** 的 Activity log 等处查到网址。
+   * 如果条件允许，不妨先[在本地测试](https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll)。
+6. Push 到 topic branch。
+7. [新建一个 pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)。
    * 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
    * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)，并在标题 (Title) 的开头添加 `[WIP]` 字样。
    * 如果这是一个大型、复杂、需要细致 review 的工作，*建议*在标题 (Title) 的开头添加 `[MEGA]` 字样。
    * 如果这个 pull request 修复了某个 issue，请注意使用 [Fix keyword](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（通常写在摘要中）
-6. 跟进 review 进程，及时响应，直到 merge。
+8. 跟进 review 进程，及时响应，直到 merge。
+9. 清理。例如，删除不再使用的 topic branch。
 
 **不熟悉 Git 命令行**？不妨尝图形界面的工具：
 
@@ -61,13 +92,12 @@
    * 如果存在问题，通知 PR author 来改正；如果无法联系，自己修正。
 2. [Discuss and review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
    1. 完整阅读 description、**Files changed**，如有需要，阅读 **Commits**。
-   2. 讨论。如果这是 draft pull request，可以仅留言讨论，提出修改意见，直到 WIP 完成。
-   3. 正式 review。
-      1. 如果这是 draft pull request，（由 PR author 或者管理员）删去标题中的 `[WIP]` 字样，之后设置 **Ready for review**。
-      2. 自己或者[邀请其他人来](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review) review。
-      3. [Approve](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews).
+   2. 讨论。
+      * 自己或者[邀请其他人来](https://help.github.com/en/articles/requesting-a-pull-request-review) review。
+      * 对于 draft pull request，应当仅留言讨论，提出修改意见；不宜 approve，已有的 approval 都应当被 dismiss 或者 re-request。在所有工作完成后，（由 PR author 或者管理员）删去标题中的 `[WIP]` 字样，之后设置 **Ready for review**。
 3. 当该 PR 准备就绪、可以 merge 时，复查它的标题、摘要。
-4. [Merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the PR into branch `gh-pages`.
+4. [Approve](https://help.github.com/en/articles/approving-a-pull-request-with-required-reviews). 之后，Mergify 会在合适的时机完成后续工作。
+5. 有时，需要手工 [merge](https://help.github.com/en/articles/merging-a-pull-request)。
    1. 依次考虑下列方式
       1. [squash merge](https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github#squashing-your-merge-commits) （将 PR 的所有内容压缩为一条独立的 commit，插入主线，可以保持主历史记录线性、清洁。）
       2. [rebase merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits) （将 PR 的所有 commits 都插入主线，可以保留所有操作细节，且没有 merge commit。）
@@ -76,6 +106,10 @@
       1. 填写标题 (Summary)。使用 PR 的标题 (Title)；如果它的开头没有 emoji，选择一个合适的加上。
       2. 填写描述 (Description)。至少包含摘要、已知问题（如果有）；一般来说，直接使用 PR 的 description 即可。
    3. 完成 merge。
+
+## 管理员如何管理 issue 和 PR 的 label
+
+管理员应当不定期巡视活动的 issue 和 PR，根据 [`Labels.md`](Labels.md) 的规则及时调整。
 
 ## 如何写 Git commit message
 
@@ -96,7 +130,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **如何写 description**
 
-* 仅在必需时才写。
+* **仅在必需时才写**。
 * 清晰、准确、简明。
 * 使用 sentence-style。
 * 考虑用 Markdown 排版。建议使用 [GitHub Flavored Markdown](https://github.github.com/gfm/)。
@@ -135,7 +169,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响范围。Emoji 与正文之间有一个空格。
 
-目前，本项目允许下列 emoji：
+目前，本项目推荐下列 emoji：
 
 | Emoji | Code                     | 说明                   |
 | ----- | ------------------------ | ---------------------- |
@@ -169,11 +203,25 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 其中，第 1 种仅适用于中文。
 
+## 如何新建下载地址列表
+
+总体上，新版本排在旧版本的前面。
+
+每当新增下载小节时（通常是在新一代产品发布后），请在开头添加以下内容
+
+```markdown
+> **注意**
+>
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
+```
+
+下载地址列表的组织规则在“如何编辑下载地址列表”部分。
+
 ## 如何编辑下载地址列表
 
-参考版本 12.1、12.0、11.3 的下载地址列表。
+如果要新建下载地址列表，请先阅读“如何新建下载地址列表”部分。
 
-如果要新建下载地址列表，请先阅读 [`README.md`](../README.md) 中“如何新建下载地址列表”部分。
+参考 Mathematica 12.1、12.0、11.3 的下载地址列表。
 
 一个下载地址列表由一或多个“组”构成。“组”是最小的独立单元，它的组织格式为
 
@@ -184,9 +232,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 ```
 
 * 在一个组内，各备选下载地址提供的内容是相同的。
-* “版本号”是 Mathematica 的版本号。
+* “版本号”是 Wolfram 语言的完整版本号 (full version number)。对 Mathematica 来说，它就是 Mathematica 的版本号。参看 [`$ReleaseNumber`](http://reference.wolfram.com/language/ref/$ReleaseNumber.html)。
 * 一个组可以打包多个“项目”。多个项目用加号 (`+`) 连接，加号两侧要留空格。
-* `平台 语言` 是 Mathematica 安装程序项目的书写格式。其他类型的项目（例如下载器）直接写名字即可。
+* `平台 语言` 是 Mathematica 安装文件项目的书写格式。其他类型的项目（例如下载器）直接写名字即可。
 * 如果一个下载地址有备注说明，写在它那行。
 
 **示例**

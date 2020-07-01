@@ -1,0 +1,31 @@
+name: "Pull from upstream at 00:00:00Z every Sunday"
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  repository_dispatch:
+    types: ["repo-sync"]
+
+jobs:
+  repo-sync:
+    if: ${{ github.repository_owner != 'TieBaMma' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log trigger info
+        shell: bash
+        run: |
+          echo "Actor:  $GITHUB_ACTOR"
+          echo "Event:  $GITHUB_EVENT_NAME"
+          echo
+          echo "Commit: $GITHUB_SHA"
+          echo "Branch: $GITHUB_REF"
+
+      - uses: actions/checkout@v2
+
+      - name: Invoke GitHub Repo Sync
+        uses: repo-sync/github-sync@v2
+        with:
+          source_repo: "TieBaMma/InstallTutorial"
+          source_branch: "gh-pages"
+          destination_branch: "gh-pages"
+          github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,21 +1,21 @@
-# 《Mathematica 激活指南》编辑入门
+# 《Mathematica 激活指南》项目概述
 
 欢迎！非常感谢您对本项目有兴趣。
 
 在编辑前，请阅读以下介绍。
 
-本文提供项目的基本信息，以及编辑入门。
+本文提供项目的基本信息。
 
-详细的编辑指导在[《贡献指南》](docs/CONTRIBUTING.md)。详细的写作风格要求在[《写作风格指南》](docs/Writing-style-guide.md)。
+编辑指导在[《贡献指南》][CONTRIBUTING]。详细的写作风格要求在[《写作风格指南》][Writing-style-guide]。也可直接访问 `docs` 目录，探索其他指南。
 
-当准备就绪后，请 fork 此 repo，编辑文章内容 ([`index.md`](index.md))，最后新建一个 pull request。
+当准备就绪后，请 fork 此 repo。如果已经持有老旧的 fork，不妨采用您习惯的方式更新。之后开始编辑。最后新建一个 pull request。
 
 感谢您的支持。
 
 ## 编码风格
 
-> 下述规则已写入 [`.editorconfig`](.editorconfig)。
-> 可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
+下述规则已写入 [`.editorconfig`](.editorconfig)。
+可以在 [EditorConfig.org](https://editorconfig.org/) 了解该文件的有关知识。
 
 未说明的项目暂不做要求。
 
@@ -50,11 +50,11 @@
 > * **磁力链接 (magnet) 请以 code block 呈现**，以防编译错误。
 > * **请使用 `<del>` 添加删除线**。不要使用 [`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)，因为该元素已经废除。
 > * 请不要触动 [front matter](https://jekyllrb.com/docs/front-matter/)，除非本项目的管理者 [@TieBaMma](https://github.com/TieBaMma) 已经确认需要修改。
-> * 随着 GitHub Pages 上部署的 Jekyll 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
+> * 随着 [GitHub Pages 上部署的 Jekyll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins) 更新换代，可以使用的 Markdown 语法或许会有扩展。参看 [Markdown processor for your GitHub Pages site](https://help.github.com/en/articles/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)。
 
 ## 写作风格
 
-详细的写作风格要求在[《写作风格指南》](docs/Writing-style-guide.md)。
+详细的写作风格要求在[《写作风格指南》][Writing-style-guide]。
 
 摘要如下
 
@@ -108,29 +108,19 @@
 * [Visual Studio](https://visualstudio.microsoft.com/)
   * [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 
-## 如何新建下载地址列表
+## 如何编辑下载地址列表
 
-总体上，新版本排在旧版本的前面。
-
-每当在“**Mathematica 软件下载**”部分中新增小节时（通常是在新一代产品发布后），请在开头添加以下内容
-
-```markdown
-> **注意**
->
-> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
-```
-
-下载地址列表的组织规则在[《贡献指南》](docs/CONTRIBUTING.md)中“如何编辑下载地址列表”部分。
+请阅读[《贡献指南》][CONTRIBUTING]。
 
 ## 目录结构
 
-> 如果需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
+如果需要了解 Jekyll 文件的意义，请访问它的[文档](https://jekyllrb.com/docs/structure/)。
 
 以下仅列出关键文件。
 
 | 对象          | 说明             |
 | ------------- | ---------------- |
-| `.github/`    | GitHub templates |
+| `.github/`    | GitHub 配置      |
 | `.vscode/`    | VS Code settings |
 | `docs/`       | 贡献指南         |
 | `_config.yml` | Jekyll 配置      |
@@ -143,3 +133,6 @@
 本项目使用 Jason Long 制作的 [Cayman theme](https://github.com/jasonlong/cayman-theme)，基于 [pietromenna/jekyll-cayman-theme@595426b](https://github.com/pietromenna/jekyll-cayman-theme/commit/595426b7875c78da3afa4c1810f98efd3dce8b50)，[修改了部分样式](css/cayman-patch.css)。
 
 本项目使用 Vladimir Jimenez 制作的 [allejo/jekyll-toc@204bd5c](https://github.com/allejo/jekyll-toc/commit/204bd5c66952a2c214c86212b342d417c7edae80) 来生成 Table of Contents。
+
+[CONTRIBUTING]: docs/CONTRIBUTING.md
+[Writing-style-guide]: docs/Writing-style-guide.md
