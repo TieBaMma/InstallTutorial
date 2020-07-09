@@ -17,6 +17,18 @@ title: {{ site.title }}
 
 ---
 
+如果不想付钱也想用学生版而学校也没买，可以考虑参加 [wolfram 的学生大使项目](https://www.wolfram.com/company/careers/ambassador/index.html.zh?footer=lang)。
+
+可以获得的：wolfram 系列产品全解锁。（Wolfram One，Wolfram Alpha Pro）
+
+需要做的：
+
+1. 准备一份简单的简历。
+2. 会有个面试，是中文面试。
+3. 每个月填表汇报做了什么。比如写文章，录教程。
+
+---
+
 [百度贴吧](http://tieba.baidu.com/f?kw=mathematica)里的帖子不能编辑，很不方便。
 
 但大家<del>在激活失败这事上可以说是拥有无穷的创造力</del>，激活过程又会出现新的问题。故开此文档，整理安装、激活 Mathematica 的过程，以及可能碰到的问题。以后如果出现新的问题，欢迎补充整理。
@@ -95,6 +107,52 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlpha%20Notebook/12.0.1.0/)
+
+## 在线运行代码的方法
+
+假如正好需要运行一下，但是电脑又没有软件，可以考虑以下替代方案。
+
+1. [tio.run](https://tio.run/#mathematica)
+
+    简易使用方法
+
+    1. 点一下 Hello World
+    2. 在 Code 里输入代码。
+    3. 点上面播放键
+    
+    优点：
+
+    1. Wolfram Cloud 速度慢，这个相对较快
+    2. 一直是最新版，可以 `$Version` 确认
+    
+    缺点：
+
+    1. 就是纯 txt
+    2. 60s 计算限时
+    3. 不支持图片
+    4. 没有拓展性
+    
+    > 联想成在一个 txt 里写代码就行。
+
+2. [Mathics](https://mathics.github.io/)
+
+    优点：
+    
+    1. 基于纯 Python, 免费
+    
+    缺点：
+    
+    1. 停更很久了，版本过老（很多函数不支持）
+    
+3. [Wolfram Cloud](https://www.wolframcloud.com/)
+
+    优点：
+    
+    1. 官方出品，不考虑速度的话接近原生体验，甚至有帮助文档。
+    
+    缺点
+    
+    1. 速度太慢
 
 ## Mathematica 软件下载
 
