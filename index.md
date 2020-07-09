@@ -108,7 +108,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlpha%20Notebook/12.0.1.0/)
 
-## 在线运行代码的方法
+## 运行代码的替代品
 
 假如正好需要运行一下，但是电脑又没有软件，可以考虑以下替代方案。
 
