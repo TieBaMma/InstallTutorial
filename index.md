@@ -9,7 +9,7 @@ title: {{ site.title }}
 
 **用盗版是迫不得已的，有能力的话要支持正版！**
 
-学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！
+中国区学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！如果国家选错了是不会有 $80 的优惠价的。购买学生版需要验证学生身份（例如学信网截图、学生证、录取通知书）。
 
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
@@ -17,7 +17,7 @@ title: {{ site.title }}
 
 ---
 
-如果不想付钱也想用学生版而学校也没买，可以考虑参加 [wolfram 的学生大使项目](https://www.wolfram.com/company/careers/ambassador/index.html.zh?footer=lang)。
+如果不想付钱也想用学生版而学校也没买，可以考虑参加 [wolfram 的学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh?footer=lang)。
 
 可以获得的：wolfram 系列产品全解锁。（Wolfram One，Wolfram Alpha Pro）
 
@@ -106,7 +106,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
   
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlpha%20Notebook/12.0.1.0/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlphaNotebook/12.0.1.0/)
 
 ## 运行代码的替代品
 
@@ -236,7 +236,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.1/EN/) 
+  * [SharePoint-API](https://mmamirror.herokuapp.com/Mathematica/12.1.1.0/EN/) 
 
 ### Mathematica 12.1.0
 
@@ -255,7 +255,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 天翼云盘也会限制单线程下载速度，可以通过 Aria2、IDM 等软件进行多线程下载。
 
 * (12.1.0) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E5%AE%89%E8%A3%85%E5%8C%85/12.1.0/) （支持使用 Aria2、IDM 等下载）
+  * [SharePoint-API](https://mmamirror.herokuapp.com/Mathematica/12.1.0.0/) （支持使用 Aria2、IDM 等下载）
 
 * (12.1.0) Windows 中文 + Windows 下载器
   * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
