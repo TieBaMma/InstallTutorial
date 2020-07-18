@@ -864,9 +864,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 一种已经被证实的原因是，电脑的系统区域 (system locale) 被改动过，此种情况改回中文区即可解决。
 
-### 【Q14】版本 10（不论中英文版）卡顿，卡在初始界面，界面显示不完全
+### 【Q14】版本 10 及以上（不论中英文版）卡顿，卡在初始界面，界面显示不完全
 
 【A14】具体参考<del><http://tieba.baidu.com/p/4039684644></del>（注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问）。卡顿问题在该帖 2 楼，卡在初始界面的问题在该帖 3 楼，界面显示不完全的问题在该帖 4 楼。
+ 
+ 已证实版本 11 及以上的 Paclet 更新也可能导致卡顿，此问题可通过使用 [Paclet 镜像站](https://gitee.com/wolframpaclet/WolframPacletGeneral)来解决。
 
 ### 【Q15】Windows 10 最多能支持 Mathematica 多低的版本
 
