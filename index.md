@@ -17,7 +17,7 @@ title: {{ site.title }}
 
 ---
 
-如果不想付钱也想用学生版而学校也没买，可以考虑参加 [wolfram 的学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh?footer=lang)。
+如果想用学生版，但是学校没买又不想自己付钱，可以考虑参加 [Wolfram 学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh) (Wolfram Student Ambassador Program)。
 
 可以获得的：wolfram 系列产品全解锁。（Wolfram One，Wolfram Alpha Pro）
 
