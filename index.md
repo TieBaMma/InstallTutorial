@@ -479,12 +479,10 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 **版本 12** 的注册机：
 
-同时适用于中文版、英文版。已经附在上面的下载地址里了！
+* [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。
+* [mathematica-keygen](https://www.npmjs.com/package/mathematica-keygen) 命令行。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
 
-注意，这次有 2 种形式的注册机：
-
-* 网页。打开网站，跟随那里的指示。
-* 命令行。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
+同时适用于中文版、英文版。
 
 **版本 11.3** 的：
 [注册机](https://pan.baidu.com/s/1zCO8b5KCqCM61RMzcD_ILg) 提取码：`94kn`
