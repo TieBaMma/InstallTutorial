@@ -477,10 +477,10 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 12** 的注册机：
+**版本 12** 的注册机（同时适用于 12.0 及 12.1 ）：
 
 * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。
-* [mathematica-keygen](https://www.npmjs.com/package/mathematica-keygen) 命令行。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
+* [mathematica-keygen](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n` 命令行版（就是那个“mma12_0_keygen附批处理文件.zip”）。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
 
 同时适用于中文版、英文版。
 
