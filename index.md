@@ -87,7 +87,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
 > * 从 OneDrive 下载时，如果长时间（十几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器可能会挂断那些长时间慢速连接，最终还是要重新下载。
 > * SharePoint / OneDrive 有反滥用、[限流措施](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。如果密集访问，服务器可能会屏蔽用户。对于极严重的滥用情况，Microsoft 可能会介入调查。
-> * 本文中标有标有 `API` 字样的 SharePoint / OneDrive 下载链接可以使用 Aria2、IDM 等第三方下载器下载。
+> * 本文中标有标有 `API` 字样的 SharePoint / OneDrive 下载链接可以使用 Aria2、IDM 等第三方下载器下载。如遇 `Bad Request`、`Application Error` 或类似错误，请先尝试刷新，如果多次刷新仍然显示错误界面，可能是**当日** Microsoft Graph API 调用次数耗尽或**当月** Heroku 免费时长用完了，后期可能会增加备用站点。<del>没想到用量会这么大</del>
 
 ## Wolfram|Alpha Notebook Edition
 
@@ -233,6 +233,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > **注意**
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
+
+* (12.1.1) Windows 中文
+  * [SharePoint-API](https://mmamirror.herokuapp.com/vianet/Mathematica/12.1.1.0/)
+  * [SharePoint](https://temp-w20200729.liun.workers.dev/) 临时使用，链接有效期至 2020年8月1日
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
