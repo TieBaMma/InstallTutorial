@@ -75,8 +75,7 @@
 7. [新建一个 pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)。
    * 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
    * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)，并在标题 (Title) 的开头添加 `[WIP]` 字样。
-   * 如果这是一个大型、复杂、需要细致 review 的工作，*建议*在标题 (Title) 的开头添加 `[MEGA]` 字样。
-   * 如果这个 pull request 修复了某个 issue，请注意使用 [Fix keyword](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（通常写在摘要中）
+   * 如果这个 pull request 解决了某个 issue，请注意使用 [Fix keyword](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（写在摘要中或标题末尾）
 8. 跟进 review 进程，及时响应，直到 merge。
 9. 清理。例如，删除不再使用的 topic branch。
 
@@ -101,7 +100,7 @@
    1. 依次考虑下列方式
       1. [squash merge](https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github#squashing-your-merge-commits) （将 PR 的所有内容压缩为一条独立的 commit，插入主线，可以保持主历史记录线性、清洁。）
       2. [rebase merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits) （将 PR 的所有 commits 都插入主线，可以保留所有操作细节，且没有 merge commit。）
-      3. true merge （添加一条特别的 merge commit，将 PR 的所有 commits 都插入主线，容易导致主历史记录复杂、难以回溯。如无特殊原因，请勿使用。）
+      3. true merge （添加一条特别的 merge commit，将 PR 的所有 commits 都联入主线，容易导致主历史记录复杂、难以回溯。如无特殊原因，请勿使用。）
    2. 填写 commit message
       1. 填写标题 (Summary)。使用 PR 的标题 (Title)；如果它的开头没有 emoji，选择一个合适的加上。
       2. 填写描述 (Description)。至少包含摘要、已知问题（如果有）；一般来说，直接使用 PR 的 description 即可。

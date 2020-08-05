@@ -15,11 +15,17 @@ File: `.mergify.yml`
 那么，
 
 1. 根据 base branch 更新 topic branch。 ([Strict Merge](https://doc.mergify.io/merge-action.html#strict-merge))
-2. squash merge.
+2. Squash merge, using [`title+body` message](https://doc.mergify.io/actions.html#merge).
 
-## Delete head branch after merge
+## Add label `DuplicateOrInvalid` when abandoned
 
-理论上，与 [GitHub 的 automatic deletion of branches](https://help.github.com/en/github/administering-a-repository/managing-the-automatic-deletion-of-branches) 等效。
+如果
+
+* The pull request is closed.
+
+那么，
+
+1. 添加 `DuplicateOrInvalid` label。
 
 ## Add label `Area-Content`
 
@@ -47,15 +53,17 @@ File: `.mergify.yml`
 
 1. 添加 `Area-WebPageDesign` label。
 
-## Request a review from the owner because it is a `[MEGA]` (complex) PR
+## Stale PR
 
 如果
 
-* title 中有 `[MEGA]` 字样，表明是复杂的工作。
+* There is a label named `Needs-Feedback`.
+* It's not a draft PR.
 
 那么，
 
-1. 请求 **TieBaMma** review。
+1. Assign the author.
+2. Request a review from **TieBaMma**.
 
 ## Assign the author because it is a draft PR
 
