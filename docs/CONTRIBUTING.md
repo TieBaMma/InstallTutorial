@@ -69,19 +69,19 @@
    * 如有需要，编辑其他文件。
    * 请阅读下文“如何写 Git commit message”。
 5. 测试。
-   * 最简单的方法是，push 到 `gh-pages`，查看生成的网站。可在 Repository Settings、Deployments、**github-pages** 的 Activity log 等处查到网址。
+   * 最简单的方法是，push 到 `gh-pages`，查看生成的网站。可在 Repository Settings、Deployments、**github-pages** 的 Activity log 等处查到网址，默认格式为 `https://username.github.io/InstallTutorial/`。
    * 如果条件允许，不妨先[在本地测试](https://docs.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll)。
 6. Push 到 topic branch。
 7. [新建一个 pull request](https://docs.github.com/en/articles/creating-a-pull-request-from-a-fork)。
-   * 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
-   * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)，并在标题 (Title) 的开头添加 `[WIP]` 字样。
+   * **根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。**
+   * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)。同时可以在标题 (Title) 的开头添加 `[WIP]` 字样。
    * 如果这个 pull request 解决了某个 issue，请注意使用 [Fix keyword](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（写在摘要中或标题末尾）
 8. 跟进 review 进程，及时响应，直到 merge。
 9. 清理。例如，删除不再使用的 topic branch。
 
 **不熟悉 Git 命令行**？不妨尝图形界面的工具：
 
-推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，容易上手。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的**公开** (public) repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
+推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，容易上手。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的 **public** repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
 
 [GitHub Desktop](https://desktop.github.com/) 也值得一试。它与 GitHub 高度集成，但是仅支持 Windows 和 macOS。
 
@@ -136,8 +136,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **英文示例**
 
-```text
+```markdown
 🌐 Add new feature: Copy code to clipboard
+
 ## Summary
 
 * Add a '📋Copy' button at the top left corner of all code blocks (inserted right before `pre` node), so that visitors can copy the code easily.
@@ -149,8 +150,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **中文示例**
 
-```text
+```markdown
 📖 增加贡献指南
+
 * 增加《贡献指南》 (`CONTRIBUTING.md`)
 * 调整 `README.md`
 ```
@@ -166,7 +168,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 ## 使用 emoji 开头
 
-建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响范围。Emoji 与正文之间有一个空格。
+建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响。Emoji 与正文之间有一个空格。
 
 目前，本项目推荐下列 emoji：
 
