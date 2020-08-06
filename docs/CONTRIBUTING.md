@@ -81,7 +81,7 @@
 
 **不熟悉 Git 命令行**？不妨尝图形界面的工具：
 
-推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，容易上手。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的 **public** repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
+推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，[容易上手](https://www.gitkraken.com/resources/gitkraken-cheat-sheet)。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的 **public** repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
 
 [GitHub Desktop](https://desktop.github.com/) 也值得一试。它与 GitHub 高度集成，但是仅支持 Windows 和 macOS。
 
