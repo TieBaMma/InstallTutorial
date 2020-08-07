@@ -62,6 +62,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.1.0) Linux
   * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.1.0/)
 
+* (12.1.0) Windows
+  * [Wolfram 客服直链](https://amoeba.wolfram.com/index.php/s/tpJSq7FJsn99XXR)
+
 ### Wolfram Engine 12.0.1
 
 * (12.0.1) Windows
