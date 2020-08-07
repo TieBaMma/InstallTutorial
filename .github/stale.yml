@@ -1,0 +1,16 @@
+# Configuration for Stale - https://github.com/probot/stale
+
+# Do not close automatically.
+daysUntilClose: false
+
+staleLabel: "Needs-Feedback"
+
+issues:
+  daysUntilStale: 90
+  markComment: false
+
+pulls:
+  daysUntilStale: 2
+  markComment: >
+    **这个 PR 已经 2 天没有活动了。**
+    请检查。谢谢。

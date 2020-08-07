@@ -11,11 +11,12 @@ pull_request_rules:
         method: squash
         commit_message: "title+body"
 
-  - name: Delete head branch after merge
+  - name: Add label `DuplicateOrInvalid` when abandoned
     conditions:
-      - "merged"
+      - "closed"
     actions:
-      delete_head_branch: {}
+      label:
+        add: ["DuplicateOrInvalid"]
 
   - name: Add label `Area-Content`
     conditions:
@@ -31,10 +32,13 @@ pull_request_rules:
       label:
         add: ["Area-WebPageDesign"]
 
-  - name: Request a review from the owner because it is a `[MEGA]` (complex) PR
+  - name: Stale PR
     conditions:
-      - 'title~=(?i)\[MEGA\]'
+      - "label=Needs-Feedback"
+      - "-draft"
     actions:
+      assign:
+        users: ["{{author}}"]
       request_reviews:
         users: ["TieBaMma"]
 

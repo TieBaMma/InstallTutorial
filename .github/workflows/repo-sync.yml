@@ -1,8 +1,7 @@
-name: "Pull from upstream at 00:00:00Z every Sunday"
+name: "Pull from upstream on demand"
 
 on:
-  schedule:
-    - cron: "0 0 * * 0"
+  workflow_dispatch:
   repository_dispatch:
     types: ["repo-sync"]
 
@@ -14,8 +13,8 @@ jobs:
       - name: Log trigger info
         shell: bash
         run: |
-          echo "Actor:  $GITHUB_ACTOR"
-          echo "Event:  $GITHUB_EVENT_NAME"
+          echo "Actor: $GITHUB_ACTOR"
+          echo "Event: $GITHUB_EVENT_NAME"
           echo
           echo "Commit: $GITHUB_SHA"
           echo "Branch: $GITHUB_REF"

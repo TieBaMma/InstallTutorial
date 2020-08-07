@@ -26,7 +26,7 @@
 
 扩展阅读:
 
-* [GitHub Community Guidelines](https://help.github.com/en/articles/github-community-guidelines)
+* [GitHub Community Guidelines](https://docs.github.com/en/articles/github-community-guidelines)
 
 ## 报告 issue
 
@@ -62,27 +62,26 @@
 ## 创建 pull request
 
 1. 至少读完《贡献指南》。
-2. [Fork](https://help.github.com/en/articles/fork-a-repo)，或者更新已有的 fork。
-3. [新建 topic branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)，开始工作。
+2. [Fork](https://docs.github.com/en/articles/fork-a-repo)，或者更新已有的 fork。
+3. [新建 topic branch](https://docs.github.com/en/articles/creating-and-deleting-branches-within-your-repository)，开始工作。
 4. 编辑。确认无误后，commit。
    * 文章的主页是 `index.md`。
    * 如有需要，编辑其他文件。
    * 请阅读下文“如何写 Git commit message”。
 5. 测试。
-   * 最简单的方法是，push 到 `gh-pages`，查看生成的网站。可在 Repository Settings、Deployments、**github-pages** 的 Activity log 等处查到网址。
-   * 如果条件允许，不妨先[在本地测试](https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll)。
+   * 最简单的方法是，push 到 `gh-pages`，查看生成的网站。可在 Repository Settings、Deployments、**github-pages** 的 Activity log 等处查到网址，默认格式为 `https://username.github.io/InstallTutorial/`。
+   * 如果条件允许，不妨先[在本地测试](https://docs.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll)。
 6. Push 到 topic branch。
-7. [新建一个 pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)。
-   * 根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。
-   * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)，并在标题 (Title) 的开头添加 `[WIP]` 字样。
-   * 如果这是一个大型、复杂、需要细致 review 的工作，*建议*在标题 (Title) 的开头添加 `[MEGA]` 字样。
-   * 如果这个 pull request 修复了某个 issue，请注意使用 [Fix keyword](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（通常写在摘要中）
+7. [新建一个 pull request](https://docs.github.com/en/articles/creating-a-pull-request-from-a-fork)。
+   * **根据编辑栏中的指示（`<!-- -->` 中的内容）填写。填完后，请删去那些指示。**
+   * 如果这是一个进行中的工作 (work in progress, WIP)，请创建为 [draft pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)。同时可以在标题 (Title) 的开头添加 `[WIP]` 字样。
+   * 如果这个 pull request 解决了某个 issue，请注意使用 [Fix keyword](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)。（写在摘要中或标题末尾）
 8. 跟进 review 进程，及时响应，直到 merge。
 9. 清理。例如，删除不再使用的 topic branch。
 
 **不熟悉 Git 命令行**？不妨尝图形界面的工具：
 
-推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，容易上手。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的**公开** (public) repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
+推荐 [GitKraken](https://www.gitkraken.com/)。它快速、简洁，[容易上手](https://www.gitkraken.com/resources/gitkraken-cheat-sheet)。只需注册一个 GitKraken Account，即可免费用于 GitHub 上的 **public** repo。建议使用 GitHub Account 来注册 GitKraken Account，以便关联绑定。
 
 [GitHub Desktop](https://desktop.github.com/) 也值得一试。它与 GitHub 高度集成，但是仅支持 Windows 和 macOS。
 
@@ -90,18 +89,18 @@
 
 1. 检查 PR 的标题、摘要，确保它们能清晰、准确地概括 PR 内容。
    * 如果存在问题，通知 PR author 来改正；如果无法联系，自己修正。
-2. [Discuss and review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
+2. [Discuss and review](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
    1. 完整阅读 description、**Files changed**，如有需要，阅读 **Commits**。
    2. 讨论。
-      * 自己或者[邀请其他人来](https://help.github.com/en/articles/requesting-a-pull-request-review) review。
+      * 自己或者[邀请其他人来](https://docs.github.com/en/articles/requesting-a-pull-request-review) review。
       * 对于 draft pull request，应当仅留言讨论，提出修改意见；不宜 approve，已有的 approval 都应当被 dismiss 或者 re-request。在所有工作完成后，（由 PR author 或者管理员）删去标题中的 `[WIP]` 字样，之后设置 **Ready for review**。
 3. 当该 PR 准备就绪、可以 merge 时，复查它的标题、摘要。
-4. [Approve](https://help.github.com/en/articles/approving-a-pull-request-with-required-reviews). 之后，Mergify 会在合适的时机完成后续工作。
-5. 有时，需要手工 [merge](https://help.github.com/en/articles/merging-a-pull-request)。
+4. [Approve](https://docs.github.com/en/articles/approving-a-pull-request-with-required-reviews). 之后，Mergify 会在合适的时机完成后续工作。
+5. 有时，需要手工 [merge](https://docs.github.com/en/articles/merging-a-pull-request)。
    1. 依次考虑下列方式
-      1. [squash merge](https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github#squashing-your-merge-commits) （将 PR 的所有内容压缩为一条独立的 commit，插入主线，可以保持主历史记录线性、清洁。）
-      2. [rebase merge](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits) （将 PR 的所有 commits 都插入主线，可以保留所有操作细节，且没有 merge commit。）
-      3. true merge （添加一条特别的 merge commit，将 PR 的所有 commits 都插入主线，容易导致主历史记录复杂、难以回溯。如无特殊原因，请勿使用。）
+      1. [squash merge](https://docs.github.com/en/github/administering-a-repository/about-merge-methods-on-github#squashing-your-merge-commits) （将 PR 的所有内容压缩为一条独立的 commit，插入主线，可以保持主历史记录线性、清洁。）
+      2. [rebase merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits) （将 PR 的所有 commits 都插入主线，可以保留所有操作细节，且没有 merge commit。）
+      3. true merge （添加一条特别的 merge commit，将 PR 的所有 commits 都联入主线，容易导致主历史记录复杂、难以回溯。如无特殊原因，请勿使用。）
    2. 填写 commit message
       1. 填写标题 (Summary)。使用 PR 的标题 (Title)；如果它的开头没有 emoji，选择一个合适的加上。
       2. 填写描述 (Description)。至少包含摘要、已知问题（如果有）；一般来说，直接使用 PR 的 description 即可。
@@ -137,8 +136,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **英文示例**
 
-```text
+```markdown
 🌐 Add new feature: Copy code to clipboard
+
 ## Summary
 
 * Add a '📋Copy' button at the top left corner of all code blocks (inserted right before `pre` node), so that visitors can copy the code easily.
@@ -150,8 +150,9 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 **中文示例**
 
-```text
+```markdown
 📖 增加贡献指南
+
 * 增加《贡献指南》 (`CONTRIBUTING.md`)
 * 调整 `README.md`
 ```
@@ -167,7 +168,7 @@ Git commit message 是一段多行文本。第一行通常称为“summary”或
 
 ## 使用 emoji 开头
 
-建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响范围。Emoji 与正文之间有一个空格。
+建议在 commit message、pull request title 等的开头放置一个 emoji，以表示其影响。Emoji 与正文之间有一个空格。
 
 目前，本项目推荐下列 emoji：
 
