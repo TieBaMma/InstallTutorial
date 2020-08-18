@@ -237,6 +237,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.1.1) Windows 中文
   * [SharePoint-API](https://mmamirror.herokuapp.com/share/Mathematica/12.1.1.0/CN/)
 
+* (12.1.1) Linux 中文
+  * [世纪互联 Onedrive ](https://mirrors.ni.ac.cn/d/Mathematica/12.1.1/Linux/Mathematica_12.1.1_Chinese_LINUX.sh) hash: md5 c6bcc60e55fd998e029c6985b6f3fe0c
+
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
   * [SharePoint-API](https://mmamirror.herokuapp.com/Mathematica/12.1.1.0/EN/) 
