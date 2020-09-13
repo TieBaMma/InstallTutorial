@@ -169,6 +169,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 9 中英文版
 * 8 中文版
 * 7 中文版
+* 6 英文版
 * 5 英文版
 * 4 英文版
 * 3 英文版
@@ -418,6 +419,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 所以，**如无特殊原因，请不要选择过老版本的 Mathematica！**
 
 Mathematica 7.0 中文版[百度网盘](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig) 提取码：`axir` （注意，中文文档需要手动覆盖，不清楚怎么覆盖的就用高版本！）
+
+Mathematica 6.0 英文版（Windows XP 可用）
+* [百度网盘](https://pan.baidu.com/s/1pzKXlqnkLYTTKd8I_aFmiA) 提取码：`zmvn` （附的注册机是版本 5 的，因为版本 6 的没找到。实测版本 5 注册机可用于版本 6 ，但不清楚是否会有需要多试几次的时候。）
+* [Google Drive](https://drive.google.com/drive/folders/1WDQb5q0jgLf7dn4hBXzFkfzE4zXUjLvo) （注册机请到上一个链接找。）
 
 Mathematica 5.0 英文版（Windows XP 可用）[百度网盘](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9`
 
