@@ -424,6 +424,11 @@ Mathematica 6.0 英文版（Windows XP 可用）
 * [百度网盘](https://pan.baidu.com/s/1pzKXlqnkLYTTKd8I_aFmiA) 提取码：`zmvn` （附的注册机是版本 5 的，因为版本 6 的没找到。实测版本 5 注册机可用于版本 6 ，但不清楚是否会有需要多试几次的时候。）
 * [Google Drive](https://drive.google.com/drive/folders/1WDQb5q0jgLf7dn4hBXzFkfzE4zXUjLvo) （注册机请到上一个链接找。）
 
+Mathematica 5.2 英文版（Windows XP 可用）
+
+* [百度网盘](https://pan.baidu.com/s/1Mv4LFV_iXVVP-MjK3Ah_ow) 提取码：`eowl`
+* [Dropbox](https://www.dropbox.com/s/ragrvedf8hf13hg/Mathematica%205.2.0.rar?dl=0)
+
 Mathematica 5.0 英文版（Windows XP 可用）[百度网盘](https://pan.baidu.com/s/1MWnpsZ8QA2DBZXf1N6ayRg) 提取码：`8nb9`
 
 Mathematica 4.1 英文版（Windows XP 可用）[百度网盘](https://pan.baidu.com/s/1FrZSuxlO4CULYIRfyhLa-Q) 提取码：`hcqq`
