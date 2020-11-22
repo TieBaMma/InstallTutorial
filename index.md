@@ -60,7 +60,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 ### Wolfram Engine 12.1.0
 
 * (12.1.0) Linux
-  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.1.0/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/WolframEngine/12.1.0/)
 
 ### Wolfram Engine 12.0.1
 
@@ -69,7 +69,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.1) Linux
   * [腾讯微云](https://share.weiyun.com/5thePKk)
-  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframEngine/12.0.1/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/WolframEngine/12.0.1/)
 
 ### Wolfram Engine 12.0.0
 
@@ -106,7 +106,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
   
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/WolframAlphaNotebook/12.0.1.0/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/WolframAlphaNotebook/12.0.1.0/)
 
 ## 运行代码的替代品
 
@@ -221,7 +221,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 12.0 简体中文语言包
   * [Telegram 频道](https://t.me/mmalanguage)（需爬墙）
-  * [SharePoint-API](https://mmamirror.herokuapp.com/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
 
 另外，参看【Q3】。
 
@@ -236,7 +236,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API 世纪互联](https://mmamirror.herokuapp.com/vianet/Mathematica/12.1.1.0/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/Mathematica/12.1.1.0/CN/)
 
 * (12.1.1) Linux 中文
   * [世纪互联 Onedrive ](https://mirrors.ni.ac.cn/d/Mathematica/12.1.1/Linux/Mathematica_12.1.1_Chinese_LINUX.sh) hash: md5 c6bcc60e55fd998e029c6985b6f3fe0c
@@ -262,7 +262,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 天翼云盘也会限制单线程下载速度，可以通过 Aria2、IDM 等软件进行多线程下载。
 
 * (12.1.0) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://mmamirror.herokuapp.com/Mathematica/12.1.0.0/) （支持使用 Aria2、IDM 等下载）
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/Mathematica/12.1.0.0/) （支持使用 Aria2、IDM 等下载）
 
 * (12.1.0) Windows 中文 + Windows 下载器
   * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
