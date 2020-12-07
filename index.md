@@ -236,6 +236,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
+  * [SharePoint-API 世纪互联](https://mmamirror.herokuapp.com/vianet/Mathematica/12.1.1.0/)
   * [SharePoint-API](https://mmamirror.herokuapp.com/share/Mathematica/12.1.1.0/CN/)
 
 * (12.1.1) Linux 中文
