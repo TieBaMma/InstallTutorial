@@ -142,8 +142,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     
     缺点：
     
-    1. 停更很久了，版本过老（很多函数不支持）
-    
+    1. ~~停更很久了，版本过老（很多函数不支持）~~ 恢复更新了，`pip install Mathics3`
+
 3. [Wolfram Cloud](https://www.wolframcloud.com/)
 
     优点：
@@ -224,6 +224,20 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [SharePoint-API](https://mmamirror.herokuapp.com/share/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
 
 另外，参看【Q3】。
+
+### Mathematica 12.2
+
+> **注意**
+>
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。大约从 12.1.0 开始英文版的安装包文件名多出了 CN 字样，但它依旧是英文版！
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
+
+* (12.2) Windows 英文 + Linux 英文 + Mac 英文
+  * [SharePoint-API 世纪互联](https://mmamirror.herokuapp.com/vianet/Mathematica/12.2.0.0/EN/)
+  * [SharePoint-API](https://mmamirror.herokuapp.com/share/Mathematica/12.2.0.0/EN/)
 
 ### Mathematica 12.1.1
 
