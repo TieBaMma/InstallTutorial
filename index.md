@@ -947,7 +947,7 @@ Mathematica 的多个组件都有 Unicode 支持问题，而且长期未修复�
 
 ### 【Q22】 Windows 系统语言包是否会对 Mathematica 有影响？
 
-【A22】已经证实，至少在 Windows 10 下，若系统未安装**英文**语言包，Wolfram|Alpha Notebook Edition 12.0.1 英文版及 Mathematica 12.1.1 英文版将无法正确下载 ImageRestyle 所需的模型文件。下图为 Alpha Notebook 的出错提示：
+【A22】已经证实，至少在 Windows 10 下，若系统未安装**英文**语言包，Wolfram\|Alpha Notebook Edition 12.0.1 英文版及 Mathematica 12.1.1 英文版将无法正确下载 ImageRestyle 所需的模型文件。下图为 Alpha Notebook 的出错提示：
 
 ![Nrh534.png](https://s1.ax1x.com/2020/06/26/Nrh534.png)
 
