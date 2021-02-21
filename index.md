@@ -9,7 +9,7 @@ title: {{ site.title }}
 
 **用盗版是迫不得已的，有能力的话要支持正版！**
 
-中国区学生版 80 美元——最外层页面写的确实是 $161，但是[进入购买页面](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)就会变成 $80 了！如果国家选错了是不会有 $80 的优惠价的。购买学生版需要验证学生身份（例如学信网截图、学生证、录取通知书）。
+~~中国区学生版 80 美元——最外层页面写的确实是 $161，但是进入购买页面就会变成 $80 了！如果国家选错了是不会有 $80 的优惠价的。~~ 目前已经涨价，目前中国区学生版为$166，[此处为购买链接](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)，但淘宝店的学生版没有涨价，理由不明；其他代理商的情况不明。购买学生版需要验证学生身份（例如学信网截图、学生证、录取通知书）。
 
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
