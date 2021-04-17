@@ -57,6 +57,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接（Mac 版暂时没人传）：
 
+### Wolfram Engine 12.2.0
+
+* (12.2.0) Linux
+  * [SharePoint-API](https://wdm.undo.icu/wyd/WolframEngine/12.2.0/)
+
+### Wolfram Engine 12.1.1
+
+* (12.1.1) Linux
+  * [SharePoint-API](https://wdm.undo.icu/wyd/WolframEngine/12.1.1/)
+
 ### Wolfram Engine 12.1.0
 
 * (12.1.0) Linux
