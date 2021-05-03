@@ -17,9 +17,7 @@ title: {{ site.title }}
 
 ---
 
-如果想用学生版，但是学校没买又不想自己付钱，可以考虑参加 [Wolfram 学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh) (Wolfram Student Ambassador Program)。
-
-可以获得的：wolfram 系列产品全解锁。（Wolfram One，Wolfram Alpha Pro）
+在校学生可以考虑参加 [Wolfram 学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh) (Wolfram Student Ambassador Program)，获得与 Wolfram 开发人员、Wolfram 学生大使在线讨论以及参加 Wolfram 技术大会的机会。
 
 需要做的：
 
@@ -97,7 +95,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
 > * 从 OneDrive 下载时，如果长时间（十几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器可能会挂断那些长时间慢速连接，最终还是要重新下载。
 > * SharePoint / OneDrive 有反滥用、[限流措施](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。如果密集访问，服务器可能会屏蔽用户。对于极严重的滥用情况，Microsoft 可能会介入调查。
-> * 本文中标有标有 `API` 字样的 SharePoint / OneDrive 下载链接可以使用 Aria2、IDM 等第三方下载器下载。如遇 `Bad Request`、`Application Error` 或类似错误，请先尝试刷新，如果多次刷新仍然显示错误界面，可能是**当日** Microsoft Graph API 调用次数耗尽或**当月** Heroku 免费时长用完了。
 
 ## Wolfram|Alpha Notebook Edition
 
