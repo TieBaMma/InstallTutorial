@@ -59,6 +59,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.2.0) Linux
   * [SharePoint-API](https://wdm.undo.icu/wyd/WolframEngine/12.2.0/)
+* (12.2.0) Windows
+  * [SharePoint-API](https://wuyudi-my.sharepoint.com/personal/wuyudi_wuyudi_onmicrosoft_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly93dXl1ZGktbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvd3V5dWRpX3d1eXVkaV9vbm1pY3Jvc29mdF9jb20vRWh5LTZXNTV6TDFDcjJQYkxlT3ZLTTBCLWxySG5oQnB0U3R1UVA2TjNmTUJDdz9ydGltZT1nd3pXcFRFVjJVZw&id=%2Fpersonal%2Fwuyudi%5Fwuyudi%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F12%2E2%20and%20newer%2Fengine)
 
 ### Wolfram Engine 12.1.1
 
@@ -525,7 +527,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 12** 的注册机（同时适用于 12.0 及 12.1 ）：
+**版本 12** 的注册机（同时适用于 12.0, 12.1 及 12.2 ）：
 
 * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。
 * [mathematica-keygen](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n` 命令行版（就是那个“mma12_0_keygen附批处理文件.zip”）。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
