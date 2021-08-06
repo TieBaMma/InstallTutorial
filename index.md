@@ -55,6 +55,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接（Mac 版暂时没人传）：
 
+### Wolfram Engine 12.3.1
+* (12.3.1) Winodws + Linux + Mac
+  * [SharePoint-API](https://wdm.undo.icu/wyd/WolframEngine/12.3.1/)
+
 ### Wolfram Engine 12.2.0
 
 * (12.2.0) Linux
@@ -233,6 +237,19 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [SharePoint-API](https://wdm.undo.icu/wyd/%E8%AF%AD%E8%A8%80%E5%8C%85/12.0/) 
 
 另外，参看【Q3】。
+
+### Mathematica 12.3.1
+
+> **注意**
+>
+> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。大约从 12.1.0 开始英文版的安装包文件名多出了 CN 字样，但它依旧是英文版！
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
+
+* (12.3.1) Windows 英文 + Linux 英文 + Mac 英文
+  * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/EN/) 页面出现问题请多刷新几次。
 
 ### Mathematica 12.2
 
