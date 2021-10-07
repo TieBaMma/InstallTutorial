@@ -53,7 +53,7 @@ title: {{ site.title }}
 
 Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolfram Engine](https://support.wolfram.com/kb/45743)。
 
-下载链接（Mac 版暂时没人传）：
+下载链接：
 
 ### Wolfram Engine 12.3.1
 * (12.3.1) Winodws + Linux + Mac
@@ -251,8 +251,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Windows 中文
   * [百度网盘](https://pan.baidu.com/s/1pWKFVC25BetPpNtYLMnsxQ) 提取码：`3sjc`
 
-* (12.3.1) Windows 英文 + Linux 英文 + Mac 英文
-  * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/EN/) 页面出现问题请多刷新几次。
+* (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
+  * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/CN/) 页面出现问题请多刷新几次。
+
+* (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
+  * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/EN/) 页面出现问题请多刷新几次。**文件名里有 `CN` 但确实是英文版！**
 
 ### Mathematica 12.2
 
