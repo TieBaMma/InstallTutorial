@@ -9,7 +9,7 @@ title: {{ site.title }}
 
 **用盗版是迫不得已的，有能力的话要支持正版！**
 
-~~中国区学生版 80 美元——最外层页面写的确实是 $161，但是进入购买页面就会变成 $80 了！如果国家选错了是不会有 $80 的优惠价的。~~ 目前已经涨价，目前中国区学生版为$166，[此处为购买链接](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)。购买学生版需要验证学生身份（例如学信网截图、学生证、录取通知书）。
+本文上次更新时，中国区学生版为 171 美元（如需实体安装介质，需另付相关费用），[此处为购买链接](https://store.wolfram.com/arrive.cgi?Qualifier=STUD&URI=/view/app/mathematica/student&Country=CN)。购买学生版需要验证学生身份（例如学信网截图、学生证、录取通知书）。
 
 购买方法的一些介绍： <http://tieba.baidu.com/p/2570976088>
 
@@ -18,12 +18,6 @@ title: {{ site.title }}
 ---
 
 在校学生可以考虑参加 [Wolfram 学生大使计划](https://www.wolfram.com/company/careers/ambassador/index.html.zh) (Wolfram Student Ambassador Program)，获得与 Wolfram 开发人员、Wolfram 学生大使在线讨论以及参加 Wolfram 技术大会的机会。
-
-需要做的：
-
-1. 准备一份简单的简历。
-2. 会有个面试，是中文面试。
-3. 每个月填表汇报做了什么。比如写文章，录教程。
 
 ---
 
@@ -64,7 +58,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.2.0) Linux
   * [SharePoint-API](https://wdm.undo.icu/wyd/WolframEngine/12.2.0/)
 * (12.2.0) Windows
-  * [SharePoint-API](https://wuyudi-my.sharepoint.com/personal/wuyudi_wuyudi_onmicrosoft_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly93dXl1ZGktbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvd3V5dWRpX3d1eXVkaV9vbm1pY3Jvc29mdF9jb20vRWh5LTZXNTV6TDFDcjJQYkxlT3ZLTTBCLWxySG5oQnB0U3R1UVA2TjNmTUJDdz9ydGltZT1nd3pXcFRFVjJVZw&id=%2Fpersonal%2Fwuyudi%5Fwuyudi%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F12%2E2%20and%20newer%2Fengine)
+  * [SharePoint](https://wuyudi-my.sharepoint.com/personal/wuyudi_wuyudi_onmicrosoft_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly93dXl1ZGktbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvd3V5dWRpX3d1eXVkaV9vbm1pY3Jvc29mdF9jb20vRWh5LTZXNTV6TDFDcjJQYkxlT3ZLTTBCLWxySG5oQnB0U3R1UVA2TjNmTUJDdz9ydGltZT1nd3pXcFRFVjJVZw&id=%2Fpersonal%2Fwuyudi%5Fwuyudi%5Fonmicrosoft%5Fcom%2FDocuments%2FMathematica%2F12%2E2%20and%20newer%2Fengine)
 
 ### Wolfram Engine 12.1.1
 
@@ -117,8 +111,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
-  
-* (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [SharePoint-API](https://wdm.undo.icu/wyd/WolframAlphaNotebook/12.0.1.0/)
 
 ## 运行代码的替代品
@@ -189,9 +181,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 2 英文版
 * 1 英文版
 
-目前，Wolfram 在中国大陆设立了下载站供正版用户使用，在线下载均已恢复，下载器 (Download Manager) 的可用性暂不明确。如果仍然无法下载，请自己想办法爬墙。
+目前，Wolfram 在中国大陆设立了下载站供正版用户使用，部分产品的在线下载及下载器 (`Download Manager`) 已恢复。如果仍然无法下载，请自己想办法爬墙。
 
-**正版用户**可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
+**正版用户**可直接访问 Wolfram 官网，选择有 `(CN)` 和 `Full Download` 标记的下载链接下载；也可以尝试向经销商或 Wolfram 客服人员索要直接下载链接。
 
 本文提供的安装包和官网的是一样的，若不信，可对比文件的校验和（`MD5`、`SHA-256` 等）。
 
@@ -251,7 +243,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Windows 中文
   * [百度网盘](https://pan.baidu.com/s/1pWKFVC25BetPpNtYLMnsxQ) 提取码：`3sjc`
 
-* (12.3.1) Windows 中文
+* (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文
   * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/CN/)
 
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
@@ -276,7 +268,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
   * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.2.0.0/CN/)
   * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.2.0.0/CN/)
-  * [百度网盘](https://pan.baidu.com/s/1ZFy2FNvYjxRlr5H-SJnppA) 提取码：`5wxy`
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
   * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.2.0.0/EN/)
@@ -317,36 +308,21 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 从 12.1.0 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
-> **注意**
-> 
-> 天翼云盘需要登陆才可以下载大于 300 MB 的文件，可以使用脚本 <https://greasyfork.org/scripts/397247-cloud-189-cn-download-without-login> 绕过登陆直接下载。
->
-> 天翼云盘也会限制单线程下载速度，可以通过 Aria2、IDM 等软件进行多线程下载。
-
 * (12.1.0) Windows 中文 + Linux 中文 + Mac 中文
   * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.1.0.0/) （支持使用 Aria2、IDM 等下载）
 
-* (12.1.0) Windows 中文 + Windows 下载器
-  * [天翼云盘](https://cloud.189.cn/t/6zeMni2iQnuu) 提取码：`jry9`
-
 * (12.1.0) Windows 中文 + Mac 中文
-  * [Sharepoint](https://lteapp-my.sharepoint.com/:f:/g/personal/hadesth_lteapp_onmicrosoft_com/EndBdboMkkVMuYyNfP7c7JkBRy2-v8qnTH5E_IpULDlTmw?e=M4DOh5)
+  * [SharePoint](https://lteapp-my.sharepoint.com/:f:/g/personal/hadesth_lteapp_onmicrosoft_com/EndBdboMkkVMuYyNfP7c7JkBRy2-v8qnTH5E_IpULDlTmw?e=M4DOh5)
 
 * (12.1.0) Linux 中文
   * [天翼云盘](https://cloud.189.cn/t/EBfERzfaAb6j) 提取码：`epx1`
 
 * (12.1.0) Windows 英文 + Mac 英文
-  * [Sharepoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
-
-* (12.1.0) Windows 英文 + Windows 下载器 + Mac 下载器
-  * [百度网盘](https://pan.baidu.com/s/1d8mwxiEFqNI7JO_-c8smyg) 提取码：`1234`
+  * [SharePoint](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/Ehy-6W55zL1Cr2PbLeOvKM0B-lrHnhBptStuQP6N3fMBCw?e=dKvAte)
 
 * (12.1.0) Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1ABAAe3gh4fzwKWMlPhdtDw) 提取码：`nvt5`
   * [BT 种子](https://mac-torrents.io/wp-content/uploads/2020/03/Mathematica.12.1.0.mac-torrents.io_.zip.torrent)
-
-* (12.1.0) Linux 英文
-  * [百度网盘](https://pan.baidu.com/s/13SA-sMbEQbzTNsKK-hxafw) 提取码：`vuxd`
 
 * (12.1.0) 12.0、12.1 的激活工具
   * [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/)
@@ -599,7 +575,6 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 版本 8 的这两个注册机，需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)。如果注册机不能运行，请下载：
 >
-> * 打包：[百度网盘](http://pan.baidu.com/share/link?shareid=386759&uk=1661347987)（链接似乎已经废了）
 > * 32 位：[Microsoft Visual C++ 2010 Redistributable Package (x86) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=5555)
 > * 64 位：[Microsoft Visual C++ 2010 Redistributable Package (x64) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=14632)
 >
