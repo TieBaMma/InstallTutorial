@@ -251,6 +251,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Windows 中文
   * [百度网盘](https://pan.baidu.com/s/1pWKFVC25BetPpNtYLMnsxQ) 提取码：`3sjc`
 
+* (12.3.1) Linux 中文
+  * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.3.1)
+
 * (12.3.1) Windows 中文
   * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/CN/)
 
@@ -298,7 +301,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/12.1.1.0/CN/)
 
 * (12.1.1) Linux 中文
-  * [世纪互联 Onedrive ](https://mirrors.ni.ac.cn/d/Mathematica/12.1.1/Linux/Mathematica_12.1.1_Chinese_LINUX.sh) hash: md5 c6bcc60e55fd998e029c6985b6f3fe0c
+  * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.1.1)
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
