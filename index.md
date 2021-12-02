@@ -578,8 +578,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 版本 8 的这两个注册机，需要 VC2010 运行库 (Microsoft Visual C++ 2010 Redistributable Package)。如果注册机不能运行，请下载：
 >
-> * 32 位：[Microsoft Visual C++ 2010 Redistributable Package (x86) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=5555)
-> * 64 位：[Microsoft Visual C++ 2010 Redistributable Package (x64) - Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=14632)
+> [Visual C++ Redistributable downloads - Microsoft Support](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
+
 >
 > 下载运行库，安装之后，注册机应该就能运行，不要嫌麻烦！
 
