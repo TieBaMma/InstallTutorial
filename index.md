@@ -230,6 +230,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
+### Mathematica 13.0.0
+
+* 主程序
+  * (13.0.0) Windows + Linux + Mac
+    * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/13.0.0.0/Main/)
+    * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/Main/)
+* 离线文档扩展包
+  * (13.0.0 英文) Windows + Mac 
+    * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/WLDocs/EN/)
+
 ### Mathematica 12.3.1
 
 > **注意**
