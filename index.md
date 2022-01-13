@@ -232,13 +232,27 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Mathematica 13.0.0
 
+> **注意**
+>
+> 从 13.0 开始，Mathematica 帮助文档有巨大变化。Windows 和 Mac 的主程序不再携带离线帮助文档，需要另行安装离线文档扩展包。**仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
 * 主程序
   * (13.0.0) Windows + Linux + Mac
     * [SharePoint-API](https://wdm.undo.icu/wyd/Mathematica/13.0.0.0/Main/)
     * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/Main/)
+  * (13.0.0) Windows
+    * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 * 离线文档扩展包
   * (13.0.0 英文) Windows + Mac 
     * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/WLDocs/EN/)
+  * (13.0.0 英文) Windows
+    * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 
 ### Mathematica 12.3.1
 
