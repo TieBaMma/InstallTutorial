@@ -43,7 +43,12 @@ title: {{ site.title }}
 
 2019 年 5 月，Wolfram 推出了[**免费**](https://www.wolfram.com/engine/faq/)的 [**Wolfram Engine for Developers**](https://www.wolfram.com/engine/)。此软件实质上是一个**没有笔记本界面、也没有本地自带帮助**的 Mathematica。
 
-但是，它是**免费**的！并且，虽然没有自带笔记本，但你可以[用 Jupyter 笔记本](https://mathematica.stackexchange.com/q/198839/1871)。
+但是，它是**免费**的！并且，虽然没有自带笔记本，但你可以
+1. [Wolfram Language Notebook](https://zhuanlan.zhihu.com/p/438701709), 体感最接近 Notebook。
+2. [官方 WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter), [体验不好](https://tieba.baidu.com/p/6149032404)
+3. [Wolfram Language Server](https://zhuanlan.zhihu.com/p/74921013), 配置方法见 [为 WolframEngine 配置 VSCode（Windows）](https://gitee.com/asdasd1dsadsa/ZhiHu-asdasd1dsadsa/blob/master/Article/%E4%B8%BAWolframEngine%E9%85%8D%E7%BD%AEVSCode%EF%BC%88Windows%EF%BC%89.md)，体验接近 [IDE](https://www.wolfram.com/workbench/?source=footer)
+4. [Official Visual Studio Code extension for Wolfram Language](https://github.com/WolframResearch/vscode-wolfram)
+5. [其余的方案](https://mathematica.stackexchange.com/q/198839/1871)
 
 Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolfram Engine](https://support.wolfram.com/kb/45743)。
 
@@ -174,6 +179,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 这里提供下列版本的下载地址：
 
+* 13 英文版
 * 12 中英文版
 * 11 中英文版
 * 10 中英文版
@@ -567,9 +573,9 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 12** 的注册机（同时适用于 12.0, 12.1 及 12.2 ）：
+**版本 11,12,13** 的注册机：
 
-* [Wolfram Mathematica 12 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。
+* [Wolfram Mathematica 11,12,13 Key Generator Online](https://ibugone.com/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。假如第一次失败了，多试几次。
 * [mathematica-keygen](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n` 命令行版（就是那个“mma12_0_keygen附批处理文件.zip”）。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
 
 同时适用于中文版、英文版。
