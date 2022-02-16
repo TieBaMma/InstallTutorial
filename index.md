@@ -258,12 +258,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * (13.0.0) Windows + Linux + Mac
     * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.0.0/Main/)
     * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.0.0/Main/)
-    * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/Main/)
+    * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/13.0.0.0/Main/)
   * (13.0.0) Windows
     * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 * 离线文档扩展包
   * (13.0.0 英文) Windows + Mac 
-    * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/13.0.0.0/WLDocs/EN/)
+    * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/13.0.0.0/WLDocs/EN/)
   * (13.0.0 英文) Windows
     * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 
@@ -288,10 +288,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/CN/)
 
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.3.1.0/CN/)
+  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.3.1.0/CN/)
 
 * (12.3.1) Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.3.1.0/EN/) **文件名里有 `CN` 但确实是英文版！**
+  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.3.1.0/EN/) **文件名里有 `CN` 但确实是英文版！**
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.3.1.0/EN/) **文件名里有 `CN` 但确实是英文版！**
@@ -308,12 +308,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.2.0.0/CN/)
+  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.2.0.0/CN/)
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.2.0.0/CN/)
   * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/12.2.0.0/CN/)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.2.0.0/EN/)
+  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.2.0.0/EN/)
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.2.0.0/EN/)
   * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/12.2.0.0/EN/)
 
@@ -328,7 +328,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/vianet/Mathematica/12.1.1.0/)
+  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.1.1.0/)
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.1.1.0/CN/)
   * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/12.1.1.0/CN/)
 
