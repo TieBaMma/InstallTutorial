@@ -258,6 +258,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * (13.0.1) Windows + Linux + Mac
     * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.1.0/Main/)
     * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.1.0/Main/)
+* 离线文档扩展包
+  * (13.0.1 英文) Windows + Mac 
+    * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.1.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+    * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.1.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
 
 ### Mathematica 13.0.0
 
@@ -280,7 +284,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 * 离线文档扩展包
   * (13.0.0 英文) Windows + Mac 
-    * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/13.0.0.0/WLDocs/EN/)
+    * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/13.0.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+    * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+    * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
   * (13.0.0 英文) Windows
     * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
 
@@ -300,15 +306,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Linux 中文
   * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.3.1)
 
-* (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文
+* (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.3.1.0/CN/)
   * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/12.3.1.0/CN/)
-
-* (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
   * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.3.1.0/CN/)
-
-* (12.3.1) Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [SharePoint-API 世纪互联](https://wdm.undo.icu/cvianet/Mathematica/12.3.1.0/EN/) **文件名里有 `CN` 但确实是英文版！**
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
   * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/12.3.1.0/EN/) **文件名里有 `CN` 但确实是英文版！**
