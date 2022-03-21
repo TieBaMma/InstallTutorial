@@ -249,7 +249,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 13.0 开始，Mathematica 帮助文档有巨大变化。Windows 和 Mac 的主程序不再携带离线帮助文档，需要另行安装离线文档扩展包。**仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
 > 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
 
-
 > **注意**
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
@@ -262,6 +261,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * (13.0.1 英文) Windows + Mac 
     * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.1.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
     * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.1.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+  * (13.0.1 中文) Windows + Mac 
+    * [SharePoint-API(w)](https://wdm.undo.icu/wyd/Mathematica/13.0.1.0/WLDocs/CN/)
+    * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.1.0/WLDocs/CN/)
 
 ### Mathematica 13.0.0
 
@@ -289,6 +291,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [SharePoint-API(s)](https://wdm.undo.icu/share/Mathematica/13.0.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
   * (13.0.0 英文) Windows
     * [百度网盘](https://pan.baidu.com/s/1aD5GhENsYr-hmMxrLZOY3A) 提取码：`1111`
+  * 此版本没有中文离线文档扩展包，如有需要可以下载 13.0.1 版本安装。
 
 ### Mathematica 12.3.1
 
