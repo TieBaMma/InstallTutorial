@@ -95,7 +95,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * (12.0.1) Windows 英文 + Mac 英文 + Linux 英文
   * [百度网盘](https://pan.baidu.com/s/1uYqGXTWeo_46t4Q-DodQPg) 提取码：`s5sg`
-  * [SharePoint-API](https://wdm.undo.icu/share/WolframAlphaNotebook/12.0.1.0/)
+  * [SharePoint-API](https://wdm.undo.icu/auto/WolframAlphaNotebook/12.0.1.0/)
 
 ## 运行代码的替代品
 
