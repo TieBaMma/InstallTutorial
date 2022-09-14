@@ -222,6 +222,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Mathematica 13.1.0
 
+2022.9.14：注意，本页所有下载链502了，大家可先前往备用站 https://wdm-v2.itsu.eu.org/ 下载。
+
 > **注意**
 >
 > 从 13.1 开始，Windows, Mac 和 Linux 的主程序均不再携带离线帮助文档，需要另行安装离线文档扩展包。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
