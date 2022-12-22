@@ -55,6 +55,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 下载链接：
 
 ### Wolfram Engine 13.0.1
+* (13.2.0) Windows + Linux + Mac
+  * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/WolframEngine/13.2.0/)
+  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/WolframEngine/13.2.0/)
+
+### Wolfram Engine 13.0.1
+* (13.2.0) Windows + Linux + Mac
+  * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/WolframEngine/13.1.0/)
+  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/WolframEngine/13.1.0/)
+
+### Wolfram Engine 13.0.1
 * (13.0.1) Windows + Linux + Mac
   * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/WolframEngine/13.0.1/)
   * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/WolframEngine/13.0.1/)
@@ -224,7 +234,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 从 13.1 开始，Windows, Mac 和 Linux 的主程序均不再携带离线帮助文档，需要另行安装离线文档扩展包。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
 > 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
 
 > **注意**
@@ -244,7 +254,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 > **注意**
 >
-> 从 13.1 开始，Windows, Mac 和 Linux 的主程序均不再携带离线帮助文档，需要另行安装离线文档扩展包。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
 > 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
 
 > **注意**
