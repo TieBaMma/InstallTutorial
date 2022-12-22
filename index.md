@@ -54,13 +54,13 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接：
 
-### Wolfram Engine 13.0.1
+### Wolfram Engine 13.2.0
 * (13.2.0) Windows + Linux + Mac
   * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/WolframEngine/13.2.0/)
   * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/WolframEngine/13.2.0/)
 
-### Wolfram Engine 13.0.1
-* (13.2.0) Windows + Linux + Mac
+### Wolfram Engine 13.1.0
+* (13.1.0) Windows + Linux + Mac
   * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/WolframEngine/13.1.0/)
   * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/WolframEngine/13.1.0/)
 
