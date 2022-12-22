@@ -220,6 +220,26 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
+### Mathematica 13.2.0
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序均不再携带离线帮助文档，需要另行安装离线文档扩展包。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (13.2.0) Windows + Mac + Linux
+    * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/Mathematica/13.2.0.0/Main/)
+    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/Mathematica/13.2.0.0/Main/)
+* 离线文档扩展包
+  * (13.2.0 英文) Windows + Mac + Linux
+    * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/Mathematica/13.2.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/Mathematica/13.2.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
+
 ### Mathematica 13.1.0
 
 > **注意**
@@ -240,8 +260,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/Mathematica/13.1.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
     * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/Mathematica/13.1.0.0/WLDocs/EN/) **文件名里有 `CN` 但确实是英文！**
   * (13.1.0 中文) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/Mathematica/13.1.0.0/WLDocs/CN/) **文件名里有 `CN` 但确实是英文！**
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/Mathematica/13.1.0.0/WLDocs/CN/) **文件名里有 `CN` 但确实是英文！**
+    * [SharePoint-API](https://wdm.itsu.eu.org/cf-route/Mathematica/13.1.0.0/WLDocs/CN/)
+    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/auto/Mathematica/13.1.0.0/WLDocs/CN/)
 
 ### Mathematica 13.0.1
 
