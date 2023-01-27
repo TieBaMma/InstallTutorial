@@ -56,23 +56,23 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Wolfram Engine 13.2.0
 * (13.2.0) Windows + Linux + Mac
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.2.0.0/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.2.0.0/)
 
 ### Wolfram Engine 13.1.0
 * (13.1.0) Windows + Linux + Mac
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.1.0.0)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.1.0.0/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.1.0.0)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.1.0.0/)
 
 ### Wolfram Engine 13.0.1
 * (13.0.1) Windows + Linux + Mac
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.0.1.0)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.0.1.0/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.0.1.0)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.0.1.0/)
 
 ### Wolfram Engine 12.3.1
 * (12.3.1) Winodws + Linux + Mac
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WolframEngine/12.3.1.0)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/12.3.1.0/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/12.3.1.0)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/12.3.1.0/)
 
 > **注意**
 >
@@ -193,7 +193,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 12.0 简体中文语言包
   * [Telegram 频道](https://t.me/mmalanguage)（需爬墙）
-  * [SharePoint-API](https://wdm.itsu.eu.org/Azusawa/%E6%97%A7%E7%89%88%E8%AF%AD%E8%A8%80%E5%8C%85/12.0) 
+  * [WDM Mirror 存档](https://wdm.itsu.eu.org/Azusawa/OldDocs/12.0) 
 
 另外，参看【Q3】。
 
@@ -210,16 +210,19 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.2.0) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/Main/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/Main/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/Main/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.0 英文) Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/BNDL_English/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
 * 离线文档扩展包
   * (13.2.0 英文) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+  * (13.2.0 中文) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.2.0.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.2.0.0/Chinese/)
 
 ### Mathematica 13.1.0
 
@@ -234,22 +237,22 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.1.0) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/Main/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.1.0.0/Main/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/Main/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.1.0.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.1.0 英文) Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_English/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
   * (13.1.0 中文) Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_Chinese/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_Chinese/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_Chinese/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_Chinese/)
 * 离线文档扩展包
   * (13.1.0 英文) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
   * (13.1.0 中文) Windows + Mac + Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
 
 ### Mathematica 13.0.1
 
@@ -264,22 +267,22 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.0.1) Windows + Mac
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/Main/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/Main/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/Main/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.0.1 英文) Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_English/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_English/)
   * (13.0.1 中文) Linux
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_Chinese/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_Chinese/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_Chinese/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_Chinese/)
 * 离线文档扩展包
   * (13.0.1 英文) Windows + Mac 
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
   * (13.0.1 中文) Windows + Mac 
-    * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/Chinese/)
-    * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/Chinese/)
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/Chinese/)
 
 ### Mathematica 12.3.1
 
@@ -298,12 +301,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.3.1)
 
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/Chinese/)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/Chinese/)
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
 
 ### Mathematica 12.2
 
@@ -316,12 +319,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/Chinese/)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/Chinese/)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/English/)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/English/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/English/)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/English/)
 
 ### Mathematica 12.1.1
 
@@ -334,16 +337,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/Chinese/)
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/Chinese/)
 
 * (12.1.1) Linux 中文
   * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.1.1)
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-  * [SharePoint-API](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/English/) 
-  * [SharePoint-API 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/English/) 
+  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/English/) 
+  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/English/) 
 
 ### Mathematica 12.0
 
