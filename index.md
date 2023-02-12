@@ -186,16 +186,32 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 版本 11.1 \~ 12.0 的中文帮助文档包及安装方法可以前往 <https://tieba.baidu.com/p/5696398243> 查看。
 
-该贴的楼主已经将文件上传至网盘：
-
-* 11.1 \~ 12.0 简体中文语言包
-  * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
-
-* 12.0 简体中文语言包
-  * [Telegram 频道](https://t.me/mmalanguage)（需爬墙）
-  * [WDM Mirror 存档](https://wdm.itsu.eu.org/Azusawa/OldDocs/12.0) 
+文中提及的文档包可以在此处下载：
+  * 版本 11.1 \~ 12.0
+    * [WDM Mirror 存档](https://wdm.itsu.eu.org/Azusawa/OldDocs) （仅有 11.1 和 12.0）
+    * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
 另外，参看【Q3】。
+
+### Mathematica 13.2.1
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (13.2.1) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/Main/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/Main/)
+* 附带离线文档的主程序 `BNDL`
+  * (13.2.1 英文) Linux
+    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/BNDL_English/)
 
 ### Mathematica 13.2.0
 
