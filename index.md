@@ -212,8 +212,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * (13.2.1 英文) Linux
     * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
     * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/BNDL_English/)
+* 离线文档扩展包
+  本版本未发布离线文档扩展包，13.2.0 版本的离线文档扩展包理论上可以用于本版本。
 
 ### Mathematica 13.2.0
+
+> **警告**
+>
+> 版本 13.2.0 中，ParametricPlot3D 等内置符号有 bug，会导致部分情况下绘图不正确。
+>
+> **如无特殊原因，请不要选择此版本！** 请选择修复了大量 bug 的 13.2.1 版本。
 
 > **注意**
 >
