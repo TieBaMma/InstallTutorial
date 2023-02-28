@@ -213,7 +213,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
     * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/BNDL_English/)
 * 离线文档扩展包
-  本版本未发布离线文档扩展包，13.2.0 版本的离线文档扩展包理论上可以用于本版本。
+  * 本版本未发布离线文档扩展包，13.2.0 版本的离线文档扩展包理论上可以用于本版本。
 
 ### Mathematica 13.2.0
 
