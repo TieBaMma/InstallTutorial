@@ -58,6 +58,13 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (13.2.0) Windows + Linux + Mac
   * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
   * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.2.0.0/)
+* (13.2.0) Linux
+  * IPFS <br>
+    Public Gateway: 
+    [ipfs.io](https://ipfs.io/ipfs/QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u?filename=QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u), 
+    [Cloudflare](https://cloudflare-ipfs.com/ipfs/QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u?filename=QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u), 
+    [Pinata](https://gateway.pinata.cloud/ipfs/QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u?filename=QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u) <br>
+    CID: `QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u?filename=QmZsLosZNWZhVJyRnsmkC7WZivagukvqtSbTNhmGiib15u`
 
 ### Wolfram Engine 13.1.0
 * (13.1.0) Windows + Linux + Mac
@@ -213,7 +220,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
     * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/BNDL_English/)
 * 离线文档扩展包
-  * 本版本未发布离线文档扩展包，13.2.0 版本的离线文档扩展包理论上可以用于本版本。
+  * 请安装 13.2.0 版本的离线文档扩展包。
 
 ### Mathematica 13.2.0
 
