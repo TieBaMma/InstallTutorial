@@ -204,16 +204,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
-* 主程序
-  * (13.2.1) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/Main/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/Main/)
-* 附带离线文档的主程序 `BNDL`
-  * (13.2.1 英文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.1.0/BNDL_English/)
-* 离线文档扩展包
-  * 本版本未发布离线文档扩展包，13.2.0 版本的离线文档扩展包理论上可以用于本版本。
+* 主程序 + 离线中英文文档扩展包（Windows + Mac + Linux）
+    * [百度网盘](https://pan.baidu.com/s/1_C-A865FpBqL9uSLo_V8Sw?pwd=o03s)
+
+
 
 ### Mathematica 13.2.0
 
