@@ -54,25 +54,30 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接：
 
+### Wolfram Engine 13.3.0
+* (13.3.0) Windows + Mac
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.3.0.0)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.3.0.0/)
+
 ### Wolfram Engine 13.2.0
 * (13.2.0) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.2.0.0/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.2.0.0/)
 
 ### Wolfram Engine 13.1.0
 * (13.1.0) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.1.0.0)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.1.0.0/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.1.0.0)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.1.0.0/)
 
 ### Wolfram Engine 13.0.1
 * (13.0.1) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/13.0.1.0)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/13.0.1.0/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.0.1.0)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.0.1.0/)
 
 ### Wolfram Engine 12.3.1
 * (12.3.1) Winodws + Linux + Mac
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WolframEngine/12.3.1.0)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WolframEngine/12.3.1.0/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/12.3.1.0)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/12.3.1.0/)
 
 > **注意**
 >
@@ -90,39 +95,39 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     1. 点一下 Hello World
     2. 在 Code 里输入代码。
     3. 点上面播放键
-    
+
     优点：
 
     1. Wolfram Cloud 速度慢，这个相对较快
     2. 一直是最新版，可以 `$Version` 确认
-    
+
     缺点：
 
     1. 就是纯 txt
     2. 60s 计算限时
     3. 不支持图片
     4. 没有拓展性
-    
+
     > 联想成在一个 txt 里写代码就行。
 
 2. [Mathics](https://mathics.github.io/)
 
     优点：
-    
+
     1. 基于纯 Python, 免费
-    
+
     缺点：
-    
+
     1. ~~停更很久了，版本过老（很多函数不支持）~~ 恢复更新了，`pip install Mathics3`
 
 3. [Wolfram Cloud](https://www.wolframcloud.com/)
 
     优点：
-    
+
     1. 官方出品，不考虑速度的话接近原生体验，甚至有帮助文档。
-    
+
     缺点
-    
+
     1. 速度太慢
 
 ## Mathematica 软件下载
@@ -188,10 +193,37 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 文中提及的文档包可以在此处下载：
   * 版本 11.1 \~ 12.0
-    * [WDM Mirror 存档](https://wdm.itsu.eu.org/Azusawa/OldDocs) （仅有 11.1 和 12.0）
+    * [WDM Mirror 存档](https://wdm-reborn.itsu.eu.org/Azusawa/OldDocs) （仅有 11.1 和 12.0）
     * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
 另外，参看【Q3】。
+
+### Mathematica 13.3.0
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (13.3.0) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.0.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.0.0/Main/)
+* 附带离线文档的主程序 `BNDL`
+  * (13.3.0 英文) Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.0.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.0.0/BNDL_English/)
+* 离线文档扩展包
+  * (13.3.0 英文) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+  * (13.3.0 中文) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.0.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.0.0/Chinese/)
 
 ### Mathematica 13.2.1
 
@@ -206,6 +238,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序 + 离线中英文文档扩展包（Windows + Mac + Linux）
     * [百度网盘](https://pan.baidu.com/s/1_C-A865FpBqL9uSLo_V8Sw?pwd=o03s)
+* 主程序
+  * (13.2.1) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.1.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.1.0/Main/)
+* 附带离线文档的主程序 `BNDL`
+  * (13.2.1 英文) Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.1.0/BNDL_English/)
+* 离线帮助文档扩展包
+    请下载安装 13.2.0 版本的离线帮助文档扩展包，与此版本通用。
 
 
 
@@ -228,19 +270,19 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.2.0) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/Main/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/Main/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.0.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.0 英文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.2.0.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_English/)
 * 离线文档扩展包
   * (13.2.0 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
   * (13.2.0 中文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.2.0.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.2.0.0/Chinese/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.2.0.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.2.0.0/Chinese/)
 
 ### Mathematica 13.1.0
 
@@ -255,21 +297,21 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.1.0) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/Main/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.1.0.0/Main/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.1.0.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.1.0 英文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_English/)
   * (13.1.0 中文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_Chinese/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.2.0.0/BNDL_Chinese/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_Chinese/)
 * 离线文档扩展包
   * (13.1.0 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
   * (13.1.0 中文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
     * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
 
 ### Mathematica 13.0.1
@@ -285,22 +327,22 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.0.1) Windows + Mac
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/Main/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/Main/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/Main/)
 * 附带离线文档的主程序 `BNDL`
   * (13.0.1 英文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_English/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/BNDL_English/)
   * (13.0.1 中文) Linux
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_Chinese/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/13.0.1.0/BNDL_Chinese/)
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/BNDL_Chinese/)
 * 离线文档扩展包
-  * (13.0.1 英文) Windows + Mac 
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
-  * (13.0.1 中文) Windows + Mac 
-    * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/WLDocs/13.0.1.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/WLDocs/13.0.1.0/Chinese/)
+  * (13.0.1 英文) Windows + Mac
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+  * (13.0.1 中文) Windows + Mac
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.0.1.0/Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.0.1.0/Chinese/)
 
 ### Mathematica 12.3.1
 
@@ -319,12 +361,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.3.1)
 
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.3.1.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.3.1.0/Chinese/)
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
 
 ### Mathematica 12.2
 
@@ -337,12 +379,12 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.2.0.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.2.0.0/Chinese/)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.2.0.0/English/)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.2.0.0/English/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.2.0.0/English/)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.2.0.0/English/)
 
 ### Mathematica 12.1.1
 
@@ -355,16 +397,16 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/Chinese/)
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.1.1.0/Chinese/)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.1.1.0/Chinese/)
 
 * (12.1.1) Linux 中文
   * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.1.1)
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-  * [WDM Mirror 主线](https://wdm.itsu.eu.org/Rasis/Mathematica/12.1.1.0/English/) 
-  * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Grace/Mathematica/12.1.1.0/English/) 
+  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.1.1.0/English/)
+  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.1.1.0/English/)
 
 ### Mathematica 12.0
 
@@ -956,7 +998,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 ### 【Q14】版本 10 及以上（不论中英文版）卡顿，卡在初始界面，界面显示不完全
 
 【A14】具体参考<del><http://tieba.baidu.com/p/4039684644></del>（注：此链接因 妙谛莲花 被百度无故封号，目前暂无法访问）。卡顿问题在该帖 2 楼，卡在初始界面的问题在该帖 3 楼，界面显示不完全的问题在该帖 4 楼。
- 
+
  已证实版本 11 及以上的 Paclet 更新也可能导致卡顿，此问题可通过使用 [Paclet 镜像站](https://gitee.com/wolframpaclet/WolframPacletGeneral)来解决。
 
 ### 【Q15】Windows 10 最多能支持 Mathematica 多低的版本
