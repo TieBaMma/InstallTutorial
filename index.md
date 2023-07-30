@@ -500,7 +500,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 版本 9 的激活是历代最烦，并且有中文帮助搜索能力退化的问题，不建议使用。
 > 
-> 在 Win10 22H2 19045.3208 时出现了兼容性问题（内核无法启动），见 https://github.com/TieBaMma/InstallTutorial/issues/121
+> 在 Win10 22H2 19045.3208 时出现了兼容性问题（内核无法启动），见 <https://github.com/TieBaMma/InstallTutorial/issues/121>
 
 > **注意**
 >
