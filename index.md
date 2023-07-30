@@ -45,10 +45,11 @@ title: {{ site.title }}
 
 但是，它是**免费**的！并且，虽然没有自带笔记本，但你可以
 1. [Wolfram Language Notebook](https://zhuanlan.zhihu.com/p/438701709), 体感最接近 Notebook。
-2. [官方 WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter), [体验不好](https://tieba.baidu.com/p/6149032404)
-3. [Wolfram Language Server](https://zhuanlan.zhihu.com/p/74921013), 配置方法见 [为 WolframEngine 配置 VSCode（Windows）](https://gitee.com/asdasd1dsadsa/ZhiHu-asdasd1dsadsa/blob/master/Article/%E4%B8%BAWolframEngine%E9%85%8D%E7%BD%AEVSCode%EF%BC%88Windows%EF%BC%89.md)，体验接近 [IDE](https://www.wolfram.com/workbench/?source=footer)
-4. [Official Visual Studio Code extension for Wolfram Language](https://github.com/WolframResearch/vscode-wolfram)
-5. [其余的方案](https://mathematica.stackexchange.com/q/198839/1871)
+2. [WL JS](https://jerryi.github.io/wljs-docs/) 开发中, 效果见文档。
+3. [官方 WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter), [体验不好](https://tieba.baidu.com/p/6149032404)
+4. [Wolfram Language Server](https://zhuanlan.zhihu.com/p/74921013), 配置方法见 [为 WolframEngine 配置 VSCode（Windows）](https://gitee.com/asdasd1dsadsa/ZhiHu-asdasd1dsadsa/blob/master/Article/%E4%B8%BAWolframEngine%E9%85%8D%E7%BD%AEVSCode%EF%BC%88Windows%EF%BC%89.md)，体验接近 [IDE](https://www.wolfram.com/workbench/?source=footer)
+5. [Official Visual Studio Code extension for Wolfram Language](https://github.com/WolframResearch/vscode-wolfram)
+6. [其余的方案](https://mathematica.stackexchange.com/q/198839/1871)
 
 Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolfram Engine](https://support.wolfram.com/kb/45743)。
 
@@ -90,16 +91,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 1. [tio.run](https://tio.run/#mathematica)
 
+    提供 `12.0.1 for Linux x86 (64-bit) (October 16, 2019)`
+
     简易使用方法
 
-    1. 点一下 Hello World
+    1. 点一下右上 Hello World
     2. 在 Code 里输入代码。
     3. 点上面播放键
 
     优点：
 
     1. Wolfram Cloud 速度慢，这个相对较快
-    2. 一直是最新版，可以 `$Version` 确认
 
     缺点：
 
@@ -108,9 +110,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     3. 不支持图片
     4. 没有拓展性
 
-    > 联想成在一个 txt 里写代码就行。
-
-2. [Mathics](https://mathics.github.io/)
+3. [Mathics](https://mathics.org/)
 
     优点：
 
@@ -118,9 +118,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
     缺点：
 
-    1. ~~停更很久了，版本过老（很多函数不支持）~~ 恢复更新了，`pip install Mathics3`
+    1. 很多函数不支持
 
-3. [Wolfram Cloud](https://www.wolframcloud.com/)
+4. [Wolfram Cloud](https://www.wolframcloud.com/)
 
     优点：
 
@@ -499,6 +499,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > **警告**
 >
 > 版本 9 的激活是历代最烦，并且有中文帮助搜索能力退化的问题，不建议使用。
+> 
+> 在 Win10 22H2 19045.3208 时出现了兼容性问题（内核无法启动），见 https://github.com/TieBaMma/InstallTutorial/issues/121
 
 > **注意**
 >
@@ -518,7 +520,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 >
 > 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。
 
-没有太多需求的初学者可以考虑先上手版本 8，参考[版本 9 的中文帮助搜索能力退化](http://tieba.baidu.com/p/3204136180)。**仍请注意兼容性等问题。**
+没有太多需求的初学者可以考虑先最新版本，参考[版本 9 的中文帮助搜索能力退化](http://tieba.baidu.com/p/3204136180)。**仍请注意兼容性等问题。**
 
 [Mathematica 8.0.4 中文版](http://pan.baidu.com/s/1skUb3n3)（MD5：`6aebc6776548f7b6ed134efafdb2af5d`）
 
