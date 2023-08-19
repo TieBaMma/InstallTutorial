@@ -56,7 +56,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 下载链接：
 
 ### Wolfram Engine 13.3.0
-* (13.3.0) Windows + Mac
+* (13.3.0) Windows + Linux + Mac
   * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.3.0.0)
   * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.3.0.0/)
 
@@ -197,6 +197,35 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
 另外，参看【Q3】。
+
+### Mathematica 13.3.1
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (13.3.1) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/Main/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/Main/)
+* 附带离线文档的主程序 `BNDL`
+  * (13.3.1 英文) Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/BNDL_English/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/BNDL_English/)
+  * (13.3.1 中文) Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/BNDL_Chinese/)
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/BNDL_Chinese/)
+* 离线文档扩展包
+  * (13.3.1 英文) Windows + Mac + Linux
+    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+  * (13.3.1 中文)
+    * 请安装 13.3.0 版本的中文离线文档。
 
 ### Mathematica 13.3.0
 
