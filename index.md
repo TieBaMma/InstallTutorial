@@ -139,6 +139,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 这里提供下列版本的下载地址：
 
+* 14 中文版
 * 13 中英文版
 * 12 中英文版
 * 11 中英文版
@@ -197,6 +198,25 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
 另外，参看【Q3】。
+
+### Mathematica 14.0.0
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (14.0.0) Windows
+    * [百度网盘](https://pan.baidu.com/s/1HAUPVVq7jbc9EXyo7-zScA?pwd=iopy)
+
+* 离线文档扩展包
+  * (14.0.0 中文) Windows
+    * [百度网盘](https://pan.baidu.com/s/11MmWt3kqjR0reeDNij55Uw?pwd=yh2h) 
 
 ### Mathematica 13.3.1
 
@@ -642,7 +662,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 11,12,13** 的注册机：
+**版本 11,12,13** 的注册机（鉴于14.0的注册机暂时没人发，可以先用下面的多试几次看看）：
 
 * [Wolfram Mathematica 11,12,13 Key Generator Online](https://ibug.io/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。假如第一次失败了，多试几次。
 * [mathematica-keygen](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n` 命令行版（就是那个“mma12_0_keygen附批处理文件.zip”）。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
