@@ -213,11 +213,25 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 主程序
   * (14.0.0) Windows
     * [百度网盘](https://pan.baidu.com/s/1HAUPVVq7jbc9EXyo7-zScA?pwd=iopy)
-
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/13yp60aWmY3hwffpeguSJ6g?pwd=u4ex)
+   
+  * (14.0.0) Mac
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/1fXGEO4G6DdKvsJrZTuB62w?pwd=gee0)
+      
+  * (14.0.0) Linux
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/1-Azyu2IxvLiC6XZnkyc38g?pwd=e7ua)
+      
 * 离线文档扩展包
   * (14.0.0 中文) Windows
-    * [百度网盘](https://pan.baidu.com/s/11MmWt3kqjR0reeDNij55Uw?pwd=yh2h) 
+    * [百度网盘](https://pan.baidu.com/s/11MmWt3kqjR0reeDNij55Uw?pwd=yh2h)
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/1rihbQ_4PFllMvmg5vuHphg?pwd=78ep)
 
+  * (14.0.0 中文) Mac
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/1dOFAjdqYY6GHGd2gyxCy0w?pwd=uyy7)
+      
+  * (14.0.0 中文) Linux
+    * [BT种子的百度网盘链接](https://pan.baidu.com/s/1zkk7B935FhEyVLFcc_XRSg?pwd=xbsc)
+      
 ### Mathematica 13.3.1
 
 > **注意**
