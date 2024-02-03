@@ -55,6 +55,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 下载链接：
 
+### Wolfram Engine 14.0.0
+* (14.0.0) Windows + Linux + Mac
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=WolframEngine_14.0.0) （请善用 `Ctrl + F` 搜索）
+
 ### Wolfram Engine 13.3.0
 * (13.3.0) Windows + Linux + Mac
   * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.3.0.0)
@@ -220,6 +224,9 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
       
   * (14.0.0) Linux
     * [BT种子的百度网盘链接](https://pan.baidu.com/s/1-Azyu2IxvLiC6XZnkyc38g?pwd=e7ua)
+   
+  * (14.0.0) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=Mathematica_14.0.0) （请善用 `Ctrl + F` 搜索）
       
 * 离线文档扩展包
   * (14.0.0 中文) Windows
@@ -231,7 +238,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
       
   * (14.0.0 中文) Linux
     * [BT种子的百度网盘链接](https://pan.baidu.com/s/1zkk7B935FhEyVLFcc_XRSg?pwd=xbsc)
-      
+
+  * (14.0.0 中英文) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=WLDocs_14.0.0) （请善用 `Ctrl + F` 搜索，文件名内有 `Chinese` 的是中文）
+   
 ### Mathematica 13.3.1
 
 > **注意**
