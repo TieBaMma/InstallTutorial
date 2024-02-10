@@ -7,9 +7,8 @@ pull_request_rules:
       - '-title~=(?i)\bWIP\b'
     actions:
       merge:
-        strict: "smart"
         method: squash
-        commit_message: "title+body"
+        commit_message_template: "{{ title }}+{{ body }}"
 
   - name: Add label `DuplicateOrInvalid` when abandoned
     conditions:
