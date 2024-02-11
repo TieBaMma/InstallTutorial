@@ -255,19 +255,15 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.3.1) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.3.1 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
   * (13.3.1 中文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.1.0/BNDL_Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.1.0/BNDL_Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线文档扩展包
   * (13.3.1 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.1.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
   * (13.3.1 中文)
     * 请安装 13.3.0 版本的中文离线文档。
 
@@ -284,19 +280,15 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.3.0) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.0.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.0.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.3.0 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.3.0.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.3.0.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线文档扩展包
   * (13.3.0 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
   * (13.3.0 中文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.3.0.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.3.0.0/Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 13.2.1
 
@@ -311,14 +303,13 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序 + 离线中英文文档扩展包（Windows + Mac + Linux）
     * [百度网盘](https://pan.baidu.com/s/1_C-A865FpBqL9uSLo_V8Sw?pwd=o03s)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 主程序
   * (13.2.1) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.1.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.1.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.1 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.1.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.1.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线帮助文档扩展包
     请下载安装 13.2.0 版本的离线帮助文档扩展包，与此版本通用。
 
@@ -343,19 +334,15 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.2.0) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.0.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.0 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.2.0.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线文档扩展包
   * (13.2.0 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.2.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
   * (13.2.0 中文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.2.0.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.2.0.0/Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 13.1.0
 
@@ -370,22 +357,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.1.0) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.1.0.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.1.0 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
   * (13.1.0 中文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.1.0.0/BNDL_Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.2.0.0/BNDL_Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线文档扩展包
   * (13.1.0 英文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.1.0.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
   * (13.1.0 中文) Windows + Mac + Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-v2.itsu.eu.org/Rasis/WLDocs/13.1.0.0/Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 13.0.1
 
@@ -400,22 +382,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.0.1) Windows + Mac
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/Main/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/Main/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 附带离线文档的主程序 `BNDL`
   * (13.0.1 英文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_English/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/BNDL_English/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
   * (13.0.1 中文) Linux
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/13.0.1.0/BNDL_Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/13.0.1.0/BNDL_Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 离线文档扩展包
   * (13.0.1 英文) Windows + Mac
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.0.1.0/English/) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
   * (13.0.1 中文) Windows + Mac
-    * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WLDocs/13.0.1.0/Chinese/)
-    * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WLDocs/13.0.1.0/Chinese/)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 12.3.1
 
@@ -431,15 +408,13 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * [百度网盘](https://pan.baidu.com/s/1pWKFVC25BetPpNtYLMnsxQ) 提取码：`3sjc`
 
 * (12.3.1) Linux 中文
-  * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.3.1)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.3.1.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.3.1.0/Chinese/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.3.1.0/English/) **文件名里有 `CN` 但确实是英文版！**
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文版！**
 
 ### Mathematica 12.2
 
@@ -452,12 +427,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.2.0.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.2.0.0/Chinese/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.2.0.0/English/)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.2.0.0/English/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 12.1.1
 
@@ -470,16 +443,14 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.1.1.0/Chinese/)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.1.1.0/Chinese/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 * (12.1.1) Linux 中文
-  * [阿里云盘](https://mmamirror.vercel.app/%F0%9F%90%A7Linux/12.1.1)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/Mathematica/12.1.1.0/English/)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/Mathematica/12.1.1.0/English/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 
 ### Mathematica 12.0
 
