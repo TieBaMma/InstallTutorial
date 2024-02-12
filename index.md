@@ -57,7 +57,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Wolfram Engine 14.0.0
 * (14.0.0) Windows + Linux + Mac
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=WolframEngine_14.0.0) （请善用 `Ctrl + F` 搜索）
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_14.0.0) 
 
 ### Wolfram Engine 13.3.0
 * (13.3.0) Windows + Linux + Mac
@@ -226,7 +226,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [BT种子的百度网盘链接](https://pan.baidu.com/s/1-Azyu2IxvLiC6XZnkyc38g?pwd=e7ua)
    
   * (14.0.0) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=Mathematica_14.0.0) （请善用 `Ctrl + F` 搜索）
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_14.0.0)
       
 * 离线文档扩展包
   * (14.0.0 中文) Windows
@@ -240,7 +240,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [BT种子的百度网盘链接](https://pan.baidu.com/s/1zkk7B935FhEyVLFcc_XRSg?pwd=xbsc)
 
   * (14.0.0 中英文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/#:~:text=WLDocs_14.0.0) （请善用 `Ctrl + F` 搜索，文件名内有 `Chinese` 的是中文）
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_14.0.0)
    
 ### Mathematica 13.3.1
 
@@ -255,17 +255,14 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.3.1) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.3.1)
 * 附带离线文档的主程序 `BNDL`
   * (13.3.1 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.3.1_BNDL_Linux)
   * (13.3.1 中文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.3.1_BNDL_Chinese)
 * 离线文档扩展包
-  * (13.3.1 英文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
-  * (13.3.1 中文)
-    * 请安装 13.3.0 版本的中文离线文档。
+  * 请下载安装 13.3.0 版本的离线帮助文档扩展包，与此版本通用。
 
 ### Mathematica 13.3.0
 
@@ -280,15 +277,15 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.3.0) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.3.0)
 * 附带离线文档的主程序 `BNDL`
   * (13.3.0 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.3.0_BNDL)
 * 离线文档扩展包
   * (13.3.0 英文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.3.0) 
   * (13.3.0 中文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.3.0_Chinese)
 
 ### Mathematica 13.2.1
 
@@ -303,15 +300,14 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序 + 离线中英文文档扩展包（Windows + Mac + Linux）
     * [百度网盘](https://pan.baidu.com/s/1_C-A865FpBqL9uSLo_V8Sw?pwd=o03s)
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
 * 主程序
   * (13.2.1) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.2.1)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.1 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.2.1_BNDL)
 * 离线帮助文档扩展包
-    请下载安装 13.2.0 版本的离线帮助文档扩展包，与此版本通用。
+  * 请下载安装 13.2.0 版本的离线帮助文档扩展包，与此版本通用。
 
 
 
@@ -334,15 +330,15 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.2.0) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.2.0)
 * 附带离线文档的主程序 `BNDL`
   * (13.2.0 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.2.0_BNDL)
 * 离线文档扩展包
   * (13.2.0 英文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.2.0)
   * (13.2.0 中文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.2.0_Chinese)
 
 ### Mathematica 13.1.0
 
@@ -357,17 +353,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.1.0) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.1.0)
 * 附带离线文档的主程序 `BNDL`
   * (13.1.0 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.1.0_BNDL)
   * (13.1.0 中文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org?ver=Mathematica_13.1.0_BNDL_Chinese)
 * 离线文档扩展包
   * (13.1.0 英文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.1.0)
   * (13.1.0 中文) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.1.0_Chinese)
 
 ### Mathematica 13.0.1
 
@@ -382,17 +378,17 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 * 主程序
   * (13.0.1) Windows + Mac
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.0.1)
 * 附带离线文档的主程序 `BNDL`
   * (13.0.1 英文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.0.1_BNDL)
   * (13.0.1 中文) Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_13.0.1_BNDL_Chinese)
 * 离线文档扩展包
   * (13.0.1 英文) Windows + Mac
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文！**
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.0.1)
   * (13.0.1 中文) Windows + Mac
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.0.1_Chinese)
 
 ### Mathematica 12.3.1
 
@@ -407,14 +403,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Windows 中文
   * [百度网盘](https://pan.baidu.com/s/1pWKFVC25BetPpNtYLMnsxQ) 提取码：`3sjc`
 
-* (12.3.1) Linux 中文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
-
 * (12.3.1) Windows 中文 + Linux 中文 + Mac(Intel) 中文 + Mac(ARM) 中文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.3.1_Chinese)
 
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org) **文件名里有 `CN` 但确实是英文版！**
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.3.1)
 
 ### Mathematica 12.2
 
@@ -427,10 +420,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.2.0_Chinese)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.2.0)
 
 ### Mathematica 12.1.1
 
@@ -443,14 +436,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
-
-* (12.1.1) Linux 中文
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.1.1_Chinese)
 
 * (12.1.1) Windows 英文 + Linux 英文 + Mac 英文
   * [百度网盘](https://pan.baidu.com/s/1OKtjGDdj8HN3JgtfW7_ppQ) 提取码：`ftci`
-  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.1.1)
 
 ### Mathematica 12.0
 
