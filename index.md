@@ -61,28 +61,23 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 ### Wolfram Engine 13.3.0
 * (13.3.0) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.3.0.0)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.3.0.0/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_13.3.0) 
 
 ### Wolfram Engine 13.2.0
 * (13.2.0) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.2.0.0)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.2.0.0/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_13.2.0) 
 
 ### Wolfram Engine 13.1.0
 * (13.1.0) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.1.0.0)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.1.0.0/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_13.1.0) 
 
 ### Wolfram Engine 13.0.1
 * (13.0.1) Windows + Linux + Mac
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/13.0.1.0)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/13.0.1.0/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_13.0.1) 
 
 ### Wolfram Engine 12.3.1
 * (12.3.1) Winodws + Linux + Mac
-  * [WDM Mirror 主线](https://wdm-reborn.itsu.eu.org/Rasis/WolframEngine/12.3.1.0)
-  * [WDM Mirror 备线](https://wdm-reborn.itsu.eu.org/Hikari/WolframEngine/12.3.1.0/)
+  * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_12.3.1) 
 
 > **注意**
 >
