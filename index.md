@@ -606,12 +606,13 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 见 [WSMInstallTutorial](https://tiebamma.github.io/WSMInstallTutorial/)
 
 * 主程序
-  * (13.2.0) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.2.0)
-  * (13.3.1) Windows + Mac + Linux
-    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.3.1)
   * (14.0.0) Windows + Mac + Linux
     * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_14.0.0)
+  * (13.3.1) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.3.1)
+  * (13.2.0) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.2.0)
+
 
 ## Mathematica 软件的激活
 
