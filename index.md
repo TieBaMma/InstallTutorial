@@ -593,6 +593,27 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 * [Mathematica Quick Revision History - Wolfram](https://www.wolfram.com/mathematica/quick-revision-history.html)
 * [A little bit of Mathematica history - Nasser M. Abbasi](https://www.12000.org/my_notes/compare_mathematica/index.htm)
 
+## gridMathematica
+
+### gridMathematica 13.1.0
+
+* 主程序
+  * (13.1.0) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=gridMathematica_13.1.0)
+
+## Wolfram SystemModeler
+
+见 [WSMInstallTutorial](https://tiebamma.github.io/WSMInstallTutorial/)
+
+* 主程序
+  * (14.0.0) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_14.0.0)
+  * (13.3.1) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.3.1)
+  * (13.2.0) Windows + Mac + Linux
+    * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_13.2.0)
+
+
 ## Mathematica 软件的激活
 
 本文以激活 Mathematica 8 为例，并且假定你的电脑从来没有安装、激活过任何 Mathematica。
