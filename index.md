@@ -640,7 +640,11 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 11,12,13** 的注册机（鉴于14.0的注册机暂时没人发，可以先用下面的多试几次看看）：
+**版本 14** 的注册机
+
+* [网页版](https://mmaactivate.github.io/MMAActivate/) 
+
+**版本 11,12,13** 的注册机：
 
 * [Wolfram Mathematica 11,12,13 Key Generator Online](https://ibug.io/blog/2019/05/mathematica-keygen/) 网页版。打开网站，跟随那里的指示。假如第一次失败了，多试几次。
 * [mathematica-keygen](https://pan.baidu.com/s/1NaUrPg5HAmMOiRpy7PdLhQ) 提取码：`cz8n` 命令行版（就是那个“mma12_0_keygen附批处理文件.zip”）。如果不知道怎么开这个注册机，请使用附带的批处理文件（就是那个扩展名为 `bat` 的东西）。用法写在文件名上！
