@@ -79,10 +79,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Winodws + Linux + Mac
   * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WolframEngine_12.3.1) 
 
-> **注意**
->
-> * SharePoint / OneDrive 方式需要**在浏览器中**下载，不要使用下载工具。因为许多下载工具不能正确处理 OneDrive 要求的[身份验证](https://docs.microsoft.com/en-us/sharepoint/authentication)，导致连接失败。（据说，IDM 等稍做配置也可以用，请自行探索。）
-> * 从 OneDrive 下载时，如果长时间（十几分钟）速度很慢（几十 kB/s），请果断取消，再重新开始（如果浏览器支持，在下载管理中点击“重试”即可）。因为稳定在这么慢的速度，表明网络阻塞，重连有时能改善；此外，服务器可能会挂断那些长时间慢速连接，最终还是要重新下载。
+> 下载完请尽量保种。
 
 ## 运行代码的替代品
 
@@ -193,7 +190,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 文中提及的文档包可以在此处下载：
   * 版本 11.1 \~ 12.0
-    * [WDM Mirror 存档](https://wdm-reborn.itsu.eu.org/Azusawa/OldDocs) （仅有 11.1 和 12.0）
     * [百度网盘](https://pan.baidu.com/s/1Y9SjTh69eIk01zl-bMFqqg) 提取码 `da1s`
 
 另外，参看【Q3】。
@@ -304,8 +300,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 离线帮助文档扩展包
   * 请下载安装 13.2.0 版本的离线帮助文档扩展包，与此版本通用。
 
-
-
 ### Mathematica 13.2.0
 
 > **警告**
@@ -385,7 +379,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
   * (13.0.1 中文) Windows + Mac
     * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=WLDocs_13.0.1_Chinese)
 
-### Mathematica 12.3.1
+### Mathematica 12.1.1 12.2 12.3.1
 
 > **注意**
 >
@@ -404,31 +398,11 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * (12.3.1) Windows 英文 + Linux 英文 + Mac(Intel) 英文 + Mac(ARM) 英文
   * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.3.1)
 
-### Mathematica 12.2
-
-> **注意**
->
-> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。大约从 12.1.0 开始英文版的安装包文件名多出了 CN 字样，但它依旧是英文版！
-
-> **注意**
->
-> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
-
 * (12.2) Windows 中文 + Linux 中文 + Mac 中文
   * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.2.0_Chinese)
 
 * (12.2) Windows 英文 + Linux 英文 + Mac 英文
   * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.2.0)
-
-### Mathematica 12.1.1
-
-> **注意**
->
-> 只有自带了**中文帮助**的才叫中文版！自行汉化的方法详见前文“中文版和英文版的区别”小节。大约从 12.1.0 开始英文版的安装包文件名多出了 CN 字样，但它依旧是英文版！
-
-> **注意**
->
-> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。其他多项系统要求也都显著提高。
 
 * (12.1.1) Windows 中文 + Linux 中文 + Mac 中文
   * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=Mathematica_12.1.1_Chinese)
@@ -505,6 +479,21 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     magnet:?xt=urn:btih:aad5462ec9e4c20d350a53caff59bf6b7758a249
     ```
 
+### 早期版本
+
+这里再次强调，**如无特殊原因，请不要选择过老的版本！**
+
+1. 较老的 Mathematica 与现代的有许多不兼容之处。
+2. 较老的 Mathematica 往往与现代的计算机不兼容，尤其是 Mac。
+3. 早期 Mathematica 的自带文档非常简略。
+4. 在版本 7 以前，Mathematica 无官方中文版。
+5. 在版本 10 以前，撤销 (Undo) 只有一次。版本 10 开始支持[多重撤销](https://reference.wolfram.com/language/ref/UndoOptions.html)。
+6. [版本 9 的中文帮助搜索能力退化](http://tieba.baidu.com/p/3204136180)。
+7. [绘图和动画等功能在版本 6 有过重大修改](https://note.youdao.com/noteshare?id=0c2719208239696d61182199327bd38c)。
+8. 在新版有官方的 [LSP](https://github.com/WolframResearch/LSPServer), [Formatter](https://github.com/WolframResearch/codeformatter), [Linter](https://github.com/WolframResearch/codeinspector)
+
+所以，**如无特殊原因，请不要选择过老版本的 Mathematica！**
+
 ### Mathematica 10.4
 
 > **注意**
@@ -553,20 +542,6 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 [Mathematica 8.0.4 中文版](http://pan.baidu.com/s/1skUb3n3)（MD5：`6aebc6776548f7b6ed134efafdb2af5d`）
 
-### 早期版本
-
-这里再次强调，**如无特殊原因，请不要选择过老的版本！**
-
-1. 较老的 Mathematica 与现代的有许多不兼容之处。
-2. 较老的 Mathematica 往往与现代的计算机不兼容，尤其是 Mac。
-3. 早期 Mathematica 的自带文档非常简略。
-4. 在版本 7 以前，Mathematica 无官方中文版。
-5. 在版本 10 以前，撤销 (Undo) 只有一次。版本 10 开始支持[多重撤销](https://reference.wolfram.com/language/ref/UndoOptions.html)。
-6. [版本 9 的中文帮助搜索能力退化](http://tieba.baidu.com/p/3204136180)。
-7. [绘图和动画等功能在版本 6 有过重大修改](https://note.youdao.com/noteshare?id=0c2719208239696d61182199327bd38c)。
-
-所以，**如无特殊原因，请不要选择过老版本的 Mathematica！**
-
 Mathematica 7.0 中文版[百度网盘](https://pan.baidu.com/s/1VOeMOe15755SaulpTXD4ig) 提取码：`axir` （注意，中文文档需要手动覆盖，不清楚怎么覆盖的就用高版本！）
 
 Mathematica 6.0 英文版（Windows XP 可用）
@@ -593,9 +568,9 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 * [Mathematica Quick Revision History - Wolfram](https://www.wolfram.com/mathematica/quick-revision-history.html)
 * [A little bit of Mathematica history - Nasser M. Abbasi](https://www.12000.org/my_notes/compare_mathematica/index.htm)
 
-## gridMathematica
+## Wolfram gridMathematica
 
-### gridMathematica 13.1.0
+### Wolfram gridMathematica 13.1.0
 
 * 主程序
   * (13.1.0) Windows + Mac + Linux
@@ -604,6 +579,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 ## Wolfram SystemModeler
 
 见 [WSMInstallTutorial](https://tiebamma.github.io/WSMInstallTutorial/)
+
+### Wolfram SystemModeler 13 14
 
 * 主程序
   * (14.0.0) Windows + Mac + Linux
