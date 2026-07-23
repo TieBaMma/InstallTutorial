@@ -206,7 +206,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
-### Mathematica 15.0
+### Mathematica 15.0.1
 
 > **注意**
 >
@@ -218,24 +218,24 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * 主程序
-  * (15.0) Windows
-    * [百度网盘](https://pan.baidu.com/s/1v7egS0nGYwekKb4bXRwlBA?pwd=tptb)
+  * (15.0.1) Windows
+    * [百度网盘](https://pan.baidu.com/s/1nJzyjUMGu--IvaEsXENaxA?pwd=ps67)
 
-  * (15.0) Mac
-    * [百度网盘](https://pan.baidu.com/s/1H82UoeuweZhBOJlnCeBG8w?pwd=behg)
+  * (15.0.1) Mac
+    * [百度网盘](https://pan.baidu.com/s/1uhz2gFSV4rf1Lk70hIIW0g?pwd=du35)
 
-  * (15.0) Linux
-    * [百度网盘](https://pan.baidu.com/s/1Terdru1PUcZzTuG8pY9zfg?pwd=cvhm)
+  * (15.0.1) Linux
+    * [百度网盘](https://pan.baidu.com/s/1ALjsvZI0P88NVLClbloVKg?pwd=1e78)
      
 * 离线文档扩展包
-  * (15.0 中文) Windows
-    * [百度网盘](https://pan.baidu.com/s/1Sz9Ac2qy2E7e0mRNyr5LKg?pwd=4mxt)
+  * (15.0.1 中文) Windows
+    * [百度网盘](https://pan.baidu.com/s/1yZ8TaUJayd2p9RoMeSnYnA?pwd=7vdq)
 
-  * (15.0 中文) Mac
-    * [百度网盘](https://pan.baidu.com/s/1_asjwpvPKR8wKkyY-I7Acg?pwd=68sd)
+  * (15.0.1 中文) Mac
+    * [百度网盘](https://pan.baidu.com/s/1uHm1uBseFKEiN1Tfz94Dag?pwd=na2m)
 
-  * (15.0 中文) Linux
-    * [百度网盘](https://pan.baidu.com/s/1uHHpd_wmlV1kjXq0hBxYxQ?pwd=8gyd)
+  * (15.0.1 中文) Linux
+    * [百度网盘](https://pan.baidu.com/s/1fQl_W4EjGvrtHHhBlrhLRQ?pwd=4zk4)
 
 ### Mathematica 14.3
 
