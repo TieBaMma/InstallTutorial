@@ -228,7 +228,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1ALjsvZI0P88NVLClbloVKg?pwd=1e78)
      
 * 离线文档扩展包
-  * (15.0.1 中文) Windows（解压后双击那个.msi文件安装就行了！）
+  * (15.0.1 中文) Windows（解压后双击那个文件名是M-WIN-Documentation啥啥啥，扩展名是msi的文件，就能安装了！）
     * [百度网盘](https://pan.baidu.com/s/1yZ8TaUJayd2p9RoMeSnYnA?pwd=7vdq)
 
   * (15.0.1 中文) Mac
